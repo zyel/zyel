@@ -199,9 +199,9 @@ Ivory	100	1	1	64	0	50		0	2	308	ac	0	82	128		0	0	0		0	0	0	1	whit	brac	    	    	 
 Pierce I	100	1	1	1	0	5		0	2	309	ease	0	800	1000	pierce	0	5	15		0	0	0			xbow	    	    	    	    	    	    	    	    	    	0	0	0
 Pierce II	100	1	1	5	0	10		0	2	310	ease	0	800	1000	pierce	0	15	25		0	0	0			xbow	    	    	    	    	    	    	    	    	    	0	0	0
 Pierce II	100	1	1	10	0	15		0	2	311	ease	0	800	1000	pierce	0	25	35		0	0	0			xbow	    	    	    	    	    	    	    	    	    	0	0	0
-Crush I	100	1	1	1	0	5		0	2	312	ease	0	800	1000	crush	0	1	5		0	0	0			pole	    	    	    	    	    	    	    	    	    	0	0	0
-Crush II	100	1	1	5	0	10		0	2	313	ease	0	800	1000	crush	0	5	10		0	0	0			pole	    	    	    	    	    	    	    	    	    	0	0	0
-Crush III	100	1	1	10	0	15		0	2	314	ease	0	800	1000	crush	0	10	15		0	0	0			pole	    	    	    	    	    	    	    	    	    	0	0	0
+Crush I	100	1	1	1	0	5		0	2	312	ease	0	800	1000	crush	0	1	5		0	0	0			pole	hamm	    	    	    	    	    	    	    	    	0	0	0
+Crush II	100	1	1	5	0	10		0	2	313	ease	0	800	1000	crush	0	5	10		0	0	0			pole	hamm	    	    	    	    	    	    	    	    	0	0	0
+Crush III	100	1	1	10	0	15		0	2	314	ease	0	800	1000	crush	0	10	15		0	0	0			pole	hamm	    	    	    	    	    	    	    	    	0	0	0
 Wounds I	100	1	1	1	0	5		0	2	315	ease	0	800	1000	openwounds	0	5	15		0	0	0			spea	h2h	h2h2	    	    	    	    	    	    	    	0	0	0
 Wounds II	100	1	1	5	0	10		0	2	316	ease	0	800	1000	openwounds	0	15	25		0	0	0			spea	h2h	h2h2	    	    	    	    	    	    	    	0	0	0
 Wounds III	100	1	1	10	0	15		0	2	317	ease	0	800	1000	openwounds	0	25	35		0	0	0			spea	h2h	h2h2	    	    	    	    	    	    	    	0	0	0
