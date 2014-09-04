@@ -1,0 +1,1419 @@
+Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	Term
+Gold			1					50	gld	30																			0
+Empty			0					50																					0
+Gold 2			1					25	Empty	25	gld	25																	0
+Jewelry A			1	2	25	50	75	30	Empty	15	rin	8	amu	8	jew	8	cm6	5	cm5	4	cm4	3	cm3	2	cm2	1	cm1	1	0
+Jewelry B			1	2	25	50	75	30	Empty	15	rin	8	amu	8	jew	8	cm6	6	cm5	5	cm4	4	cm3	3	cm2	2	cm1	1	0
+Jewelry C			1	2	25	50	75	30	Empty	15	rin	8	amu	8	jew	8	cm6	7	cm5	6	cm4	5	cm3	4	cm2	3	cm1	2	0
+Chipped Gem			1	2	25	50	75	30	Empty	15	gcv	3	gcb	3	gcg	3	gcr	3	gcw	3	gcy	3	skc	2					0
+Flawed Gem			1	2	25	50	75	30	Empty	15	gfv	3	gfb	3	gfg	3	gfr	3	gfw	3	gfy	3	skf	2					0
+Normal Gem			1	2	25	50	75	30	Empty	15	gsv	3	gsb	3	gsg	3	gsr	3	gsw	3	gsy	3	sku	2					0
+Flawless Gem			1	2	25	50	75	30	Empty	15	gzv	3	glb	3	glg	3	glr	3	glw	3	gly	3	skl	2					0
+Perfect Gem			1	2	25	50	75	30	Empty	15	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2					0
+Elite Gem			1	2	25	50	75	0	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2							0
+Ammo			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opl	5	gpl	5	opm	5	gpm	5	key	16					0
+Misc 0			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opl	6	gpl	6	key	20	Ammo	5							0
+Misc 1			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opm	6	gpm	6	key	20	Misc 0	5							0
+Misc 2			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	ops	6	gps	6	key	20	Misc 1	5							0
+Hpotion 1			1					30	Empty	10	Chipped Gem	2	vps	3	yps	3	wms	3	hp1	3	mp1	2							0
+Hpotion 2			1					30	Empty	10	Chipped Gem	2	vps	3	yps	3	wms	3	hp2	3	mp2	2							0
+Hpotion 3			1					30	Empty	10	Flawed Gem	2	vps	4	yps	4	wms	4	hp3	3	mp3	2							0
+Hpotion 4			1					30	Empty	10	Normal Gem	2	vps	4	yps	4	wms	4	hp4	3	mp4	2							0
+Hpotion 5			1					30	Empty	10	Flawless Gem	2	vps	5	yps	5	wms	5	hp5	3	mp5	2							0
+Hpotion 6			1					30	Empty	10	Perfect Gem	2	vps	5	yps	5	wms	5	hp5	3	mp5	2							0
+Potion 1			1					30	Empty	10	Chipped Gem	2	opl	4	gpl	4	key	2	hp1	3	mp1	2							0
+Potion 2			1					30	Empty	10	Chipped Gem	2	opl	4	gpl	4	key	2	hp2	3	mp2	2							0
+Potion 3			1					30	Empty	10	Flawed Gem	2	opm	6	gpm	6	key	3	hp3	3	mp3	2							0
+Potion 4			1					30	Empty	10	Normal Gem	2	opm	6	gpm	6	key	3	hp4	3	mp4	2							0
+Potion 5			1					30	Empty	10	Flawless Gem	2	ops	8	gps	8	key	4	hp5	3	mp5	2							0
+Potion 6			1					30	Empty	10	Perfect Gem	2	ops	8	gps	8	key	4	hp5	3	mp5	2							0
+Runes 1			1					30	Empty	20	r01	10	r02	4	r03	2													0
+Runes 2			1					30	Empty	20	r03	10	r04	4	Runes 1	5													0
+Runes 3			1					30	Empty	20	r05	10	r06	4	Runes 2	10													0
+Runes 4			1					30	Empty	20	r07	10	r08	4	Runes 3	15													0
+Runes 5			1					30	Empty	20	r09	10	r10	4	Runes 4	20													0
+Runes 6			1					30	Empty	20	r11	10	r12	4	Runes 5	25													0
+Runes 7			1					30	Empty	20	r13	10	r14	4	Runes 6	30													0
+Runes 8			1					30	Empty	20	r15	10	r16	4	Runes 7	35													0
+Runes 9			1					30	Empty	20	r17	10	r18	4	Runes 8	40													0
+Runes 10			1					30	Empty	20	r19	10	r20	4	Runes 9	45													0
+Runes 11			1					30	Empty	20	r21	10	r22	4	Runes 10	50													0
+Runes 12			1					30	Empty	20	r23	10	r24	4	Runes 11	55													0
+Runes 13			1					30	Empty	20	r25	10	r26	4	Runes 12	60													0
+Runes 14			1					30	Empty	20	r27	10	r28	4	Runes 13	65													0
+Runes 15			1					30	Empty	20	r29	10	r30	4	Runes 14	70													0
+Runes 16			1					30	Empty	20	r31	10	r32	4	Runes 15	75													0
+Runes 17			1					30	Empty	20	r33	10	Runes 16	80															0
+Hpotion 1 (N)			1					30	Empty	10	Flawed Gem	5	vps	3	yps	3	wms	3	rvs	2									0
+Hpotion 2 (N)			1					30	Empty	10	Flawed Gem	5	vps	3	yps	3	wms	3	rvs	2									0
+Hpotion 3 (N)			1					30	Empty	10	Flawed Gem	5	vps	4	yps	4	wms	4	rvs	3									0
+Hpotion 4 (N)			1					30	Empty	10	Normal Gem	5	vps	4	yps	4	wms	4	rvs	3									0
+Hpotion 5 (N)			1					30	Empty	10	Flawless Gem	5	vps	5	yps	5	wms	5	rvs	4									0
+Hpotion 6 (N)			1					30	Empty	10	Perfect Gem	5	vps	5	yps	5	wms	5	rvs	4									0
+Potion 1 (N)			1					30	Empty	10	Flawed Gem	5	opl	4	gpl	4	key	2	rvs	2									0
+Potion 2 (N)			1					30	Empty	10	Flawed Gem	5	opl	4	gpl	4	key	2	rvs	2									0
+Potion 3 (N)			1					30	Empty	10	Flawed Gem	5	opm	6	gpm	6	key	3	rvs	3									0
+Potion 4 (N)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	3									0
+Potion 5 (N)			1					30	Empty	10	Flawless Gem	5	ops	8	gps	8	key	4	rvs	4									0
+Potion 6 (N)			1					30	Empty	10	Perfect Gem	5	ops	8	gps	8	key	4	rvs	4									0
+Runes 1 (N)			1					30	Empty	20	Flawed Gem	5	Normal Gem	2															0
+Runes 2 (N)			1					30	Empty	20	Flawed Gem	10	Normal Gem	4	Runes 1 (N)	5													0
+Runes 3 (N)			1					30	Empty	20	Normal Gem	10	r06	4	Runes 2 (N)	10													0
+Runes 4 (N)			1					30	Empty	20	r07	10	r08	4	Runes 3 (N)	15													0
+Runes 5 (N)			1					30	Empty	20	r09	10	r10	4	Runes 4 (N)	20													0
+Runes 6 (N)			1					30	Empty	20	r11	10	r12	4	Runes 5 (N)	25													0
+Runes 7 (N)			1					30	Empty	20	r13	10	r14	4	Runes 6 (N)	30													0
+Runes 8 (N)			1					30	Empty	20	r15	10	r16	4	Runes 7 (N)	35													0
+Runes 9 (N)			1					30	Empty	20	r17	10	r18	4	Runes 8 (N)	40													0
+Runes 10 (N)			1					30	Empty	20	r19	10	r20	4	Runes 9 (N)	45													0
+Runes 11 (N)			1					30	Empty	20	r21	10	r22	4	Runes 10 (N)	50													0
+Runes 12 (N)			1					30	Empty	20	r23	10	r24	4	Runes 11 (N)	55													0
+Runes 13 (N)			1					30	Empty	20	r25	10	r26	4	Runes 12 (N)	60													0
+Runes 14 (N)			1					30	Empty	20	r27	10	r28	4	Runes 13 (N)	65													0
+Runes 15 (N)			1					30	Empty	20	r29	10	r30	4	Runes 14 (N)	70													0
+Runes 16 (N)			1					30	Empty	20	r31	10	r32	4	Runes 15 (N)	75													0
+Runes 17 (N)			1					30	Empty	20	r33	10	Runes 16 (N)	80															0
+Hpotion 1 (H)			1					30	Empty	10	Normal Gem	5	vps	3	yps	3	wms	3	rvs	4	rvl	2							0
+Hpotion 2 (H)			1					30	Empty	10	Normal Gem	5	vps	3	yps	3	wms	3	rvs	4	rvl	2							0
+Hpotion 3 (H)			1					30	Empty	10	Normal Gem	5	vps	4	yps	4	wms	4	rvs	6	rvl	3							0
+Hpotion 4 (H)			1					30	Empty	10	Normal Gem	5	vps	4	yps	4	wms	4	rvs	6	rvl	3							0
+Hpotion 5 (H)			1					30	Empty	10	Flawless Gem	5	vps	5	yps	5	wms	5	rvs	8	rvl	4							0
+Hpotion 6 (H)			1					30	Empty	10	Perfect Gem	5	vps	5	yps	5	wms	5	rvs	8	rvl	4							0
+Potion 1 (H)			1					30	Empty	10	Normal Gem	5	opl	4	gpl	4	key	2	rvs	4	rvl	2							0
+Potion 2 (H)			1					30	Empty	10	Normal Gem	5	opl	4	gpl	4	key	2	rvs	4	rvl	2							0
+Potion 3 (H)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	6	rvl	3							0
+Potion 4 (H)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	6	rvl	3							0
+Potion 5 (H)			1					30	Empty	10	Flawless Gem	5	ops	8	gps	8	key	4	rvs	8	rvl	4							0
+Potion 6 (H)			1					30	Empty	10	Perfect Gem	5	ops	8	gps	8	key	4	rvs	8	rvl	4							0
+Runes 1 (H)			1					30	Empty	20	Normal Gem	5	Flawless Gem	2															0
+Runes 2 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 1 (H)	5													0
+Runes 3 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 2 (H)	10													0
+Runes 4 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 3 (H)	15													0
+Runes 5 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 4 (H)	20													0
+Runes 6 (H)			1					30	Empty	20	Flawless Gem	10	r12	4	Runes 5 (H)	25													0
+Runes 7 (H)			1					30	Empty	20	r13	10	r14	4	Runes 6 (H)	30													0
+Runes 8 (H)			1					30	Empty	20	r15	10	r16	4	Runes 7 (H)	35													0
+Runes 9 (H)			1					30	Empty	20	r17	10	r18	4	Runes 8 (H)	40													0
+Runes 10 (H)			1					30	Empty	20	r19	10	r20	4	Runes 9 (H)	45													0
+Runes 11 (H)			1					30	Empty	20	r21	10	r22	4	Runes 10 (H)	50													0
+Runes 12 (H)			1					30	Empty	20	r23	10	r24	4	Runes 11 (H)	55													0
+Runes 13 (H)			1					30	Empty	20	r25	10	r26	4	Runes 12 (H)	60													0
+Runes 14 (H)			1					30	Empty	20	r27	10	r28	4	Runes 13 (H)	65													0
+Runes 15 (H)			1					30	Empty	20	r29	10	r30	4	Runes 14 (H)	70													0
+Runes 16 (H)			1					30	Empty	20	r31	10	r32	4	Runes 15 (H)	75													0
+Runes 17 (H)			1					30	Empty	20	r33	10	Runes 16 (H)	80															0
+Cscroll 1A			1					0	x00	5	x01	5	x02	5	x03	5	x04	5	x05	5	x06	5	x07	5	x08	5	x09	5	0
+Cscroll 2A			1					0	x10	5	x11	5	x12	5	x13	5	x14	5	x15	5	x16	5	x17	5	x18	5	x19	5	0
+Cscroll 3A			1					0	x20	5	x21	5	x22	5	x23	5	x24	5	x25	5	x26	5	x27	5	x28	5	x29	5	0
+Cscroll 4A			1					0	x30	5	x31	5	x32	5	x33	5	x34	5	x35	5	x36	5	x37	5	x38	5	x39	5	0
+Cscroll 5A			1					0	x40	5	x41	5	x42	5	x43	5	x44	5	x45	5	x46	5	x47	5	x48	5	x49	5	0
+Cscroll 6A			1					0	x50	5	x51	5	x52	5	x53	5	x54	5	x55	5	x56	5	x57	5	x58	5	x59	5	0
+Cscroll 7A			1					0	x60	5	x61	5	x62	5	x63	5	x64	5	x65	5	x66	5	x67	5	x68	5	x69	5	0
+Cscroll 8A			1					0	x70	5	x71	5	x72	5	x73	5	x74	5	x75	5	x76	5	x77	5	x78	5	x79	5	0
+Cscroll 9A			1					0	x80	5	x81	5	x82	5	x83	5	x84	5	x85	5	x86	5	x87	5	x88	5	x89	5	0
+Cscroll 10A			1					0	x90	5	x91	5	x92	5	x93	5	x94	5	x95	5	x96	5	x97	5	x98	5	x99	5	0
+Cscroll A			1					0	Cscroll 1A	5	Cscroll 2A	5	Cscroll 3A	5	Cscroll 4A	5	Cscroll 5A	5	Cscroll 6A	5	Cscroll 7A	5	Cscroll 8A	5	Cscroll 9A	5	Cscroll 10A	5	0
+Cscroll 1B			1					0	w00	5	w01	5	w02	5	w03	5	w04	5	w05	5	w06	5	w07	5	w08	5	w09	5	0
+Cscroll 2B			1					0	w10	5	w11	5	w12	5	w13	5	w14	5	w15	5	w16	5	w17	5	w18	5	w19	5	0
+Cscroll 3B			1					0	w20	5	w21	5	w22	5	w23	5	w24	5	w25	5	w26	5	w27	5	w28	5	w29	5	0
+Cscroll 4B			1					0	w30	5	w31	5	w32	5	w33	5	w34	5	w35	5	w36	5	w37	5	w38	5	w39	5	0
+Cscroll 5B			1					0	w40	5	w41	5	w42	5	w43	5	w44	5	w45	5	w46	5	w47	5	w48	5	w49	5	0
+Cscroll 6B			1					0	w50	5	w51	5	w52	5	w53	5	w54	5	w55	5	w56	5	w57	5	w58	5	w59	5	0
+Cscroll 7B			1					0	w60	5	w61	5	w62	5	w63	5	w64	5	w65	5	w66	5	w67	5	w68	5	w69	5	0
+Cscroll 8B			1					0	w70	5	w71	5	w72	5	w73	5	w74	5	w75	5	w76	5	w77	5	w78	5	w79	5	0
+Cscroll 9B			1					0	w80	5	w81	5	w82	5	w83	5	w84	5	w85	5	w86	5	w87	5	w88	5	w89	5	0
+Cscroll 10B			1					0	w90	5	w91	5	w92	5	w93	5	w94	5	w95	5	w96	5	w97	5	w98	5	w99	5	0
+Cscroll B			1					0	Cscroll 1B	5	Cscroll 2B	5	Cscroll 3B	5	Cscroll 4B	5	Cscroll 5B	5	Cscroll 6B	5	Cscroll 7B	5	Cscroll 8B	5	Cscroll 9B	5	Cscroll 10B	5	0
+Cscroll 1C			1					0	s00	5	s01	5	s02	5	s03	5	s04	5	s05	5	s06	5	s07	5	s08	5	s09	5	0
+Cscroll 2C			1					0	s10	5	s11	5	s12	5	s13	5	s14	5	s15	5	s16	5	s17	5	s18	5	s19	5	0
+Cscroll 3C			1					0	s20	5	s21	5	s22	5	s23	5	s24	5	s25	5	s26	5	s27	5	s28	5	s29	5	0
+Cscroll 4C			1					0	s30	5	s31	5	s32	5	s33	5	s34	5	s35	5	s36	5	s37	5	s38	5	s39	5	0
+Cscroll 5C			1					0	s40	5	s41	5	s42	5	s43	5	s44	5	s45	5	s46	5	s47	5	s48	5	s49	5	0
+Cscroll 6C			1					0	s50	5	s51	5	s52	5	s53	5	s54	5	s55	5	s56	5	s57	5	s58	5	s59	5	0
+Cscroll 7C			1					0	s60	5	s61	5	s62	5	s63	5	s64	5	s65	5	s66	5	s67	5	s68	5	s69	5	0
+Cscroll 8C			1					0	s70	5	s71	5	s72	5	s73	5	s74	5	s75	5	s76	5	s77	5	s78	5	s79	5	0
+Cscroll 9C			1					0	s80	5	s81	5	s82	5	s83	5	s84	5	s85	5	s86	5	s87	5	s88	5	s89	5	0
+Cscroll 10C			1					0	s90	5	s91	5	s92	5	s93	5	s94	5	s95	5	s96	5	s97	5	s98	5	s99	5	0
+Cscroll C			1					0	Cscroll 1C	5	Cscroll 2C	5	Cscroll 3C	5	Cscroll 4C	5	Cscroll 5C	5	Cscroll 6C	5	Cscroll 7C	5	Cscroll 8C	5	Cscroll 9C	5	Cscroll 10C	5	0
+Cscroll 1D			1					0	X00	5	X01	5	X02	5	X03	5	X04	5	X05	5	X06	5	X07	5	X08	5	X09	5	0
+Cscroll 2D			1					0	X10	5	X11	5	X12	5	X13	5	X14	5	X15	5	X16	5	X17	5	X18	5	X19	5	0
+Cscroll 3D			1					0	X20	5	X21	5	X22	5	X23	5	X24	5	X25	5	X26	5	X27	5	X28	5	X29	5	0
+Cscroll 4D			1					0	X30	5	X31	5	X32	5	X33	5	X34	5	X35	5	X36	5	X37	5	X38	5	X39	5	0
+Cscroll 5D			1					0	X40	5	X41	5	X42	5	X43	5	X44	5	X45	5	X46	5	X47	5	X48	5	X49	5	0
+Cscroll 6D			1					0	X50	5	X51	5	X52	5	X53	5	X54	5	X55	5	X56	5	X57	5	X58	5	X59	5	0
+Cscroll 7D			1					0	X60	5	X61	5	X62	5	X63	5	X64	5	X65	5	X66	5	X67	5	X68	5	X69	5	0
+Cscroll 8D			1					0	X70	5	X71	5	X72	5	X73	5	X74	5	X75	5	X76	5	X77	5	X78	5	X79	5	0
+Cscroll 9D			1					0	X80	5	X81	5	X82	5	X83	5	X84	5	X85	5	X86	5	X87	5	X88	5	X89	5	0
+Cscroll 10D			1					0	X90	5	X91	5	X92	5	X93	5	X94	5	X95	5	X96	5	X97	5	X98	5	X99	5	0
+Cscroll D			1					0	Cscroll 1D	5	Cscroll 2D	5	Cscroll 3D	5	Cscroll 4D	5	Cscroll 5D	5	Cscroll 6D	5	Cscroll 7D	5	Cscroll 8D	5	Cscroll 9D	5	Cscroll 10D	5	0
+Cscroll 1E			1					0	W00	5	W01	5	W02	5	W03	5	W04	5	W05	5	W06	5	W07	5	W08	5	W09	5	0
+Cscroll 2E			1					0	W10	5	W11	5	W12	5	W13	5	W14	5	W15	5	W16	5	W17	5	W18	5	W19	5	0
+Cscroll 3E			1					0	W20	5	W21	5	W22	5	W23	5	W24	5	W25	5	W26	5	W27	5	W28	5	W29	5	0
+Cscroll 4E			1					0	W30	5	W31	5	W32	5	W33	5	W34	5	W35	5	W36	5	W37	5	W38	5	W39	5	0
+Cscroll 5E			1					0	W40	5	W41	5	W42	5	W43	5	W44	5	W45	5	W46	5	W47	5	W48	5	W49	5	0
+Cscroll 6E			1					0	W50	5	W51	5	W52	5	W53	5	W54	5	W55	5	W56	5	W57	5	W58	5	W59	5	0
+Cscroll 7E			1					0	W60	5	W61	5	W62	5	W63	5	W64	5	W65	5	W66	5	W67	5	W68	5	W69	5	0
+Cscroll 8E			1					0	W70	5	W71	5	W72	5	W73	5	W74	5	W75	5	W76	5	W77	5	W78	5	W79	5	0
+Cscroll 9E			1					0	W80	5	W81	5	W82	5	W83	5	W84	5	W85	5	W86	5	W87	5	W88	5	W89	5	0
+Cscroll 10E			1					0	W90	5	W91	5	W92	5	W93	5	W94	5	W95	5	W96	5	W97	5	W98	5	W99	5	0
+Cscroll E			1					0	Cscroll 1E	5	Cscroll 2E	5	Cscroll 3E	5	Cscroll 4E	5	Cscroll 5E	5	Cscroll 6E	5	Cscroll 7E	5	Cscroll 8E	5	Cscroll 9E	5	Cscroll 10E	5	0
+Cscroll Main			1					65	Empty	15	Cscroll A	4	Cscroll B	4	Cscroll C	4	Cscroll D	4	Cscroll E	4									0
+Mscroll 1A			1					0	y00	5	y01	5	y02	5	y03	5	y04	5	y05	5	y06	5	y07	5	y08	5	y09	5	0
+Mscroll 2A			1					0	y10	5	y11	5	y12	5	y13	5	y14	5	y15	5	y16	5	y17	5	y18	5	y19	5	0
+Mscroll 3A			1					0	y20	5	y21	5	y22	5	y23	5	y24	5	y25	5	y26	5	y27	5	y28	5	y29	5	0
+Mscroll 4A			1					0	y30	5	y31	5	y32	5	y33	5	y34	5	y35	5	y36	5	y37	5	y38	5	y39	5	0
+Mscroll 5A			1					0	y40	5	y41	5	y42	5	y43	5	y44	5	y45	5	y46	5	y47	5	y48	5	y49	5	0
+Mscroll 6A			1					0	y50	5	y51	5	y52	5	y53	5	y54	5	y55	5	y56	5	y57	5	y58	5	y59	5	0
+Mscroll 7A			1					0	y60	5	y61	5	y62	5	y63	5	y64	5	y65	5	y66	5	y67	5	y68	5	y69	2	0
+Mscroll 8A			1					0	y70	5	y71	5	y72	5	y73	5	y74	5	y75	5	y76	5	y77	5	y78	5	y79	2	0
+Mscroll 9A			1					0	y80	5	y81	5	y82	5	y83	5	y84	5	y85	5	y86	5	y87	5	y88	5	y89	5	0
+Mscroll 10A			1					0	y90	5	y91	5	y92	5	y93	5	y94	5	y95	5	y96	5	y97	5	y98	5	y99	5	0
+Mscroll A			1					0	Mscroll 1A	10	Mscroll 2A	10	Mscroll 3A	10	Mscroll 4A	10	Mscroll 5A	10	Mscroll 6A	10	Mscroll 7A	1	Mscroll 8A	1	Mscroll 9A	2	Mscroll 10A	10	0
+Mscroll 1B			1					0	v00	5	v01	5	v02	5	v03	5	v04	5	v05	5	v06	5	v07	5	v08	5	v09	5	0
+Mscroll 2B			1					0	v10	5	v11	5	v12	5	v13	5	v14	5	v15	5	v16	5	v17	5	v18	5	v19	5	0
+Mscroll 3B			1					0	v20	5	v21	5	v22	5	v23	5	v24	5	v25	5	v26	5	v27	5	v28	5	v29	5	0
+Mscroll 4B			1					0	v30	5	v31	5	v32	5	v33	5	v34	5	v35	5	v36	5	v37	5	v38	5	v39	5	0
+Mscroll 5B			1					0	v40	5	v41	5	v42	5	v43	5	v44	5	v45	5	v46	5	v47	5	v48	5	v49	5	0
+Mscroll 6B			1					0	v50	5	v51	5	v52	5	v53	5	v54	5	v55	5	v56	5	v57	5	v58	5	v59	5	0
+Mscroll 7B			1					0	v60	5	v61	5	v62	5	v63	5	v64	5	v65	5	v66	5	v67	5	v68	5	v69	5	0
+Mscroll 8B			1					0	v70	5	v71	5	v72	5	v73	5	v74	5	v75	5	v76	5	v77	5	v78	5	v79	5	0
+Mscroll 9B			1					0	v80	5	v81	5	v82	5	v83	5	v84	5	v85	5	v86	5	v87	5	v88	5	v89	5	0
+Mscroll 10B			1					0	v90	5	v91	5	v92	5	v93	5	v94	5	v95	5	v96	5	v97	5	v98	5	v99	5	0
+Mscroll B			1					0	Mscroll 1B	5	Mscroll 2B	5	Mscroll 3B	5	Mscroll 4B	5	Mscroll 5B	5	Mscroll 6B	5	Mscroll 7B	5	Mscroll 8B	5	Mscroll 9B	5	Mscroll 10B	5	0
+Mscroll 1C			1					0	u00	5	u01	5	u02	5	u03	5	u04	5	u05	5	u06	5	u07	5	u08	5	u09	5	0
+Mscroll 2C			1					0	u10	5	u11	5	u12	5	u13	5	u14	5	u15	5	u16	5	u17	5	u18	5	u19	5	0
+Mscroll 3C			1					0	v20	5	u21	5	u22	5	u23	5	u24	5	u25	5	u26	5	u27	5	u28	5	u29	5	0
+Mscroll 4C			1					0	v30	5	u31	5	u32	5	u33	5	u34	5	u35	5	u36	5	u37	5	u38	5	u39	5	0
+Mscroll 5C			1					0	v40	5	u41	5	u42	5	u43	5	u44	5	u45	5	u46	5	u47	5	u48	5	u49	5	0
+Mscroll 6C			1					0	v50	5	u51	5	u52	5	u53	5	u54	5	u55	5	u56	5	u57	5	u58	5	u59	5	0
+Mscroll 7C			1					0	v60	5	u61	5	u62	5	u63	5	u64	5	u65	5	u66	5	u67	5	u68	5	u69	5	0
+Mscroll 8C			1					0	v70	5	u71	5	u72	5	u73	5	u74	5	u75	5	u76	5	u77	5	u78	5	u79	5	0
+Mscroll 9C			1					0	v80	5	u81	5	u82	5	u83	5	u84	5	u85	5	u86	5	u87	5	u88	5	u89	5	0
+Mscroll 10C			1					0	v90	5	u91	5	u92	5	u93	5	u94	5	u95	5	u96	5	u97	5	u98	5	u99	5	0
+Mscroll C			1					0	Mscroll 1C	5	Mscroll 2C	5	Mscroll 3C	5	Mscroll 4C	5	Mscroll 5C	5	Mscroll 6C	5	Mscroll 7C	5	Mscroll 8C	5	Mscroll 9C	5	Mscroll 10C	5	0
+Mscroll 1D			1					0	Y00	5	Y01	5	Y02	5	Y03	5	Y04	5	Y05	5	Y06	5	Y07	5	Y08	5	Y09	5	0
+Mscroll 2D			1					0	Y10	5	Y11	5	Y12	5	Y13	5	Y14	5	Y15	5	Y16	5	Y17	5	Y18	5	Y19	5	0
+Mscroll 3D			1					0	Y20	5	Y21	5	Y22	5	Y23	5	Y24	5	Y25	5	Y26	5	Y27	5	Y28	5	Y29	5	0
+Mscroll 4D			1					0	Y30	5	Y31	5	Y32	5	Y33	5	Y34	5	Y35	5	Y36	5	Y37	5	Y38	5	Y39	5	0
+Mscroll 5D			1					0	Y40	5	Y41	5	Y42	5	Y43	5	Y44	5	Y45	5	Y46	5	Y47	5	Y48	5	Y49	5	0
+Mscroll 6D			1					0	Y50	5	Y51	5	Y52	5	Y53	5	Y54	5	Y55	5	Y56	5	Y57	5	Y58	5	Y59	5	0
+Mscroll 7D			1					0	Y60	2	Y61	2	Y62	2	Y63	2	Y64	2	Y65	2	Y66	2	Y67	2	Y68	2	Y69	2	0
+Mscroll 8D			1					0	Y70	2	Y71	2	Y72	2	Y73	2	Y74	2	Y75	2	Y76	2	Y77	2	Y78	2	Y79	2	0
+Mscroll 9D			1					0	Y80	2	Y81	2	Y82	2	Y83	2	Y84	2	Y85	2	Y86	2	Y87	5	Y88	5	Y89	5	0
+Mscroll 10D			1					0	Y90	5	Y91	5	Y92	5	Y93	5	Y94	5	Y95	5	Y96	5	Y97	5	Y98	5	Y99	5	0
+Mscroll D			1					0	Mscroll 1D	5	Mscroll 2D	5	Mscroll 3D	5	Mscroll 4D	5	Mscroll 5D	5	Mscroll 6D	5	Mscroll 7D	2	Mscroll 8D	2	Mscroll 9D	3	Mscroll 10D	5	0
+Mscroll 1E			1					0	V00	5	V01	5	V02	5	V03	5	V04	5	V05	5	V06	5	V07	5	V08	5	V09	5	0
+Mscroll 2E			1					0	V10	5	V11	5	V12	5	V13	5	V14	5	V15	5	V16	5	V17	5	V18	5	V19	5	0
+Mscroll 3E			1					0	V20	5	V21	5	V22	5	V23	5	V24	5	V25	5	V26	5	V27	5	V28	5	V29	5	0
+Mscroll 4E			1					0	V30	5	V31	5	V32	5	V33	5	V34	5	V35	5	V36	5	V37	5	V38	5	V39	5	0
+Mscroll 5E			1					0	V40	5	V41	5	V42	5	V43	5	V44	5	V45	5	V46	5	V47	5	V48	5	V49	5	0
+Mscroll 6E			1					0	V50	5	V51	5	V52	5	V53	5	V54	5	V55	5	V56	5	V57	5	V58	5	V59	5	0
+Mscroll 7E			1					0	V60	2	V61	2	V62	2	V63	2	V64	2	V65	2	V66	2	V67	2	V68	2	V69	2	0
+Mscroll 8E			1					0	V70	2	V71	2	V72	2	V73	2	V74	2	V75	2	V76	2	V77	2	V78	2	V79	2	0
+Mscroll 9E			1					0	V80	2	V81	2	V82	2	V83	2	V84	2	V85	2	V86	2	V87	5	V88	5	V89	5	0
+Mscroll 10E			1					0	V90	5	V91	5	V92	5	V93	5	V94	5	V95	5	V96	5	V97	5	V98	5	V99	5	0
+Mscroll E			1					0	Mscroll 1E	5	Mscroll 2E	5	Mscroll 3E	5	Mscroll 4E	5	Mscroll 5E	5	Mscroll 6E	5	Mscroll 7E	2	Mscroll 8E	2	Mscroll 9E	3	Mscroll 10E	5	0
+Mscroll Main			1					80	Empty	20	Mscroll A	4	Mscroll B	4	Mscroll C	4	Mscroll D	4	Mscroll E	4									0
+Lscroll 1A			1					0	z00	5	z01	5	z02	5	z03	5	z04	5	z05	5	z06	5	z07	5	z08	5	z09	5	0
+Lscroll 2A			1					0	z10	5	z11	5	z12	5	z13	5	z14	5	z15	5	z16	5	z17	5	z18	5	z19	5	0
+Lscroll 3A			1					0	z20	5	z21	5	z22	5	z23	5	z24	5	z25	5	z26	5	z27	5	z28	5	z29	5	0
+Lscroll 4A			1					0	z30	5	z31	5	z32	5	z33	5	z34	5	z35	5	z36	5	z37	5	z38	5	z39	5	0
+Lscroll 5A			1					0	z40	5	z41	5	z42	5	z43	5	z44	5	z45	5	z46	5	z47	5	z48	5	z49	5	0
+Lscroll 6A			1					0	z50	5	z51	5	z52	5	z53	5	z54	5	z55	5	z56	5	z57	5	z58	5	z59	5	0
+Lscroll 7A			1					0	z60	5	z61	5	z62	5	z63	5	z64	5	z65	5	z66	5	z67	5	z68	5	z69	5	0
+Lscroll 8A			1					0	z70	5	z71	5	z72	5	z73	5	z74	5	z75	5	z76	5	z77	5	z78	5	z79	5	0
+Lscroll 9A			1					0	z80	5	z81	5	z82	5	z83	5	z84	5	z85	5	z86	5	z87	5	z88	5	z89	5	0
+Lscroll 10A			1					0	z90	5	z91	5	z92	5	z93	5	z94	5	z95	5	z96	5	z97	5	z98	5	z99	5	0
+Lscroll A			1					0	Lscroll 1A	5	Lscroll 2A	5	Lscroll 3A	5	Lscroll 4A	5	Lscroll 5A	5	Lscroll 6A	5	Lscroll 7A	5	Lscroll 8A	5	Lscroll 9A	5	Lscroll 10A	5	0
+Lscroll 1B			1					0	z00	5	t01	5	t02	5	t03	5	t04	5	t05	5	t06	5	t07	5	t08	5	t09	5	0
+Lscroll 2B			1					0	z10	5	t11	5	t12	5	t13	5	t14	5	t15	5	t16	5	t17	5	t18	5	t19	5	0
+Lscroll 3B			1					0	z20	5	t21	5	t22	5	t23	5	t24	5	t25	5	t26	5	t27	5	t28	5	t29	5	0
+Lscroll 4B			1					0	z30	5	t31	5	t32	5	t33	5	t34	5	t35	5	t36	5	t37	5	t38	5	t39	5	0
+Lscroll 5B			1					0	z40	5	t41	5	t42	5	t43	5	t44	5	t45	5	t46	5	t47	5	t48	5	t49	5	0
+Lscroll 6B			1					0	z50	5	t51	5	t52	5	t53	5	t54	5	t55	5	t56	5	t57	5	t58	5	t59	5	0
+Lscroll 7B			1					0	z60	5	t61	5	t62	5	t63	5	t64	5	t65	5	t66	5	t67	5	t68	5	t69	5	0
+Lscroll 8B			1					0	z70	5	t71	5	t72	5	t73	5	t74	5	t75	5	t76	5	t77	5	t78	5	t79	5	0
+Lscroll 9B			1					0	z80	5	t81	5	t82	5	t83	5	t84	5	t85	5	t86	5	t87	5	t88	5	t89	5	0
+Lscroll 10B			1					0	z90	5	t91	5	t92	5	t93	5	t94	5	t95	5	t96	5	t97	5	t98	5	t99	5	0
+Lscroll B			1					0	Lscroll 1B	5	Lscroll 2B	5	Lscroll 3B	5	Lscroll 4B	5	Lscroll 5B	5	Lscroll 6B	5	Lscroll 7B	5	Lscroll 8B	5	Lscroll 9B	5	Lscroll 10B	5	0
+Lscroll 1C			1					0	o00	5	o01	5	o02	5	o03	5	o04	5	o05	5	o06	5	o07	5	o08	5	o09	5	0
+Lscroll 2C			1					0	o10	5	o11	5	o12	5	o13	5	o14	5	o15	5	o16	5	o17	5	o18	5	o19	5	0
+Lscroll 3C			1					0	o20	5	o21	5	o22	5	o23	5	o24	5	o25	5	o26	5	o27	5	o28	5	o29	5	0
+Lscroll 4C			1					0	o30	5	o31	5	o32	5	o33	5	o34	5	o35	5	o36	5	o37	5	o38	5	o39	5	0
+Lscroll 5C			1					0	o40	5	o41	5	o42	5	o43	5	o44	5	o45	5	o46	5	o47	5	o48	5	o49	5	0
+Lscroll 6C			1					0	o50	5	o51	5	o52	5	o53	5	o54	5	o55	5	o56	5	o57	5	o58	5	o59	5	0
+Lscroll 7C			1					0	o60	5	o61	5	o62	5	o63	5	o64	5	o65	5	o66	5	o67	5	o68	5	o69	5	0
+Lscroll 8C			1					0	o70	5	o71	5	o72	5	o73	5	o74	5	o75	5	o76	5	o77	5	o78	5	o79	5	0
+Lscroll 9C			1					0	o80	5	o81	5	o82	5	o83	5	o84	5	o85	5	o86	5	o87	5	o88	5	o89	5	0
+Lscroll 10C			1					0	o90	5	o91	5	o92	5	o93	5	o94	5	o95	5	o96	5	o97	5	o98	5	o99	5	0
+Lscroll C			1					0	Lscroll 1C	5	Lscroll 2C	5	Lscroll 3C	5	Lscroll 4C	5	Lscroll 5C	5	Lscroll 6C	5	Lscroll 7C	5	Lscroll 8C	5	Lscroll 9C	5	Lscroll 10C	5	0
+Lscroll 1D			1					0	Z00	5	Z01	5	Z02	5	Z03	5	Z04	5	Z05	5	Z06	5	Z07	5	Z08	5	Z09	5	0
+Lscroll 2D			1					0	Z10	5	Z11	5	Z12	5	Z13	5	Z14	5	Z15	5	Z16	5	Z17	5	Z18	5	Z19	5	0
+Lscroll 3D			1					0	Z20	5	Z21	5	Z22	5	Z23	5	Z24	5	Z25	5	Z26	5	Z27	5	Z28	5	Z29	5	0
+Lscroll 4D			1					0	Z30	5	Z31	5	Z32	5	Z33	5	Z34	5	Z35	5	Z36	5	Z37	5	Z38	5	Z39	5	0
+Lscroll 5D			1					0	Z40	5	Z41	5	Z42	5	Z43	5	Z44	5	Z45	5	Z46	5	Z47	5	Z48	5	Z49	5	0
+Lscroll 6D			1					0	Z50	5	Z51	5	Z52	5	Z53	5	Z54	5	Z55	5	Z56	5	Z57	5	Z58	5	Z59	5	0
+Lscroll 7D			1					0	Z60	5	Z61	5	Z62	5	Z63	5	Z64	5	Z65	5	Z66	5	Z67	5	Z68	5	Z69	5	0
+Lscroll 8D			1					0	Z70	5	Z71	5	Z72	5	Z73	5	Z74	5	Z75	5	Z76	5	Z77	5	Z78	5	Z79	5	0
+Lscroll 9D			1					0	Z80	5	Z81	5	Z82	5	Z83	5	Z84	5	Z85	5	Z86	5	Z87	5	Z88	5	Z89	5	0
+Lscroll 10D			1					0	Z90	5	Z91	5	Z92	5	Z93	5	Z94	5	Z95	5	Z96	5	Z97	5	Z98	5	Z99	5	0
+Lscroll D			1					0	Lscroll 1D	5	Lscroll 2D	5	Lscroll 3D	5	Lscroll 4D	5	Lscroll 5D	5	Lscroll 6D	5	Lscroll 7D	5	Lscroll 8D	5	Lscroll 9D	5	Lscroll 10D	5	0
+Lscroll 1E			1					0	O00	5	O01	5	O02	5	O03	5	O04	5	O05	5	O06	5	O07	5	O08	5	O09	5	0
+Lscroll 2E			1					0	O10	5	O11	5	O12	5	O13	5	O14	5	O15	5	O16	5	O17	5	O18	5	O19	5	0
+Lscroll 3E			1					0	O20	5	O21	5	O22	5	O23	5	O24	5	O25	5	O26	5	O27	5	O28	5	O29	5	0
+Lscroll 4E			1					0	O30	5	O31	5	O32	5	O33	5	O34	5	O35	5	O36	5	O37	5	O38	5	O39	5	0
+Lscroll 5E			1					0	O40	5	O41	5	O42	5	O43	5	O44	5	O45	5	O46	5	O47	5	O48	5	O49	5	0
+Lscroll 6E			1					0	O50	5	O51	5	O52	5	O53	5	O54	5	O55	5	O56	5	O57	5	O58	5	O59	5	0
+Lscroll 7E			1					0	O60	5	O61	5	O62	5	O63	5	O64	5	O65	5	O66	5	O67	5	O68	5	O69	5	0
+Lscroll 8E			1					0	O70	5	O71	5	O72	5	O73	5	O74	5	O75	5	O76	5	O77	5	O78	5	O79	5	0
+Lscroll 9E			1					0	O80	5	O81	5	O82	5	O83	5	O84	5	O85	5	O86	5	O87	5	O88	5	O89	5	0
+Lscroll 10E			1					0	O90	5	O91	5	O92	5	O93	5	O94	5	O95	5	O96	5	O97	5	O98	5	O99	5	0
+Lscroll E			1					0	Lscroll 1E	5	Lscroll 2E	5	Lscroll 3E	5	Lscroll 4E	5	Lscroll 5E	5	Lscroll 6E	5	Lscroll 7E	5	Lscroll 8E	5	Lscroll 9E	5	Lscroll 10E	5	0
+Lscroll Main			1					120	Empty	30	Lscroll A	4	Lscroll B	4	Lscroll C	4	Lscroll D	4	Lscroll E	4									0
+Dbox 1			1					0	p00	5	p01	5	p02	5	p03	5	p04	5	p05	5	p06	5	p07	5	p08	5	p09	5	0
+Dbox 2			1					0	p10	5	p11	5	p12	5	p13	5	p14	5	p15	5	p16	5	p17	5	p18	5	p19	5	0
+Dbox 3			1					0	p20	5	p21	5	p22	5	p23	5	p24	5	p25	5	p26	5	p27	5	p28	5	p29	5	0
+Dbox 4			1					0	p30	5	p31	5	p32	5	p33	5	p34	5	p35	5	p36	5	p37	5	p38	5	p39	5	0
+Dbox 5			1					0	p40	5	p41	5	p42	5	p43	5	p44	5	p45	5	p46	5	p47	5	p48	5	p49	5	0
+Dbox 6			1					0	p50	5	p51	5	p52	5	p53	5	p54	5	p55	5	p56	5	p57	5	p58	5	p59	5	0
+Dbox 7			1					0	p60	5	p61	5	p62	5	p63	5	p64	5	p65	5	p66	5	p67	5	p68	5	p69	5	0
+Dbox 8			1					0	p70	5	p71	5	p72	5	p73	5	p74	5	p75	5	p76	5	p77	5	p78	5	p79	5	0
+Dbox 9			1					0	p80	5	p81	5	p82	5	p83	5	p84	5	p85	5	p86	5	p87	5	p88	5	p89	5	0
+Dbox 10			1					0	p90	5	p91	5	p92	5	p93	5	p94	5	p95	5	p96	5	p97	5	p98	5	p99	5	0
+Dbox 11			1					0	P00	5	P01	5	P02	5	P03	5	P04	5	P05	5	P06	5	P07	5	P08	5	P09	5	0
+Dbox 12			1					0	P10	5	P11	5	P12	5	P13	5	P14	5	P15	5	P16	5	P17	5	P18	5	P19	5	0
+Dbox 13			1					0	P20	5	P21	5	P22	5	P23	5	P24	5	P25	5	P26	5	P27	5	P28	5	P29	5	0
+Dbox 14			1					0	P30	5	P31	5	P32	5	P33	5	P34	5	P35	5	P36	5	P37	5	P38	5	P39	5	0
+Dbox 15			1					0	P40	5	P41	5	P42	5	P43	5	P44	5	P45	5	P46	5	P47	5	P48	5	P49	5	0
+Dbox 16			1					0	P50	5	P51	5	P52	5	P53	5	P54	5	P55	5	P56	5	P57	5	P58	5	P59	5	0
+Dbox 17			1					0	P60	5	P61	5	P62	5	P63	5	P64	5	P65	5	P66	5	P67	5	P68	5	P69	5	0
+Dbox 18			1					0	P70	5	P71	5	P72	5	P73	5	P74	5	P75	5	P76	5	P77	5	P78	5	P79	5	0
+Dbox 19			1					0	P80	5	P81	5	P82	5	P83	5	P84	5	P85	5	P86	5	P87	5	P88	5	P89	5	0
+Dbox 20			1					0	P90	5	P91	5	P92	5	P93	5	P94	5	P95	5	P96	5	P97	5	P98	5	P99	5	0
+Dbox 21			1					0	R00	5	R01	5	R02	5	R03	5	R04	5	R05	5	R06	5	R07	5	R08	5	R09	5	0
+Dbox 22			1					0	R10	5	R11	5	R12	5	R13	5	R14	5	R15	5	R16	5	R17	5	R18	5	R19	5	0
+Dbox 23			1					0	R20	5	R21	5	R22	5	R23	5	R24	5	R25	5	R26	5	R27	5	R28	5	R29	5	0
+Dbox 24			1					0	R30	5	R31	5	R32	5	R33	5	R34	5	R35	5	R36	5	R37	5	R38	5	R39	5	0
+Dbox 25			1					0	R40	5	R41	5	R42	5	R43	5	R44	5	R45	5	R46	5	R47	5	R48	5	R49	5	0
+Dbox 26			1					0	R50	5	R51	5	R52	5	R53	5	R54	5	R55	5	R56	5	R57	5	R58	5	R59	5	0
+Dbox 27			1					0	R60	5	R61	5	R62	5	R63	5	R64	5	R65	5	R66	5	R67	5	R68	5	R69	5	0
+Dbox 28			1					0	R70	5	R71	5	R72	5	R73	5	R74	5	R75	5	R76	5	R77	5	R78	5	R79	5	0
+Dbox 29			1					0	R80	5	R81	5	R82	5	R83	5	R84	5	R85	5	R86	5	R87	5	R88	5	R89	5	0
+Dbox 30			1					0	R90	5	R91	5	R92	5	R93	5	R94	5	R95	5	R96	5	R97	5	R98	5	R99	5	0
+Dbox 31			1					0	N00	5	N01	5	N02	5	N03	5	N04	5	N05	5	N06	5	N07	5	N08	5	N09	5	0
+Dbox 32			1					0	N10	5	N11	5	N12	5	N13	5	N14	5	N15	5	N16	5	N17	5	N18	5	N19	5	0
+Dbox 33			1					0	N20	5	N21	5	N22	5	N23	5	N24	5	N25	5	N26	5	N27	5	N28	5	N29	5	0
+Dbox 34			1					0	N30	5	N31	5	N32	5	N33	5	N34	5	N35	5	N36	5	N37	5	N38	5	N39	5	0
+Dbox 35			1					0	N40	5	N41	5	N42	5	N43	5	N44	5	N45	5	N46	5	N47	5	N48	5	N49	5	0
+Dbox 36			1					0	N50	5	N51	5	N52	5	N53	5	N54	5	N55	5	N56	5	N57	5	N58	5	N59	5	0
+Dbox 37			1					0	N60	5	N61	5	N62	5	N63	5	N64	5	N65	5	N66	5	N67	5	N68	5	N69	5	0
+Dbox 38			1					0	N70	5	N71	5	N72	5	N73	5	N74	5	N75	5	N76	5	N77	5	N78	5	N79	5	0
+Dbox 39			1					0	N80	5	N81	5	N82	5	N83	5	N84	5	N85	5	N86	5	N87	5	N88	5	N89	5	0
+Dbox 40			1					0	N90	5	N91	5	N92	5	N93	5	N94	5	N95	5	N96	5	N97	5	N98	5	N99	5	0
+Dbox 41			1					0	aA1	5	aA2	5	aA3	5	aA4	5	aA5	5	aA6	5	aA7	5	aA8	5	aA9	5	aA0	5	0
+Dbox 42			1					0	aB1	5	aB2	5	aB3	5	aB4	5	aB5	5	aB6	5	aB7	5	aB8	5	aB9	5	aB0	5	0
+Dbox 43			1					0	aC1	5	aC2	5	aC3	5	aC4	5	aC5	5	aC6	5	aC7	5	aC8	5	aC9	5	aC0	5	0
+Dbox 44			1					0	aD1	5	aD2	5	aD3	5	aD4	5	aD5	5	aD6	5	aD7	5	aD8	5	aD9	5	aD0	5	0
+Dbox 45			1					0	aE1	5	aE2	5	aE3	5	aE4	5	aE5	5	aE6	5	aE7	5	aE8	5	aE9	5	aE0	5	0
+Dbox 46			1					0	aF1	5	aF2	5	aF3	5	aF4	5	aF5	5	aF6	5	aF7	5	aF8	5	aF9	5	aF0	5	0
+Dbox 47			1					0	aG1	5	aG2	5	aG3	5	aG4	5	aG5	5	aG6	5	aG7	5	aG8	5	aG9	5	aG0	5	0
+Dbox 48			1					0	aH1	5	aH2	5	aH3	5	aH4	5	aH5	5	aH6	5	aH7	5	aH8	5	aH9	5	aH0	5	0
+Dbox 49			1					0	aI1	5	aI2	5	aI3	5	aI4	5	aI5	5	aI6	5	aI7	5	aI8	5	aI9	5	aI0	5	0
+Dbox 50			1					0	aJ1	5	aJ2	5	aJ3	5	aJ4	5	aJ5	5	aJ6	5	aJ7	5	aJ8	5	aJ9	5	aJ0	5	0
+Dbox 51			1					0	aK1	5	aK2	5	aK3	5	aK4	5	aK5	5	aK6	5	aK7	5	aK8	5	aK9	5	aK0	5	0
+Dbox 52			1					0	aL1	5	aL2	5	aL3	5	aL4	5	aL5	5	aL6	5	aL7	5	aL8	5	aL9	5	aL0	5	0
+Dbox 53			1					0	aM1	5	aM2	5	aM3	5	aM4	5	aM5	5	aM6	5	aM7	5	aM8	5	aM9	5	aM0	5	0
+Dbox 54			1					0	aN1	5	aN2	5	aN3	5	aN4	5	aN5	5	aN6	5	aN7	5	aN8	5	aN9	5	aN0	5	0
+Dbox 55			1					0	aO1	5	aO2	5	aO3	5	aO4	5	aO5	5	aO6	5	aO7	5	aO8	5	aO9	5	aO0	5	0
+Dbox 56			1					0	aP1	5	aP2	5	aP3	5	aP4	5	aP5	5	aP6	5	aP7	5	aP8	5	aP9	5	aP0	5	0
+Dbox 57			1					0	aQ1	5	aQ2	5	aQ3	5	aQ4	5	aQ5	5	aQ6	5	aQ7	5	aQ8	5	aQ9	5	aQ0	5	0
+Dbox 58			1					0	aR1	5	aR2	5	aR3	5	aR4	5	aR5	5	aR6	5	aR7	5	aR8	5	aR9	5	aR0	5	0
+Dbox 59			1					0	aS1	5	aS2	5	aS3	5	aS4	5	aS5	5	aS6	5	aS7	5	aS8	5	aS9	5	aS0	5	0
+Dbox 60			1					0	aT1	5	aT2	5	aT3	5	aT4	5	aT5	5	aT6	5	aT7	5	aT8	5	aT9	5	aT0	5	0
+Dbox 61			1					0	aU1	5	aU2	5	aU3	5	aU4	5	aU5	5	aU6	5	aU7	5	aU8	5	aU9	5	aU0	5	0
+Dbox 62			1					0	aV1	5	aV2	5	aV3	5	aV4	5	aV5	5	aV6	5	aV7	5	aV8	5	aV9	5	aV0	5	0
+Dbox 63			1					0	aW1	5	aW2	5	aW3	5	aW4	5	aW5	5	aW6	5	aW7	5	aW8	5	aW9	5	aW0	5	0
+Dbox 64			1					0	aX1	5	aX2	5	aX3	5	aX4	5	aX5	5	aX6	5	aX7	5	aX8	5	aX9	5	aX0	5	0
+Dbox 65			1					0	aY1	5	aY2	5	aY3	5	aY4	5	aY5	5	aY6	5	aY7	5	aY8	5	aY9	5	aY0	5	0
+Dbox 66			1					0	aZ1	5	aZ2	5	aZ3	5	aZ4	5	aZ5	5	aZ6	5	aZ7	5	aZ8	5	aZ9	5	aZ0	5	0
+Dbox 67			1					0	bA1	5	bA2	5	bA3	5	bA4	5	bA5	5	bA6	5	bA7	5	bA8	5	bA9	5	bA0	5	0
+Dbox 68			1					0	bB1	5	bB2	5	bB3	5	bB4	5	bB5	5	bB6	5	bB7	5	bB8	5	bB9	5	bB0	5	0
+Dbox 69			1					0	bC1	5	bC2	5	bC3	5	bC4	5	bC5	5	bC6	5	bC7	5	bC8	5	bC9	5	bC0	5	0
+Dbox 70			1					0	bD1	5	bD2	5	bD3	5	bD4	5	bD5	5	bD6	5	bD7	5	bD8	5	bD9	5	bD0	5	0
+Dbox 71			1					0	bE1	5	bE2	5	bE3	5	bE4	5	bE5	5	bE6	5	bE7	5	bE8	5	bE9	5	bE0	5	0
+Dbox 72			1					0	bF1	5	bF2	5	bF3	5	bF4	5	bF5	5	bF6	5	bF7	5	bF8	5	bF9	5	bF0	5	0
+Dbox 73			1					0	bG1	5	bG2	5	bG3	5	bG4	5	bG5	5	bG6	5	bG7	5	bG8	5	bG9	5	bG0	5	0
+Dbox 74			1					0	bH1	5	bH2	5	bH3	5	bH4	5	bH5	5	bH6	5	bH7	5	bH8	5	bH9	5	bH0	5	0
+Dbox 75			1					0	bI1	5	bI2	5	bI3	5	bI4	5	bI5	5	bI6	5	bI7	5	bI8	5	bI9	5	bI0	5	0
+Dbox 76			1					0	bJ1	5	bJ2	5	bJ3	5	bJ4	5	bJ5	5	bJ6	5	bJ7	5	bJ8	5	bJ9	5	bJ0	5	0
+Dbox 77			1					0	bK1	5	bK2	5	bK3	5	bK4	5	bK5	5	bK6	5	bK7	5	bK8	5	bK9	5	bK0	5	0
+Dbox 78			1					0	bL1	5	bL2	5	bL3	5	bL4	5	bL5	5	bL6	5	bL7	5	bL8	5	bL9	5	bL0	5	0
+Dbox 79			1					0	bM1	5	bM2	5	bM3	5	bM4	5	bM5	5	bM6	5	bM7	5	bM8	5	bM9	5	bM0	5	0
+Dbox 80			1					0	bN1	5	bN2	5	bN3	5	bN4	5	bN5	5	bN6	5	bN7	5	bN8	5	bN9	5	bN0	5	0
+Dbox 81			1					0	bO1	5	bO2	5	bO3	5	bO4	5	bO5	5	bO6	5	bO7	5	bO8	5	bO9	5	bO0	5	0
+Dbox 82			1					0	bP1	5	bP2	5	bP3	5	bP4	5	bP5	5	bP6	5	bP7	5	bP8	5	bP9	5	bP0	5	0
+Dbox 83			1					0	bQ1	5	bQ2	5	bQ3	5	bQ4	5	bQ5	5	bQ6	5	bQ7	5	bQ8	5	bQ9	5	bQ0	5	0
+Dbox 84			1					0	bR1	5	bR2	5	bR3	5	bR4	5	bR5	5	bR6	5	bR7	5	bR8	5	bR9	5	bR0	5	0
+Dbox 85			1					0	bS1	5	bS2	5	bS3	5	bS4	5	bS5	5	bS6	5	bS7	5	bS8	5	bS9	5	bS0	5	0
+Dbox 86			1					0	bT1	5	bT2	5	bT3	5	bT4	5	bT5	5	bT6	5	bT7	5	bT8	5	bT9	5	bT0	5	0
+Dbox 87			1					0	bU1	5	bU2	5	bU3	5	bU4	5	bU5	5	bU6	5	bU7	5	bU8	5	bU9	5	bU0	5	0
+Dbox 88			1					0	bV1	5	bV2	5	bV3	5	bV4	5	bV5	5	bV6	5	bV7	5	bV8	5	bV9	5	bV0	5	0
+Dbox 89			1					0	bW1	5	bW2	5	bW3	5	bW4	5	bW5	5	bW6	5	bW7	5	bW8	5	bW9	5	bW0	5	0
+Dbox 90			1					0	bX1	5	bX2	5	bX3	5	bX4	5	bX5	5	bX6	5	bX7	5	bX8	5	bX9	5	bX0	5	0
+Dbox 91			1					0	bY1	5	bY2	5	bY3	5	bY4	5	bY5	5	bY6	5	bY7	5	bY8	5	bY9	5	bY0	5	0
+Dbox 92			1					0	bZ1	5	bZ2	5	bZ3	5	bZ4	5	bZ5	5	bZ6	5	bZ7	5	bZ8	5	bZ9	5	bZ0	5	0
+Dbox 93			1					0	cA1	5	cA2	5	cA3	5	cA4	5	cA5	5	cA6	5	cA7	5	cA8	5	cA9	5	cA0	5	0
+Dbox 94			1					0	cB1	5	cB2	5	cB3	5	cB4	5	cB5	5	cB6	5	cB7	5	cB8	5	cB9	5	cB0	5	0
+Dbox 95			1					0	cC1	5	cC2	5	cC3	5	cC4	5	cC5	5	cC6	5	cC7	5	cC8	5	cC9	5	cC0	5	0
+Dbox 96			1					0	cD1	5	cD2	5	cD3	5	cD4	5	cD5	5	cD6	5	cD7	5	cD8	5	cD9	5	cD0	5	0
+Dbox 97			1					0	cE1	5	cE2	5	cE3	5	cE4	5	cE5	5	cE6	5	cE7	5	cE8	5	cE9	5	cE0	5	0
+Dbox 98			1					0	cF1	5	cF2	5	cF3	5	cF4	5	cF5	5	cF6	5	cF7	5	cF8	5	cF9	5	cF0	5	0
+Dbox 99			1					0	cG1	5	cG2	5	cG3	5	cG4	5	cG5	5	cG6	5	cG7	5	cG8	5	cG9	5	cG0	5	0
+Dbox 100			1					0	cH1	5	cH2	5	cH3	5	cH4	5	cH5	5	cH6	5	cH7	5	cH8	5	cH9	5	cH0	5	0
+Dbox 101			1					0	cI1	5	cI2	5	cI3	5	cI4	5	cI5	5	cI6	5	cI7	5	cI8	5	cI9	5	cI0	5	0
+Dbox 102			1					0	cJ1	5	cJ2	5	cJ3	5	cJ4	5	cJ5	5	cJ6	5	cJ7	5	cJ8	5	cJ9	5	cJ0	5	0
+Dbox 103			1					0	cK1	5	cK2	5	cK3	5	cK4	5	cK5	5	cK6	5	cK7	5	cK8	5	cK9	5	cK0	5	0
+Dbox 104			1					0	cL1	5	cL2	5	cL3	5	cL4	5	cL5	5	cL6	5	cL7	5	cL8	5	cL9	5	cL0	5	0
+Dbox 105			1					0	cM1	5	cM2	5	cM3	5	cM4	5	cM5	5	cM6	5	cM7	5	cM8	5	cM9	5	cM0	5	0
+Dbox 106			1					0	cN1	5	cN2	5	cN3	5	cN4	5	cN5	5	cN6	5	cN7	5	cN8	5	cN9	5	cN0	5	0
+Dbox 107			1					0	cO1	5	cO2	5	cO3	5	cO4	5	cO5	5	cO6	5	cO7	5	cO8	5	cO9	5	cO0	5	0
+Dbox 108			1					0	cP1	5	cP2	5	cP3	5	cP4	5	cP5	5	cP6	5	cP7	5	cP8	5	cP9	5	cP0	5	0
+Dbox 109			1					0	cQ1	5	cQ2	5	cQ3	5	cQ4	5	cQ5	5	cQ6	5	cQ7	5	cQ8	5	cQ9	5	cQ0	5	0
+Dbox 110			1					0	cR1	5	cR2	5	cR3	5	cR4	5	cR5	5	cR6	5	cR7	5	cR8	5	cR9	5	cR0	5	0
+Dbox 111			1					0	cS1	5	cS2	5	cS3	5	cS4	5	cS5	5	cS6	5	cS7	5	cS8	5	cS9	5	cS0	5	0
+Dbox 112			1					0	cT1	5	cT2	5	cT3	5	cT4	5	cT5	5	cT6	5	cT7	5	cT8	5	cT9	5	cT0	5	0
+Dbox 113			1					0	cU1	5	cU2	5	cU3	5	cU4	5	cU5	5	cU6	5	cU7	5	cU8	5	cU9	5	cU0	5	0
+Dbox 114			1					0	cV1	5	cV2	5	cV3	5	cV4	5	cV5	5	cV6	5	cV7	5	cV8	5	cV9	5	cV0	5	0
+Dbox 115			1					0	cW1	5	cW2	5	cW3	5	cW4	5	cW5	5	cW6	5	cW7	5	cW8	5	cW9	5	cW0	5	0
+Dbox 116			1					0	cX1	5	cX2	5	cX3	5	cX4	5	cX5	5	cX6	5	cX7	5	cX8	5	cX9	5	cX0	5	0
+Dbox 117			1					0	cY1	5	cY2	5	cY3	5	cY4	5	cY5	5	cY6	5	cY7	5	cY8	5	cY9	5	cY0	5	0
+Dbox 118			1					0	cZ1	5	cZ2	5	cZ3	5	cZ4	5	cZ5	5	cZ6	5	cZ7	5	cZ8	5	cZ9	5	cZ0	5	0
+Dbox 119			1					0	dA1	5	dA2	5	dA3	5	dA4	5	dA5	5	dA6	5	dA7	5	dA8	5	dA9	5	dA0	5	0
+Dbox 120			1					0	dB1	5	dB2	5	dB3	5	dB4	5	dB5	5	dB6	5	dB7	5	dB8	5	dB9	5	dB0	5	0
+Dbox 121			1					0	dC1	5	dC2	5	dC3	5	dC4	5	dC5	5	dC6	5	dC7	5	dC8	5	dC9	5	dC0	5	0
+Dbox 122			1					0	dD1	5	dD2	5	dD3	5	dD4	5	dD5	5	dD6	5	dD7	5	dD8	5	dD9	5	dD0	5	0
+Dbox 123			1					0	dE1	5	dE2	5	dE3	5	dE4	5	dE5	5	dE6	5	dE7	5	dE8	5	dE9	5	dE0	5	0
+Dbox 124			1					0	dF1	5	dF2	5	dF3	5	dF4	5	dF5	5	dF6	5	dF7	5	dF8	5	dF9	5	dF0	5	0
+Dbox 125			1					0	dG1	5	dG2	5	dG3	5	dG4	5	dG5	5	dG6	5	dG7	5	dG8	5	dG9	5	dG0	5	0
+Dbox 126			1					0	dH1	5	dH2	5	dH3	5	dH4	5	dH5	5	dH6	5	dH7	5	dH8	5	dH9	5	dH0	5	0
+Dbox 127			1					0	dI1	5	dI2	5	dI3	5	dI4	5	dI5	5	dI6	5	dI7	5	dI8	5	dI9	5	dI0	5	0
+Dbox 128			1					0	dJ1	5	dJ2	5	dJ3	5	dJ4	5	dJ5	5	dJ6	5	dJ7	5	dJ8	5	dJ9	5	dJ0	5	0
+Dbox 129			1					0	dK1	5	dK2	5	dK3	5	dK4	5	dK5	5	dK6	5	dK7	5	dK8	5	dK9	5	dK0	5	0
+Dbox 130			1					0	dL1	5	dL2	5	dL3	5	dL4	5	dL5	5	dL6	5	dL7	5	dL8	5	dL9	5	dL0	5	0
+Dbox 131			1					0	dM1	5	dM2	5	dM3	5	dM4	5	dM5	5	dM6	5	dM7	5	dM8	5	dM9	5	dM0	5	0
+Dbox 132			1					0	dN1	5	dN2	5	dN3	5	dN4	5	dN5	5	dN6	5	dN7	5	dN8	5	dN9	5	dN0	5	0
+Dbox 133			1					0	dO1	5	dO2	5	dO3	5	dO4	5	dO5	5	dO6	5	dO7	5	dO8	5	dO9	5	dO0	5	0
+Dbox 134			1					0	dP1	5	dP2	5	dP3	5	dP4	5	dP5	5	dP6	5	dP7	5	dP8	5	dP9	5	dP0	5	0
+Dbox 135			1					0	dQ1	5	dQ2	5	dQ3	5	dQ4	5	dQ5	5	dQ6	5	dQ7	5	dQ8	5	dQ9	5	dQ0	5	0
+Dbox 136			1					0	dR1	5	dR2	5	dR3	5	dR4	5	dR5	5	dR6	5	dR7	5	dR8	5	dR9	5	dR0	5	0
+Dbox 137			1					0	dS1	5	dS2	5	dS3	5	dS4	5	dS5	5	dS6	5	dS7	5	dS8	5	dS9	5	dS0	5	0
+Dbox 138			1					0	dT1	5	dT2	5	dT3	5	dT4	5	dT5	5	dT6	5	dT7	5	dT8	5	dT9	5	dT0	5	0
+Dbox 139			1					0	dU1	5	dU2	5	dU3	5	dU4	5	dU5	5	dU6	5	dU7	5	dU8	5	dU9	5	dU0	5	0
+Dbox 140			1					0	dV1	5	dV2	5	dV3	5	dV4	5	dV5	5	dV6	5	dV7	5	dV8	5	dV9	5	dV0	5	0
+Dbox 141			1					0	dW1	5	dW2	5	dW3	5	dW4	5	dW5	5	dW6	5	dW7	5	dW8	5	dW9	5	dW0	5	0
+Dbox 142			1					0	dX1	5	dX2	5	dX3	5	dX4	5	dX5	5	dX6	5	dX7	5	dX8	5	dX9	5	dX0	5	0
+Dbox 143			1					0	dY1	5	dY2	5	dY3	5	dY4	5	dY5	5	dY6	5	dY7	5	dY8	5	dY9	5	dY0	5	0
+Dbox 144			1					0	dZ1	5	dZ2	5	dZ3	5	dZ4	5	dZ5	5	dZ6	5	dZ7	5	dZ8	5	dZ9	5	dZ0	5	0
+Dbox 145			1					0	eA1	5	eA2	5	eA3	5	eA4	5	eA5	5	eA6	5	eA7	5	eA8	5	eA9	5	eA0	5	0
+Dbox 146			1					0	eB1	5	eB2	5	eB3	5	eB4	5	eB5	5	eB6	5	eB7	5	eB8	5	eB9	5	eB0	5	0
+Dbox 147			1					0	eC1	5	eC2	5	eC3	5	eC4	5	eC5	5	eC6	5	eC7	5	eC8	5	eC9	5	eC0	5	0
+Dbox 148			1					0	eD1	5	eD2	5	eD3	5	eD4	5	eD5	5	eD6	5	eD7	5	eD8	5	eD9	5	eD0	5	0
+Dbox 149			1					0	eE1	5	eE2	5	eE3	5	eE4	5	eE5	5	eE6	5	eE7	5	eE8	5	eE9	5	eE0	5	0
+Dbox 150			1					0	eF1	5	eF2	5	eF3	5	eF4	5	eF5	5	eF6	5	eF7	5	eF8	5	eF9	5	eF0	5	0
+Dbox A			1					0	Dbox 1	10	Dbox 2	10	Dbox 3	10	Dbox 4	10	Dbox 5	10	Dbox 6	10	Dbox 7	10	Dbox 8	10	Dbox 9	10	Dbox 10	10	0
+Dbox B			1					0	Dbox 11	10	Dbox 12	10	Dbox 13	10	Dbox 14	10	Dbox 15	10	Dbox 16	10	Dbox 17	10	Dbox 18	10	Dbox 19	10	Dbox 20	10	0
+Dbox C			1					0	Dbox 21	10	Dbox 22	10	Dbox 23	10	Dbox 24	10	Dbox 25	10	Dbox 26	10	Dbox 27	10	Dbox 28	10	Dbox 29	10	Dbox 30	10	0
+Dbox D			1					0	Dbox 31	10	Dbox 32	10	Dbox 33	10	Dbox 34	10	Dbox 35	10	Dbox 36	10	Dbox 37	10	Dbox 38	10	Dbox 39	10	Dbox 40	10	0
+Dbox E			1					0	Dbox 41	10	Dbox 42	10	Dbox 43	10	Dbox 44	10	Dbox 45	10	Dbox 46	10	Dbox 47	10	Dbox 48	10	Dbox 49	10	Dbox 50	10	0
+Dbox F			1					0	Dbox 51	10	Dbox 52	10	Dbox 53	10	Dbox 54	10	Dbox 55	10	Dbox 56	10	Dbox 57	10	Dbox 58	10	Dbox 59	10	Dbox 60	10	0
+Dbox G			1					0	Dbox 61	10	Dbox 62	10	Dbox 63	10	Dbox 64	10	Dbox 65	10	Dbox 66	10	Dbox 67	10	Dbox 68	10	Dbox 69	10	Dbox 70	10	0
+Dbox H			1					0	Dbox 71	10	Dbox 72	10	Dbox 73	10	Dbox 74	10	Dbox 75	10	Dbox 76	10	Dbox 77	10	Dbox 78	10	Dbox 79	10	Dbox 80	10	0
+Dbox I			1					0	Dbox 81	10	Dbox 82	10	Dbox 83	10	Dbox 84	10	Dbox 85	10	Dbox 86	10	Dbox 87	10	Dbox 88	10	Dbox 89	10	Dbox 90	10	0
+Dbox J			1					0	Dbox 91	10	Dbox 92	10	Dbox 93	10	Dbox 94	10	Dbox 95	10	Dbox 96	10	Dbox 97	10	Dbox 98	10	Dbox 99	10	Dbox 100	10	0
+Dbox K			1					0	Dbox 101	10	Dbox 102	10	Dbox 103	10	Dbox 104	10	Dbox 105	10	Dbox 106	10	Dbox 107	10	Dbox 108	10	Dbox 109	10	Dbox 110	10	0
+Dbox L			1					0	Dbox 111	10	Dbox 112	10	Dbox 113	10	Dbox 114	10	Dbox 115	10	Dbox 116	10	Dbox 117	10	Dbox 118	10	Dbox 119	10	Dbox 120	10	0
+Dbox M			1					0	Dbox 121	10	Dbox 122	10	Dbox 123	10	Dbox 124	10	Dbox 125	10	Dbox 126	10	Dbox 127	10	Dbox 128	10	Dbox 129	10	Dbox 130	10	0
+Dbox N			1					0	Dbox 131	10	Dbox 132	10	Dbox 133	10	Dbox 134	10	Dbox 135	10	Dbox 136	10	Dbox 137	10	Dbox 138	10	Dbox 139	10	Dbox 140	10	0
+Dbox O			1					0	Dbox 141	10	Dbox 142	10	Dbox 143	10	Dbox 144	10	Dbox 145	10	Dbox 146	10	Dbox 147	10	Dbox 148	10	Dbox 149	10	Dbox 150	10	0
+Dbox ONE			1					0	Dbox A	20	Dbox B	20	Dbox C	20	Dbox D	20	Dbox E	20	Dbox F	20	Dbox G	20	Dbox H	20	Dbox I	20	Dbox J	20	0
+Dbox TWO			1					0	Dbox K	20	Dbox L	20	Dbox M	20	Dbox N	20	Dbox O	20											0
+Dbox Main			1					40	Empty	10	Dbox ONE	10	Dbox TWO	5															0
+Ghost 1			1					0	CA1	5	CB1	3	CC1	5	CD1	3	CE1	5	CF1	3	CG1	5	CH1	3	"gld,mul=2048"	200			0
+Ghost 2			1					0	CA2	4	CB2	2	CC2	4	CD2	2	CE2	4	CF2	2	CG2	4	CH2	2	"gld,mul=2048"	200			0
+Ghost 3			1					0	CA3	3	CB3	5	CC3	3	CD3	5	CE3	3	CF3	5	CG3	3	CH3	5	"gld,mul=2048"	200			0
+Ghost 4			1					0	CA4	2	CB4	4	CC4	2	CD4	4	CE4	2	CF4	4	CG4	2	CH4	4	"gld,mul=2048"	200			0
+Ghost 5			1					0	CA5	5	CB5	3	CC5	5	CD5	3	CE5	5	CF5	3	CG5	5	CH5	3	"gld,mul=2048"	200			0
+Ghost 6			1					0	CA6	4	CB6	2	CC6	4	CD6	2	CE6	4	CF6	2	CG6	4	CH6	2	"gld,mul=2048"	200			0
+Ghost 7			1					0	CA7	3	CB7	5	CC7	3	CD7	5	CE7	3	CF7	5	CG7	3	CH7	5	"gld,mul=2048"	200			0
+Ghost 8			1					0	CA8	2	CB8	4	CC8	2	CD8	4	CE8	2	CF8	4	CG8	2	CH8	4	"gld,mul=2048"	200			0
+Ghost 9			1					0	CA9	5	CB9	3	CC9	5	CD9	3	CE9	5	CF9	3	CG9	5	CH9	3	"gld,mul=2048"	200			0
+Ghost 10			1					0	CA0	4	CB0	2	CC0	4	CD0	2	CE0	4	CF0	2	CG0	4	CH0	2	"gld,mul=2048"	200			0
+Ghost Main			1					0	Ghost 1	5	Ghost 2	5	Ghost 3	5	Ghost 4	5	Ghost 5	5	Ghost 6	5	Ghost 7	5	Ghost 8	5	Ghost 9	5	Ghost 10	5	0
+Spectre 1			1					0	FA1	5	FB1	3	FC1	5	FD1	3	FE1	5	FF1	3	FG1	5	"gld,mul=2048"	200					0
+Spectre 2			1					0	FA2	4	FB2	2	FC2	4	FD2	2	FE2	4	FF2	2	FG2	4	"gld,mul=2048"	200					0
+Spectre 3			1					0	FA3	3	FB3	5	FC3	3	FD3	5	FE3	3	FF3	5	FG3	3	"gld,mul=2048"	200					0
+Spectre 4			1					0	FA4	2	FB4	4	FC4	2	FD4	4	FE4	2	FF4	4	FG4	2	"gld,mul=2048"	200					0
+Spectre 5			1					0	FA5	5	FB5	3	FC5	5	FD5	3	FE5	5	FF5	3	"gld,mul=2048"	200							0
+Spectre 6			1					0	FA6	4	FB6	2	FC6	4	FD6	2	FE6	4	FF6	2	"gld,mul=2048"	200							0
+Spectre 7			1					0	FA7	3	FB7	5	FC7	3	FD7	5	FE7	3	FF7	5	"gld,mul=2048"	200							0
+Spectre 8			1					0	FA8	2	FB8	4	FC8	2	FD8	4	FE8	2	FF8	4	"gld,mul=2048"	200							0
+Spectre 9			1					0	FA9	5	FB9	3	FC9	5	FD9	3	FE9	5	FF9	3	"gld,mul=2048"	200							0
+Spectre 10			1					0	FA0	4	FB0	2	FC0	4	FD0	2	FE0	4	FF0	2	"gld,mul=2048"	200							0
+Spectre Main			1					0	Spectre 1	5	Spectre 2	5	Spectre 3	5	Spectre 4	5	Spectre 5	5	Spectre 6	5	Spectre 7	5	Spectre 8	5	Spectre 9	5	Spectre 10	5	0
+Phantom 1			1					0	BA1	6	BB1	4	BC1	2	BD1	6	IA1	4	IB1	2	IC1	6	ID1	4	IE1	2	Spectre Main	5	0
+Phantom 2			1					0	BA2	5	BB2	3	BC2	1	BD2	5	IA2	3	IB2	1	IC2	5	ID2	3	IE2	1	Phantom 1	5	0
+Phantom 3			1					0	BA3	4	BB3	2	BC3	6	BD3	4	IA3	2	IB3	6	IC3	4	ID3	2	IE3	6	Phantom 2	5	0
+Phantom 4			1					0	BA4	3	BB4	1	BC4	5	BD4	3	IA4	1	IB4	5	IC4	3	ID4	1	IE4	5	Phantom 3	5	0
+Phantom 5			1					0	BA5	2	BB5	6	BC5	4	BD5	2	IA5	6	IB5	4	IC5	2	ID5	6	IE5	4	Phantom 4	5	0
+Phantom 6			1					0	BA6	1	BB6	5	BC6	3	BD6	1	IA6	5	IB6	3	IC6	1	ID6	5	IE6	3	Phantom 5	5	0
+Phantom 7			1					0	BA7	6	BB7	4	BC7	2	BD7	6	IA7	4	IB7	2	IC7	6	ID7	4	IE7	2	Phantom 6	5	0
+Phantom 8			1					0	BA8	5	BB8	3	BC8	1	BD8	5	IA8	3	IB8	1	IC8	5	ID8	3	IE8	1	Phantom 7	5	0
+Phantom 9			1					0	BA9	4	BB9	2	BC9	6	BD9	4	IA9	2	IB9	6	IC9	4	ID9	2	IE9	6	Phantom 8	5	0
+Phantom 10			1					0	BA0	3	BB0	1	BC0	5	BD0	3	IA0	1	IB0	5	IC0	3	ID0	1	IE0	5	Phantom 9	5	0
+Phantom 11			1					0	BE1	2	BF1	6	BG1	4	BH1	2	BI1	6	BJ1	4	BK1	2	BL1	6	BM1	4	Phantom 10	5	0
+Phantom 12			1					0	BE2	1	BF2	5	BG2	3	BH2	1	BI2	5	BJ2	3	BK2	1	BL2	5	BM2	3	Phantom 11	5	0
+Phantom 13			1					0	BE3	6	BF3	4	BG3	2	BH3	6	BI3	4	BJ3	2	BK3	6	BL3	4	BM3	2	Phantom 12	5	0
+Phantom 14			1					0	BE4	5	BF4	3	BG4	1	BH4	5	BI4	3	BJ4	1	BK4	5	BL4	3	BM4	1	Phantom 13	5	0
+Phantom 15			1					0	BE5	4	BF5	2	BG5	6	BH5	4	BI5	2	BJ5	6	BK5	4	BL5	2	BM5	6	Phantom 14	5	0
+Phantom 16			1					0	BE6	3	BF6	1	BG6	5	BH6	3	BI6	1	BJ6	5	BK6	3	BL6	1	BM6	5	Phantom 15	5	0
+Phantom 17			1					0	BE7	2	BF7	6	BG7	4	BH7	2	BI7	6	BJ7	4	BK7	2	BL7	6	BM7	4	Phantom 16	5	0
+Phantom 18			1					0	BE8	1	BF8	5	BG8	3	BH8	1	BI8	5	BJ8	3	BK8	1	BL8	5	BM8	3	Phantom 17	5	0
+Phantom 19			1					0	BE9	6	BF9	4	BG9	2	BH9	6	BI9	4	BJ9	2	BK9	6	BL9	4	BM9	2	Phantom 18	5	0
+Phantom 20			1					0	BE0	5	BF0	3	BG0	1	BH0	5	BI0	3	BJ0	1	BK0	5	BL0	3	BM0	1	Phantom 19	5	0
+Phantom A			1					0	Phantom 1	5	Phantom 2	5	Phantom 3	5	Phantom 4	5	Phantom 5	5	Phantom 6	5	Phantom 7	5	Phantom 8	5	Phantom 9	5	Phantom 10	5	0
+Phantom B			1					0	Phantom 11	5	Phantom 12	5	Phantom 13	5	Phantom 14	5	Phantom 15	5	Phantom 16	5	Phantom 17	5	Phantom 18	5	Phantom 19	5	Phantom 20	5	0
+Haunted 1			1					250	Empty	80	Spectre 1	5	Ghost 1	5	Phantom 1	3	Phantom 11	3	"gld,mul=4096"	50									0
+Haunted 2			1					250	Empty	80	Spectre 2	5	Ghost 2	5	Phantom 2	3	Phantom 12	3	"gld,mul=4096"	50									0
+Haunted 3			1					250	Empty	80	Spectre 3	5	Ghost 3	5	Phantom 3	3	Phantom 13	3	"gld,mul=4096"	50									0
+Haunted 4			1					250	Empty	80	Spectre 4	5	Ghost 4	5	Phantom 4	3	Phantom 14	3	"gld,mul=4096"	50									0
+Haunted 5			1					250	Empty	80	Spectre 5	5	Ghost 5	5	Phantom 5	3	Phantom 15	3	"gld,mul=4096"	50									0
+Haunted 6			1					250	Empty	80	Spectre 6	5	Ghost 6	5	Phantom 6	3	Phantom 16	3	"gld,mul=4096"	50									0
+Haunted 7			1					250	Empty	80	Spectre 7	5	Ghost 7	5	Phantom 7	3	Phantom 17	3	"gld,mul=4096"	50									0
+Haunted 8			1					250	Empty	80	Spectre 8	5	Ghost 8	5	Phantom 8	3	Phantom 18	3	"gld,mul=4096"	50									0
+Haunted 9			1					250	Empty	80	Spectre 9	5	Ghost 9	5	Phantom 9	3	Phantom 19	3	"gld,mul=4096"	50									0
+Haunted 10			1					250	Empty	80	Spectre 10	5	Ghost 10	5	Phantom 10	3	Phantom 20	3	"gld,mul=4096"	50									0
+Haunted Main			1					250	Empty	80	Spectre Main	5	Ghost Main	5	Phantom A	3	Phantom B	3	"gld,mul=4096"	50									0
+Gremlin 1			1					100	Empty	20	LA1	1	LB1	3	LC1	5	LD1	7	LE1	9	LF1	11	LG1	13	LV1	15	LY1	17	0
+Gremlin 2			1					100	Empty	20	LA2	3	LB2	5	LC2	7	LD2	9	LE2	11	LF2	13	LG2	15	LV2	17	LY2	19	0
+Gremlin 3			1					100	Empty	20	LA3	5	LB3	7	LC3	9	LD3	11	LE3	13	LF3	15	LG3	17	LV3	19	LY3	21	0
+Gremlin 4			1					100	Empty	20	LA4	7	LB4	9	LC4	11	LD4	13	LE4	15	LF4	17	LG4	19	LV4	21	LY4	1	0
+Gremlin 5			1					100	Empty	20	LA5	9	LB5	11	LC5	13	LD5	15	LE5	17	LF5	19	LG5	21	LV5	1	LY5	3	0
+Gremlin 6			1					100	Empty	20	LA6	11	LB6	13	LC6	15	LD6	17	LE6	19	LF6	21	LG6	1	LV6	3	LY6	5	0
+Gremlin 7			1					100	Empty	20	LA7	13	LB7	15	LC7	17	LD7	19	LE7	21	LF7	1	LG7	3	LV7	5	LY7	7	0
+Gremlin 8			1					100	Empty	20	LA8	15	LB8	17	LC8	19	LD8	21	LE8	1	LF8	3	LG8	5	LV8	7	LY8	9	0
+Gremlin 9			1					100	Empty	20	LA9	17	LB9	19	LC9	21	LD9	1	LE9	3	LF9	5	LG9	7	LV9	9	LY9	11	0
+Gremlin 10			1					100	Empty	20	LA0	19	LB0	21	LC0	1	LD0	3	LE0	5	LF0	7	LG0	9	LV0	11	LY0	13	0
+Gremlin 11			1					100	Empty	20	LH1	21	LI1	1	LJ1	3	LK1	5	LL1	7	LM1	9	LN1	11	LW1	13	LZ1	15	0
+Gremlin 12			1					100	Empty	20	LH2	1	LI2	3	LJ2	5	LK2	7	LL2	9	LM2	11	LN2	13	LW2	15	LZ2	17	0
+Gremlin 13			1					100	Empty	20	LH3	3	LI3	5	LJ3	7	LK3	9	LL3	11	LM3	13	LN3	15	LW3	17	LZ3	19	0
+Gremlin 14			1					100	Empty	20	LH4	5	LI4	7	LJ4	9	LK4	11	LL4	13	LM4	15	LN4	17	LW4	19	LZ4	21	0
+Gremlin 15			1					100	Empty	20	LH5	7	LI5	9	LJ5	11	LK5	13	LL5	15	LM5	17	LN5	19	LW5	21	LZ5	1	0
+Gremlin 16			1					100	Empty	20	LH6	9	LI6	11	LJ6	13	LK6	15	LL6	17	LM6	19	LN6	21	LW6	1	LZ6	3	0
+Gremlin 17			1					100	Empty	20	LH7	11	LI7	13	LJ7	15	LK7	17	LL7	19	LM7	21	LN7	1	LW7	3	LZ7	5	0
+Gremlin 18			1					100	Empty	20	LH8	13	LI8	15	LJ8	17	LK8	19	LL8	21	LM8	1	LN8	3	LW8	5	LZ8	7	0
+Gremlin 19			1					100	Empty	20	LH9	15	LI9	17	LJ9	19	LK9	21	LL9	1	LM9	3	LN9	5	LW9	7	LZ9	9	0
+Gremlin 20			1					100	Empty	20	LH0	17	LI0	19	LJ0	21	LK0	1	LL0	3	LM0	5	LN0	7	LW0	9	LZ0	11	0
+Gremlin 21			1					100	Empty	20	LO1	19	LP1	21	LQ1	1	LR1	3	LS1	5	LT1	7	LU1	9	LX1	11	MQ1	13	0
+Gremlin 22			1					100	Empty	20	LO2	21	LP2	1	LQ2	3	LR2	5	LS2	7	LT2	9	LU2	11	LX2	13	MQ2	15	0
+Gremlin 23			1					100	Empty	20	LO3	1	LP3	3	LQ3	5	LR3	7	LS3	9	LT3	11	LU3	13	LX3	15	MQ3	17	0
+Gremlin 24			1					100	Empty	20	LO4	3	LP4	5	LQ4	7	LR4	9	LS4	11	LT4	13	LU4	15	LX4	17	MQ4	19	0
+Gremlin 25			1					100	Empty	20	LO5	5	LP5	7	LQ5	9	LR5	11	LS5	13	LT5	15	LU5	17	LX5	19	MQ5	21	0
+Gremlin 26			1					100	Empty	20	LO6	7	LP6	9	LQ6	11	LR6	13	LS6	15	LT6	17	LU6	19	LX6	21	MQ6	1	0
+Gremlin 27			1					100	Empty	20	LO7	9	LP7	11	LQ7	13	LR7	15	LS7	17	LT7	19	LU7	21	LX7	1	MQ7	3	0
+Gremlin 28			1					100	Empty	20	LO8	11	LP8	13	LQ8	15	LR8	17	LS8	19	LT8	21	LU8	1	LX8	3	MQ8	5	0
+Gremlin 29			1					100	Empty	20	LO9	13	LP9	15	LQ9	17	LR9	19	LS9	21	LT9	1	LU9	3	LX9	5	MQ9	7	0
+Gremlin 30			1					100	Empty	20	LO0	15	LP0	17	LQ0	19	LR0	21	LS0	1	LT0	3	LU0	5	LX0	7	MQ0	9	0
+Gremlin 31			1					100	Empty	20	MR1	17	MR4	19	MR7	21	MR0	1	MS3	3	MS6	5	MS9	7	MT2	9	MT5	11	0
+Gremlin 32			1					100	Empty	20	MR2	19	MR5	21	MR8	1	MS1	3	MS4	5	MS7	7	MS0	9	MT3	11	MT6	13	0
+Gremlin 33			1					100	Empty	20	MR3	21	MR6	1	MR9	3	MS2	5	MS5	7	MS8	9	MT1	11	MT4	13	MT7	15	0
+Gremlin A			1					0	Gremlin 1	5	Gremlin 2	10	Gremlin 3	15	Gremlin 4	20	Gremlin 5	5	Gremlin 6	10	Gremlin 7	15	Gremlin 8	20	Gremlin 9	5			0
+Gremlin B			1					0	Gremlin 10	10	Gremlin 11	5	Gremlin 12	10	Gremlin 13	15	Gremlin 14	20	Gremlin 15	5	Gremlin 16	10	Gremlin 17	15	Gremlin 18	20			0
+Gremlin C			1					0	Gremlin 19	5	Gremlin 20	10	Gremlin 21	5	Gremlin 22	10	Gremlin 23	15	Gremlin 24	20	Gremlin 25	5	Gremlin 26	10	Gremlin 27	15			0
+Gremlin D			1					0	Gremlin 28	20	Gremlin 29	5	Gremlin 30	10	Gremlin 31	5	Gremlin 32	10	Gremlin 33	15									0
+Gremlin Main			1					100	Empty	20	Gremlin A	4	Gremlin B	4	Gremlin C	4	Gremlin D	4	"gld,mul=2024"	10									0
+TCard-Joker			1					0	KA0	5	KA1	5	KA2	5	KA3	5	KA4	5	KA5	5	KA6	5	KA7	5	KA8	5	KA9	5	0
+TCard-2			1					0	KB2	2	KC2	2	KD2	2	KE2	10	KF2	10	KG2	10	KH2	10							0
+TCard-3			1					0	KB3	2	KC3	2	KD3	2	KE3	10	KF3	10	KG3	10	KH3	10	TCard-2	10					0
+TCard-4			1					0	KB4	2	KC4	2	KD4	2	KE4	10	KF4	10	KG4	10	KH4	10	TCard-3	10	TCard-2	10			0
+TCard-5			1					0	KB5	2	KC5	2	KD5	2	KE5	10	KF5	10	KG5	10	KH5	10	TCard-4	10	TCard-3	10	TCard-2	10	0
+TCard-6			1					0	KB6	2	KC6	2	KD6	2	KE6	10	KF6	10	KG6	10	KH6	10	TCard-5	10	TCard-4	10	TCard-3	10	0
+TCard-7			1					0	KB7	2	KC7	2	KD7	2	KE7	10	KF7	10	KG7	10	KH7	10	TCard-6	10	TCard-5	10	TCard-4	10	0
+TCard-8			1					0	KB8	2	KC8	2	KD8	2	KE8	10	KF8	10	KG8	10	KH8	10	TCard-7	10	TCard-6	10	TCard-5	10	0
+TCard-9			1					0	KB9	2	KC9	2	KD9	2	KE9	10	KF9	10	KG9	10	KH9	10	TCard-8	10	TCard-7	10	TCard-6	10	0
+TCard-10			1					0	KB0	2	KC0	2	KD0	2	KE0	10	KF0	10	KG0	10	KH0	10	TCard-9	10	TCard-8	10	TCard-7	10	0
+TCard-J			1					0	KBA	2	KCA	2	KDA	2	KEA	10	KFA	10	KGA	10	KHA	10	TCard-10	10	TCard-9	10	TCard-8	10	0
+TCard-Q			1					0	KBB	2	KCB	2	KDB	2	KEB	10	KFB	10	KGB	10	KHB	10	TCard-J	10	TCard-10	10	TCard-9	10	0
+TCard-K			1					0	KBC	2	KCC	2	KDC	2	KEC	10	KFC	10	KGC	10	KHC	10	TCard-Q	10	TCard-J	10	TCard-10	10	0
+TCard-A			1					0	KBD	2	KCD	2	KDD	2	KED	10	KFD	10	KGD	10	KHD	10	TCard-K	10	TCard-Q	10	TCard-J	10	0
+TCard-E			1					0	KBE	2	KCE	2	KDE	2	KEE	10	KFE	10	KGE	10	KHE	10	TCard-A	10	TCard-K	10	TCard-Q	10	0
+TCard-Z			1					0	KBF	2	KCF	2	KDF	2	KEF	10	KFF	10	KGF	10	KHF	10	TCard-E	10	TCard-A	10	TCard-K	10	0
+TGrade-A			1					75	"gld,mul=1024"	125	TCard-Joker	100	TCard-2	150															0
+TGrade-B			1					75	"gld,mul=1216"	125	TCard-Joker	100	TCard-2	100	TCard-3	50													0
+TGrade-C			1					75	"gld,mul=1408"	125	TCard-Joker	100	TCard-2	75	TCard-3	50	TCard-4	25											0
+TGrade-D			1					75	"gld,mul=1600"	125	TCard-Joker	100	TCard-2	63	TCard-3	50	TCard-4	25	TCard-5	12									0
+TGrade-E			1					75	"gld,mul=1792"	125	TCard-Joker	100	TCard-2	57	TCard-3	50	TCard-4	25	TCard-5	12	TCard-6	6							0
+TGrade-F			1					75	"gld,mul=1984"	125	TCard-Joker	100	TCard-2	53	TCard-3	50	TCard-4	25	TCard-5	12	TCard-6	6	TCard-7	4					0
+TGrade-G			1					75	"gld,mul=2176"	125	TCard-Joker	100	TCard-2	51	TCard-3	50	TCard-4	25	TCard-5	12	TCard-6	6	TCard-7	4	TCard-8	2			0
+TGrade-H			1					75	"gld,mul=2368"	125	TCard-Joker	100	TCard-2	50	TCard-3	50	TCard-4	25	TCard-5	12	TCard-6	6	TCard-7	4	TCard-8	2	TCard-9	1	0
+TGrade-I			1					75	"gld,mul=2560"	125	TCard-Joker	100	TCard-3	50	TCard-4	50	TCard-5	25	TCard-6	12	TCard-7	6	TCard-8	4	TCard-9	2	TCard-10	1	0
+TGrade-J			1					75	"gld,mul=2752"	125	TCard-Joker	100	TCard-4	50	TCard-5	50	TCard-6	25	TCard-7	12	TCard-8	6	TCard-9	4	TCard-10	2	TCard-J	1	0
+TGrade-K			1					75	"gld,mul=2944"	125	TCard-Joker	100	TCard-5	50	TCard-6	50	TCard-7	25	TCard-8	12	TCard-9	6	TCard-10	4	TCard-J	2	TCard-Q	1	0
+TGrade-L			1					75	"gld,mul=3136"	125	TCard-Joker	100	TCard-6	50	TCard-7	50	TCard-8	25	TCard-9	12	TCard-10	6	TCard-J	4	TCard-Q	2	TCard-K	1	0
+TGrade-M			1					75	"gld,mul=3328"	125	TCard-Joker	100	TCard-7	50	TCard-8	50	TCard-9	25	TCard-10	12	TCard-J	6	TCard-Q	4	TCard-K	2	TCard-A	1	0
+TGrade-N			1					75	"gld,mul=3520"	125	TCard-Joker	100	TCard-8	50	TCard-9	50	TCard-10	25	TCard-J	12	TCard-Q	6	TCard-K	4	TCard-A	2	TCard-E	1	0
+TGrade-O			1					75	"gld,mul=3712"	125	TCard-Joker	100	TCard-9	50	TCard-10	50	TCard-J	25	TCard-Q	12	TCard-K	6	TCard-A	4	TCard-E	2	TCard-Z	1	0
+TGrade-P			1					75	"gld,mul=3904"	125	TCard-Joker	100	TCard-9	47	TCard-10	48	TCard-J	25	TCard-Q	13	TCard-K	7	TCard-A	5	TCard-E	3	TCard-Z	2	0
+TGrade-Q			1					75	"gld,mul=4096"	125	TCard-Joker	100	TCard-9	47	TCard-10	47	TCard-J	25	TCard-Q	14	TCard-K	8	TCard-A	5	TCard-E	3	TCard-Z	2	0
+TGrade-R			1					75	"gld,mul=4288"	125	TCard-Joker	100	TCard-9	44	TCard-10	45	TCard-J	25	TCard-Q	15	TCard-K	9	TCard-A	6	TCard-E	4	TCard-Z	2	0
+TGrade-S			1					75	"gld,mul=4480"	125	TCard-Joker	100	TCard-9	43	TCard-10	43	TCard-J	25	TCard-Q	16	TCard-K	10	TCard-A	6	TCard-E	4	TCard-Z	3	0
+TGrade-T			1					75	"gld,mul=4672"	125	TCard-Joker	100	TCard-9	41	TCard-10	41	TCard-J	25	TCard-Q	17	TCard-K	11	TCard-A	7	TCard-E	5	TCard-Z	3	0
+TGrade-U			1					75	"gld,mul=4864"	125	TCard-Joker	100	TCard-9	40	TCard-10	40	TCard-J	25	TCard-Q	18	TCard-K	12	TCard-A	7	TCard-E	5	TCard-Z	3	0
+TGrade-V			1					75	"gld,mul=5056"	125	TCard-Joker	100	TCard-9	37	TCard-10	38	TCard-J	25	TCard-Q	19	TCard-K	13	TCard-A	8	TCard-E	6	TCard-Z	4	0
+TGrade-W			1					75	"gld,mul=5248"	125	TCard-Joker	100	TCard-9	36	TCard-10	37	TCard-J	25	TCard-Q	20	TCard-K	14	TCard-A	8	TCard-E	6	TCard-Z	4	0
+TGrade-X			1					75	"gld,mul=5440"	125	TCard-Joker	100	TCard-9	34	TCard-10	35	TCard-J	25	TCard-Q	21	TCard-K	15	TCard-A	9	TCard-E	7	TCard-Z	4	0
+TGrade-Y			1					75	"gld,mul=5632"	125	TCard-Joker	100	TCard-9	33	TCard-10	33	TCard-J	25	TCard-Q	22	TCard-K	16	TCard-A	9	TCard-E	7	TCard-Z	5	0
+TGrade-Z			1					75	"gld,mul=5824"	125	TCard-Joker	100	TCard-9	31	TCard-10	31	TCard-J	25	TCard-Q	23	TCard-K	17	TCard-A	10	TCard-E	8	TCard-Z	5	0
+Act 1 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	4	Runes 1	5	Chipped Gem	4	Cscroll Main	2	hp1	1									0
+Act 2 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	5	Runes 2	5	Chipped Gem	6	Cscroll Main	2	hp2	1	Act 1 Junk	10							0
+Act 3 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	6	Runes 3	5	Chipped Gem	8	Cscroll Main	2	hp3	1	Act 2 Junk	15							0
+Act 4 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	7	Runes 4	5	Chipped Gem	10	Cscroll Main	2	hp4	1	Act 3 Junk	20							0
+Act 5 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	8	Runes 5	5	Chipped Gem	12	Cscroll Main	2	hp5	1	Act 4 Junk	25							0
+Act 1 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
+Act 2 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
+Act 3 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
+Act 4 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
+Act 5 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
+Act 1 (H) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 2	5	Cscroll Main	5	Act 5 Junk	50											0
+Act 2 (H) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 2	5	Cscroll Main	5	Act 5 Junk	50											0
+Act 3 (H) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 2	5	Cscroll Main	5	Act 5 Junk	50											0
+Act 4 (H) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 2	5	Cscroll Main	5	Act 5 Junk	50											0
+Act 5 (H) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 2	5	Cscroll Main	5	Act 5 Junk	50											0
+Act 1 Equip A			1	25	100	300	500	30	Empty	10	weap3	7	armo3	7	TGrade-A	1													0
+Act 1 Equip B			1	25	100	300	500	30	Empty	10	weap3	3	armo3	3	weap6	7	armo6	7	TGrade-A	2									0
+Act 1 Equip C			1	25	100	300	500	30	Empty	10	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1	TGrade-A	3					0
+Act 2 Equip A			1	25	100	300	500	30	Empty	10	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	100	TGrade-B	1			0
+Act 2 Equip B			1	25	100	300	500	30	Empty	10	weap12	6	armo12	3	weap15	14	armo15	7	weap18	2	armo18	1	Act 2 Equip A	100	TGrade-B	2			0
+Act 2 Equip C			1	25	100	300	500	30	Empty	10	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip B	100	TGrade-B	3			0
+Act 3 Equip A			1	25	100	300	500	30	Empty	10	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip C	100	TGrade-C	1			0
+Act 3 Equip B			1	25	100	300	500	30	Empty	10	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 3 Equip A	100	TGrade-C	2			0
+Act 3 Equip C			1	25	100	300	500	30	Empty	10	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip B	100	TGrade-C	3			0
+Act 4 Equip A			1	25	100	300	500	30	Empty	10	weap27	6	armo27	3	weap30	14	armo30	4	weap33	2	armo33	1	Act 3 Equip C	100	TGrade-D	1			0
+Act 4 Equip B			1	25	100	300	500	30	Empty	10	weap30	6	armo30	3	weap33	14	armo33	3	weap36	2	armo36	1	Act 4 Equip A	100	TGrade-D	2			0
+Act 5 Equip A			1	25	100	300	500	30	Empty	10	weap30	6	armo30	3	weap33	14	armo33	3	weap36	7	armo36	5	Act 4 Equip B	100	TGrade-E	1			0
+Act 5 Equip B			1	25	100	300	500	30	Empty	10	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip A	100	TGrade-E	2			0
+Act 5 Equip C			1	25	100	300	500	30	Empty	10	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip B	100	TGrade-E	3			0
+Act 1 (N) Equip A			1	25	100	300	500	37	Empty	13	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Equip C	100	TGrade-F	1			0
+Act 1 (N) Equip B			1	25	100	300	500	37	Empty	13	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Act 1 (N) Equip A	100	TGrade-F	2			0
+Act 1 (N) Equip C			1	25	100	300	500	37	Empty	13	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Equip A	100	TGrade-F	3			0
+Act 2 (N) Equip A			1	25	100	300	500	37	Empty	13	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Equip B	100	TGrade-G	1			0
+Act 2 (N) Equip B			1	25	100	300	500	37	Empty	13	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Equip A	100	TGrade-G	2			0
+Act 2 (N) Equip C			1	25	100	300	500	37	Empty	13	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Act 2 (N) Equip A	100	TGrade-G	3			0
+Act 3 (N) Equip A			1	25	100	300	500	37	Empty	13	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Equip B	100	TGrade-H	1			0
+Act 3 (N) Equip B			1	25	100	300	500	37	Empty	13	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 3 (N) Equip A	100	TGrade-H	2			0
+Act 3 (N) Equip C			1	25	100	300	500	37	Empty	13	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Equip A	100	TGrade-H	3			0
+Act 4 (N) Equip A			1	25	100	300	500	37	Empty	13	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Equip B	100	TGrade-I	1			0
+Act 4 (N) Equip B			1	25	100	300	500	37	Empty	13	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Equip A	100	TGrade-I	2			0
+Act 4 (N) Equip C			1	25	100	300	500	37	Empty	13	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 4 (N) Equip A	100	TGrade-I	3			0
+Act 5 (N) Equip A			1	25	100	300	500	37	Empty	13	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Equip B	100	TGrade-J	1			0
+Act 5 (N) Equip B			1	25	100	300	500	37	Empty	13	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Equip A	100	TGrade-J	2			0
+Act 5 (N) Equip C			1	25	100	300	500	37	Empty	13	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Equip B	100	TGrade-J	3			0
+Act 1 (H) Equip A			1	25	100	300	500	45	Empty	15	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Equip C	100	TGrade-K	1			0
+Act 1 (H) Equip B			1	25	100	300	500	45	Empty	15	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Equip A	100	TGrade-K	2			0
+Act 1 (H) Equip C			1	25	100	300	500	45	Empty	15	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 1 (H) Equip A	100	TGrade-K	3			0
+Act 2 (H) Equip A			1	25	100	300	500	45	Empty	15	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Equip B	100	TGrade-L	1			0
+Act 2 (H) Equip B			1	25	100	300	500	45	Empty	15	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 2 (H) Equip A	100	TGrade-L	2			0
+Act 2 (H) Equip C			1	25	100	300	500	45	Empty	15	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Equip A	100	TGrade-L	3			0
+Act 3 (H) Equip A			1	25	100	300	500	45	Empty	15	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Equip B	100	TGrade-M	1			0
+Act 3 (H) Equip B			1	25	100	300	500	45	Empty	15	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Equip A	100	TGrade-M	2			0
+Act 3 (H) Equip C			1	25	100	300	500	45	Empty	15	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Act 3 (H) Equip A	100	TGrade-M	3			0
+Act 4 (H) Equip A			1	25	100	300	500	45	Empty	15	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Equip B	100	TGrade-N	1			0
+Act 4 (H) Equip B			1	25	100	300	500	45	Empty	15	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 4 (H) Equip A	100	TGrade-N	2			0
+Act 4 (H) Equip C			1	25	100	300	500	45	Empty	15	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Equip A	100	TGrade-N	3			0
+Act 5 (H) Equip A			1	25	100	300	500	45	Empty	15	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Equip B	100	TGrade-O	1			0
+Act 5 (H) Equip B			1	25	100	300	500	45	Empty	15	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Equip A	100	TGrade-O	2			0
+Act 5 (H) Equip C			1	25	100	300	500	45	Empty	15	weap84	6	armo84	3	weap87	14	armo87	7	weap90	2	armo90	1	Act 5 (H) Equip B	100	TGrade-O	3			0
+Act 1 Melee A			1	25	100	300	500	30	Empty	10	mele3	7	armo3	7	TGrade-A	1													0
+Act 1 Melee B			1	25	100	300	500	30	Empty	10	mele3	3	armo3	3	mele6	7	armo6	7	TGrade-A	2									0
+Act 1 Melee C			1	25	100	300	500	30	Empty	10	mele6	6	armo6	3	mele9	14	armo9	7	mele12	2	armo12	1	TGrade-A	3					0
+Act 2 Melee A			1	25	100	300	500	30	Empty	10	mele9	6	armo9	3	mele12	14	armo12	7	mele15	2	armo15	1	Act 1 Melee C	100	TGrade-B	1			0
+Act 2 Melee B			1	25	100	300	500	30	Empty	10	mele12	6	armo12	3	mele15	14	armo15	7	mele18	2	armo18	1	Act 2 Melee A	100	TGrade-B	2			0
+Act 2 Melee C			1	25	100	300	500	30	Empty	10	mele15	6	armo15	3	mele18	14	armo18	7	mele21	2	armo21	1	Act 2 Melee B	100	TGrade-B	3			0
+Act 3 Melee A			1	25	100	300	500	30	Empty	10	mele18	6	armo18	3	mele21	14	armo21	7	mele24	2	armo24	1	Act 2 Melee C	100	TGrade-C	1			0
+Act 3 Melee B			1	25	100	300	500	30	Empty	10	mele21	6	armo21	3	mele24	14	armo24	7	mele27	2	armo27	1	Act 3 Melee A	100	TGrade-C	2			0
+Act 3 Melee C			1	25	100	300	500	30	Empty	10	mele24	6	armo24	3	mele27	14	armo27	7	mele30	2	armo30	1	Act 3 Melee B	100	TGrade-C	3			0
+Act 4 Melee A			1	25	100	300	500	30	Empty	10	mele27	6	armo27	3	mele30	14	armo30	4	mele33	2	armo33	1	Act 3 Melee C	100	TGrade-D	1			0
+Act 4 Melee B			1	25	100	300	500	30	Empty	10	mele30	6	armo30	3	mele33	14	armo33	3	mele36	2	armo36	1	Act 4 Melee A	100	TGrade-D	2			0
+Act 5 Melee A			1	25	100	300	500	30	Empty	10	mele30	6	armo30	3	mele33	14	armo33	3	mele36	7	armo36	5	Act 4 Melee B	100	TGrade-E	1			0
+Act 5 Melee B			1	25	100	300	500	30	Empty	10	mele33	6	armo33	2	mele36	14	armo36	7	mele39	2	armo39	1	Act 5 Melee A	100	TGrade-E	2			0
+Act 5 Melee C			1	25	100	300	500	30	Empty	10	mele33	6	armo33	2	mele36	14	armo36	7	mele39	2	armo39	1	Act 5 Melee B	100	TGrade-E	3			0
+Act 1 (N) Melee A			1	25	100	300	500	37	Empty	13	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Melee C	100	TGrade-F	1			0
+Act 1 (N) Melee B			1	25	100	300	500	37	Empty	13	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Melee A	100	TGrade-F	2			0
+Act 2 (N) Melee A			1	25	100	300	500	37	Empty	13	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Melee B	100	TGrade-G	1			0
+Act 2 (N) Melee B			1	25	100	300	500	37	Empty	13	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Melee A	100	TGrade-G	2			0
+Act 3 (N) Melee A			1	25	100	300	500	37	Empty	13	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Melee B	100	TGrade-H	1			0
+Act 3 (N) Melee B			1	25	100	300	500	37	Empty	13	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Melee A	100	TGrade-H	2			0
+Act 4 (N) Melee A			1	25	100	300	500	37	Empty	13	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Melee B	100	TGrade-I	1			0
+Act 4 (N) Melee B			1	25	100	300	500	37	Empty	13	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Melee A	100	TGrade-I	2			0
+Act 5 (N) Melee A			1	25	100	300	500	37	Empty	13	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Melee B	100	TGrade-J	1			0
+Act 5 (N) Melee B			1	25	100	300	500	37	Empty	13	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Melee A	100	TGrade-J	2			0
+Act 5 (N) Melee C			1	25	100	300	500	37	Empty	13	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Melee B	100	TGrade-J	3			0
+Act 1 (H) Melee A			1	25	100	300	500	45	Empty	15	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Melee C	100	TGrade-K	1			0
+Act 1 (H) Melee B			1	25	100	300	500	45	Empty	15	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Melee A	100	TGrade-K	2			0
+Act 2 (H) Melee A			1	25	100	300	500	45	Empty	15	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Melee B	100	TGrade-L	1			0
+Act 2 (H) Melee B			1	25	100	300	500	45	Empty	15	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Melee A	100	TGrade-L	2			0
+Act 3 (H) Melee A			1	25	100	300	500	45	Empty	15	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Melee B	100	TGrade-M	1			0
+Act 3 (H) Melee B			1	25	100	300	500	45	Empty	15	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Melee A	100	TGrade-M	2			0
+Act 4 (H) Melee A			1	25	100	300	500	45	Empty	15	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Melee B	100	TGrade-N	1			0
+Act 4 (H) Melee B			1	25	100	300	500	45	Empty	15	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Melee A	100	TGrade-N	2			0
+Act 5 (H) Melee A			1	25	100	300	500	45	Empty	15	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Melee B	100	TGrade-O	1			0
+Act 5 (H) Melee B			1	25	100	300	500	45	Empty	15	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Melee A	100	TGrade-O	2			0
+Act 5 (H) Melee C			1	25	100	300	500	45	Empty	15	weap84	6	armo84	3	weap87	14	armo87	7	weap90	2	armo90	1	Act 5 (H) Melee B	100	TGrade-O	3			0
+Act 1 Bow A			1	25	100	300	500	30	Empty	10	bow3	36	TGrade-A	1															0
+Act 1 Bow B			1	25	100	300	500	30	Empty	10	bow3	20	bow6	16	TGrade-A	2													0
+Act 1 Bow C			1	25	100	300	500	30	Empty	10	bow3	10	bow6	16	bow9	10	TGrade-A	3											0
+Act 2 Bow A			1	25	100	300	500	30	Empty	10	bow3	3	bow6	15	bow9	15	bow12	3	TGrade-B	1									0
+Act 2 Bow B			1	25	100	300	500	30	Empty	10	bow6	7	bow9	20	bow12	7	bow15	1	TGrade-B	2									0
+Act 2 Bow C			1	25	100	300	500	30	Empty	10	bow6	3	bow9	14	bow12	14	bow15	3	bow18	1	TGrade-B	3							0
+Act 3 Bow A			1	25	100	300	500	30	Empty	10	bow6	3	bow9	6	bow12	12	bow15	6	bow18	3	bow21	1	TGrade-C	1					0
+Act 3 Bow B			1	25	100	300	500	30	Empty	10	bow6	3	bow9	6	bow12	8	bow15	8	bow18	6	bow21	3	bow24	1	TGrade-C	2			0
+Act 3 Bow C			1	25	100	300	500	30	Empty	10	bow6	2	bow9	5	bow12	7	bow15	8	bow18	7	bow21	4	bow24	2	TGrade-C	3			0
+Act 4 Bow A			1	25	100	300	500	30	Empty	10	bow9	3	bow12	6	bow15	8	bow18	8	bow21	6	bow24	3	bow27	1	Act 3 Bow C	100	TGrade-D	1	0
+Act 4 Bow B			1	25	100	300	500	30	Empty	10	bow9	2	bow12	5	bow15	7	bow18	8	bow21	7	bow24	4	bow27	2	Act 4 Bow A	100	TGrade-D	2	0
+Act 5 Bow A			1	25	100	300	500	30	Empty	10	bow12	3	bow15	6	bow18	8	bow21	8	bow24	6	bow27	3	bow30	1	Act 4 Bow B	100	TGrade-E	1	0
+Act 5 Bow B			1	25	100	300	500	30	Empty	10	bow12	2	bow15	5	bow18	7	bow21	8	bow24	7	bow27	4	bow30	2	Act 5 Bow A	100	TGrade-E	2	0
+Act 5 Bow C			1	25	100	300	500	30	Empty	10	bow12	2	bow15	5	bow18	7	bow21	8	bow24	7	bow27	4	bow30	2	Act 5 Bow B	100	TGrade-E	3	0
+Act 1 (N) Bow A			1	25	100	300	500	37	Empty	13	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 5 Bow C	100	TGrade-F	1	0
+Act 1 (N) Bow B			1	25	100	300	500	37	Empty	13	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Act 1 (N) Bow A	100	TGrade-F	2	0
+Act 2 (N) Bow A			1	25	100	300	500	37	Empty	13	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Act 1 (N) Bow B	100	TGrade-G	1	0
+Act 2 (N) Bow B			1	25	100	300	500	37	Empty	13	bow24	2	bow27	5	bow30	7	bow33	8	bow36	7	bow39	4	bow42	2	Act 2 (N) Bow A	100	TGrade-G	2	0
+Act 3 (N) Bow A			1	25	100	300	500	37	Empty	13	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Act 2 (N) Bow B	100	TGrade-H	1	0
+Act 3 (N) Bow B			1	25	100	300	500	37	Empty	13	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Act 3 (N) Bow A	100	TGrade-H	2	0
+Act 4 (N) Bow A			1	25	100	300	500	37	Empty	13	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Act 3 (N) Bow B	100	TGrade-I	1	0
+Act 4 (N) Bow B			1	25	100	300	500	37	Empty	13	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Act 4 (N) Bow A	100	TGrade-I	2	0
+Act 5 (N) Bow A			1	25	100	300	500	37	Empty	13	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Act 4 (N) Bow B	100	TGrade-J	1	0
+Act 5 (N) Bow B			1	25	100	300	500	37	Empty	13	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Act 5 (N) Bow A	100	TGrade-J	2	0
+Act 5 (N) Bow C			1	25	100	300	500	37	Empty	13	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Act 5 (N) Bow B	100	TGrade-J	3	0
+Act 1 (H) Bow A			1	25	100	300	500	45	Empty	15	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Act 5 (N) Bow C	100	TGrade-K	1	0
+Act 1 (H) Bow B			1	25	100	300	500	45	Empty	15	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Act 1 (H) Bow A	100	TGrade-K	2	0
+Act 2 (H) Bow A			1	25	100	300	500	45	Empty	15	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Act 1 (H) Bow B	100	TGrade-L	1	0
+Act 2 (H) Bow B			1	25	100	300	500	45	Empty	15	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Act 2 (H) Bow A	100	TGrade-L	2	0
+Act 3 (H) Bow A			1	25	100	300	500	45	Empty	15	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Act 2 (H) Bow B	100	TGrade-M	1	0
+Act 3 (H) Bow B			1	25	100	300	500	45	Empty	15	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Act 3 (H) Bow A	100	TGrade-M	2	0
+Act 4 (H) Bow A			1	25	100	300	500	45	Empty	15	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Act 3 (H) Bow B	100	TGrade-N	1	0
+Act 4 (H) Bow B			1	25	100	300	500	45	Empty	15	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Act 4 (H) Bow A	100	TGrade-N	2	0
+Act 5 (H) Bow A			1	25	100	300	500	45	Empty	15	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Act 4 (H) Bow B	100	TGrade-O	1	0
+Act 5 (H) Bow B			1	25	100	300	500	45	Empty	15	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow90	2	bow90	1	Act 5 (H) Bow A	100	TGrade-O	2	0
+Act 5 (H) Bow C			1	25	100	300	500	45	Empty	15	bow78	2	bow81	5	bow84	7	bow87	8	bow90	1	bow90	1	bow90	1	Act 5 (H) Bow B	100	TGrade-O	3	0
+Act 1 Magic A			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Chipped Gem	2	jew	2	rin	2	amu	2	Cscroll Main	1	TGrade-A	1			0
+Act 1 Magic B			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Cscroll Main	2	TGrade-A	2			0
+Act 1 Magic C			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Cscroll Main	3	TGrade-A	3			0
+Act 2 Magic A			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Chipped Gem	2	jew	2	rin	2	amu	2	Cscroll Main	1	TGrade-B	1			0
+Act 2 Magic B			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Cscroll Main	2	TGrade-B	2			0
+Act 2 Magic C			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Cscroll Main	3	TGrade-B	3			0
+Act 3 Magic A			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Chipped Gem	2	jew	2	rin	2	amu	2	Cscroll Main	1	TGrade-C	1			0
+Act 3 Magic B			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Cscroll Main	2	TGrade-C	2			0
+Act 3 Magic C			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Cscroll Main	3	TGrade-C	3			0
+Act 4 Magic A			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Chipped Gem	2	jew	2	rin	2	amu	2	Cscroll Main	1	TGrade-D	1			0
+Act 4 Magic B			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Cscroll Main	2	TGrade-D	2			0
+Act 5 Magic A			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Chipped Gem	2	jew	2	rin	2	amu	2	Cscroll Main	1	TGrade-E	1			0
+Act 5 Magic B			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Cscroll Main	2	TGrade-E	2			0
+Act 5 Magic C			1	25	100	300	500	40	Empty	20	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Cscroll Main	3	TGrade-E	3			0
+Act 1 (N) Magic A			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Mscroll Main	1	TGrade-F	1			0
+Act 1 (N) Magic B			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Mscroll Main	2	TGrade-F	2			0
+Act 2 (N) Magic A			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	8	amu	4	Mscroll Main	1	TGrade-G	1			0
+Act 2 (N) Magic B			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Normal Gem	2	jew	6	rin	4	amu	6	Mscroll Main	2	TGrade-G	2			0
+Act 3 (N) Magic A			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	6	amu	4	Mscroll Main	1	TGrade-H	1			0
+Act 3 (N) Magic B			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Normal Gem	2	jew	6	rin	8	amu	6	Mscroll Main	2	TGrade-H	2			0
+Act 4 (N) Magic A			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Mscroll Main	1	TGrade-I	1			0
+Act 4 (N) Magic B			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Mscroll Main	2	TGrade-I	2			0
+Act 5 (N) Magic A			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawed Gem	2	jew	4	rin	4	amu	4	Mscroll Main	1	TGrade-J	1			0
+Act 5 (N) Magic B			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Normal Gem	2	jew	6	rin	6	amu	6	Mscroll Main	2	TGrade-J	2			0
+Act 5 (N) Magic C			1	25	100	300	500	50	Empty	25	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-J	3			0
+Act 1 (H) Magic A			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Normal Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-K	1			0
+Act 1 (H) Magic B			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-K	2			0
+Act 2 (H) Magic A			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Normal Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-L	1			0
+Act 2 (H) Magic B			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-L	2			0
+Act 3 (H) Magic A			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Normal Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-M	1			0
+Act 3 (H) Magic B			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-M	2			0
+Act 4 (H) Magic A			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Normal Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-N	1			0
+Act 4 (H) Magic B			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-N	2			0
+Act 5 (H) Magic A			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Normal Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-O	1			0
+Act 5 (H) Magic B			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Flawless Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-O	2			0
+Act 5 (H) Magic C			1	25	100	300	500	60	Empty	30	tsc	1	isc	3	Perfect Gem	2	jew	8	rin	8	amu	8	Mscroll Main	3	TGrade-O	3			0
+Act 1 Good			1	50	200	400	650	40	Empty	20	Jewelry A	30	Chipped Gem	25	Runes 1	20	Runes 2	20	Runes 3	15	Misc 1	3	Misc 2	1	Cscroll Main	3	TGrade-A	2	0
+Act 2 Good			1	50	200	400	650	40	Empty	20	Jewelry B	30	Chipped Gem	25	Flawed Gem	20	Runes 2	20	Runes 3	15	Runes 4	10	Misc 2	3	Cscroll Main	3	TGrade-B	2	0
+Act 3 Good			1	50	200	400	650	40	Empty	20	Jewelry C	30	Chipped Gem	25	Flawed Gem	20	Runes 3	20	Runes 4	15	Runes 5	10	Cscroll Main	3	Mscroll Main	1	TGrade-C	1	0
+Act 4 Good			1	50	200	400	650	40	Empty	20	Jewelry C	30	Chipped Gem	25	Flawed Gem	20	Normal Gem	15	Runes 5	15	Runes 6	10	Cscroll Main	3	Mscroll Main	1	TGrade-D	1	0
+Act 5 Good			1	50	200	400	650	40	Empty	20	Jewelry C	30	Chipped Gem	25	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 7	10	Cscroll Main	3	Mscroll Main	1	TGrade-E	1	0
+Act 1 (N) Good			1	50	200	400	650	50	Empty	25	Jewelry C	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 8 (N)	10	elx	1	Cscroll Main	3	Mscroll Main	2	TGrade-F	2	0
+Act 2 (N) Good			1	50	200	400	650	50	Empty	25	Jewelry C	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 9 (N)	10	elx	1	Cscroll Main	3	Mscroll Main	2	TGrade-G	2	0
+Act 3 (N) Good			1	50	200	400	650	50	Empty	25	Jewelry C	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 10 (N)	10	elx	1	Cscroll Main	3	Mscroll Main	2	TGrade-H	2	0
+Act 4 (N) Good			1	50	200	400	650	50	Empty	25	Jewelry C	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 11 (N)	10	elx	1	Cscroll Main	3	Mscroll Main	2	TGrade-I	2	0
+Act 5 (N) Good			1	50	200	400	650	50	Empty	25	Jewelry C	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 12 (N)	10	elx	1	Cscroll Main	3	Mscroll Main	2	TGrade-J	2	0
+Act 1 (H) Good			1	50	200	400	650	60	Empty	30	Jewelry C	30	Normal Gem	15	Flawless Gem	10	Runes 13 (H)	10	elx	1	Cscroll Main	3	Mscroll Main	2	Lscroll Main	1	TGrade-K	1	0
+Act 2 (H) Good			1	50	200	400	650	60	Empty	30	Jewelry C	30	Normal Gem	15	Flawless Gem	10	Runes 14 (H)	10	elx	1	Cscroll Main	3	Mscroll Main	2	Lscroll Main	1	TGrade-L	1	0
+Act 3 (H) Good			1	50	200	400	650	60	Empty	30	Jewelry C	30	Normal Gem	15	Flawless Gem	10	Runes 15 (H)	10	elx	1	Cscroll Main	3	Mscroll Main	2	Lscroll Main	1	TGrade-M	1	0
+Act 4 (H) Good			1	50	200	400	650	60	Empty	30	Jewelry C	30	Normal Gem	15	Flawless Gem	10	Runes 16 (H)	10	elx	1	Cscroll Main	3	Mscroll Main	2	Lscroll Main	1	TGrade-N	1	0
+Act 5 (H) Good			1	50	200	400	650	60	Empty	30	Jewelry C	30	Normal Gem	15	Flawless Gem	10	Runes 17 (H)	10	elx	1	Cscroll Main	3	Mscroll Main	2	Lscroll Main	1	TGrade-O	1	0
+Act 1 Chest A			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 1 Junk	15	Act 1 Equip A	30	Act 1 Good	15	Potion 1	2	Gremlin Main	1	Gremlin 1	1					0
+Act 1 Chest B			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 1 Junk	15	Act 1 Equip B	30	Act 1 Good	15	Potion 1	2	Gremlin Main	1	Gremlin 2	1					0
+Act 1 Chest C			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 1 Junk	15	Act 1 Equip C	30	Act 1 Good	15	Potion 1	2	Gremlin Main	1	Gremlin 3	1					0
+Act 2 Chest A			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 2 Junk	15	Act 2 Equip A	30	Act 2 Good	15	Potion 2	2	Gremlin Main	1	Gremlin 4	1					0
+Act 2 Chest B			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 2 Junk	15	Act 2 Equip B	30	Act 2 Good	15	Potion 2	2	Gremlin Main	1	Gremlin 5	1					0
+Act 2 Chest C			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 2 Junk	15	Act 2 Equip C	30	Act 2 Good	15	Potion 2	2	Gremlin Main	1	Gremlin 6	1					0
+Act 3 Chest A			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 3 Junk	15	Act 3 Equip A	30	Act 3 Good	15	Potion 3	2	Gremlin Main	1	Gremlin 7	1					0
+Act 3 Chest B			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 3 Junk	15	Act 3 Equip B	30	Act 3 Good	15	Potion 3	2	Gremlin Main	1	Gremlin 8	1					0
+Act 3 Chest C			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 3 Junk	15	Act 3 Equip C	30	Act 3 Good	15	Potion 3	2	Gremlin Main	1	Gremlin 9	1					0
+Act 4 Chest A			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 4 Junk	15	Act 4 Equip A	30	Act 4 Good	15	Potion 4	2	Gremlin Main	1	Gremlin 10	1					0
+Act 4 Chest B			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 4 Junk	15	Act 4 Equip B	30	Act 4 Good	15	Potion 4	2	Gremlin Main	1	Gremlin 11	1					0
+Act 4 Chest C			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 4 Junk	15	Act 4 Equip B	30	Act 4 Good	15	Potion 4	2	Gremlin Main	1	Gremlin 12	1					0
+Act 5 Chest A			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 5 Junk	15	Act 5 Equip A	30	Act 5 Good	15	Potion 5	2	Gremlin Main	1	Gremlin 13	1					0
+Act 5 Chest B			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 5 Junk	15	Act 5 Equip B	30	Act 5 Good	15	Potion 5	2	Gremlin Main	1	Gremlin 14	1					0
+Act 5 Chest C			4	25	100	300	500	10	Empty	10	Gold 2	50	Act 5 Junk	15	Act 5 Equip C	30	Act 5 Good	15	Potion 5	2	Gremlin Main	1	Gremlin 15	1					0
+Act 1 (N) Chest A			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 1 (N) Junk	15	Act 1 (N) Equip A	10	Act 1 (N) Good	5	Potion 1 (N)	2	Gremlin Main	2	Gremlin 16	2					0
+Act 1 (N) Chest B			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	5	Potion 1 (N)	2	Gremlin Main	2	Gremlin 17	2					0
+Act 1 (N) Chest C			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	5	Potion 1 (N)	2	Gremlin Main	2	Gremlin 18	2					0
+Act 2 (N) Chest A			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 2 (N) Junk	15	Act 2 (N) Equip A	10	Act 2 (N) Good	5	Potion 2 (N)	2	Gremlin Main	2	Gremlin 19	2					0
+Act 2 (N) Chest B			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	5	Potion 2 (N)	2	Gremlin Main	2	Gremlin 20	2					0
+Act 2 (N) Chest C			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	5	Potion 2 (N)	2	Gremlin Main	2	Gremlin 21	2					0
+Act 3 (N) Chest A			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 3 (N) Junk	15	Act 3 (N) Equip A	10	Act 3 (N) Good	5	Potion 3 (N)	2	Gremlin Main	2	Gremlin 22	2					0
+Act 3 (N) Chest B			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	5	Potion 3 (N)	2	Gremlin Main	2	Gremlin 23	2					0
+Act 3 (N) Chest C			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	5	Potion 3 (N)	2	Gremlin Main	2	Gremlin 24	2					0
+Act 4 (N) Chest A			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 4 (N) Junk	15	Act 4 (N) Equip A	10	Act 4 (N) Good	5	Potion 4 (N)	2	Gremlin Main	2	Gremlin 25	2					0
+Act 4 (N) Chest B			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 4 (N) Junk	15	Act 4 (N) Equip B	10	Act 4 (N) Good	5	Potion 4 (N)	2	Gremlin Main	2	Gremlin 26	2					0
+Act 4 (N) Chest C			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 4 (N) Junk	15	Act 4 (N) Equip C	10	Act 4 (N) Good	5	Potion 4 (N)	2	Gremlin Main	2	Gremlin 27	2					0
+Act 5 (N) Chest A			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 5 (N) Junk	15	Act 5 (N) Equip A	10	Act 5 (N) Good	5	Potion 5 (N)	2	Gremlin Main	2	Gremlin 28	2					0
+Act 5 (N) Chest B			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	5	Potion 5 (N)	2	Gremlin Main	2	Gremlin 29	2					0
+Act 5 (N) Chest C			4	25	100	300	500	15	Empty	15	Gold 2	50	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	5	Potion 5 (N)	2	Gremlin Main	2	Gremlin 30	2					0
+Act 1 (H) Chest A			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 1 (H) Junk	15	Act 1 (H) Equip A	10	Act 1 (H) Good	5	Potion 1 (H)	2	Gremlin Main	2	Gremlin 31	2					0
+Act 1 (H) Chest B			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	5	Potion 1 (H)	2	Gremlin Main	2	Gremlin 32	2					0
+Act 1 (H) Chest C			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	5	Potion 1 (H)	2	Gremlin Main	2	Gremlin 33	2					0
+Act 2 (H) Chest A			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 2 (H) Junk	15	Act 2 (H) Equip A	10	Act 2 (H) Good	5	Potion 2 (H)	2	Gremlin Main	4							0
+Act 2 (H) Chest B			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	5	Potion 2 (H)	2	Gremlin Main	4							0
+Act 2 (H) Chest C			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	5	Potion 2 (H)	2	Gremlin Main	4							0
+Act 3 (H) Chest A			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 3 (H) Junk	15	Act 3 (H) Equip A	10	Act 3 (H) Good	5	Potion 3 (H)	2	Gremlin Main	4							0
+Act 3 (H) Chest B			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	5	Potion 3 (H)	2	Gremlin Main	4							0
+Act 3 (H) Chest C			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	5	Potion 3 (H)	2	Gremlin Main	4							0
+Act 4 (H) Chest A			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 4 (H) Junk	15	Act 4 (H) Equip A	10	Act 4 (H) Good	5	Potion 4 (H)	2	Gremlin Main	4							0
+Act 4 (H) Chest B			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	5	Potion 4 (H)	2	Gremlin Main	4							0
+Act 4 (H) Chest C			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	5	Potion 4 (H)	2	Gremlin Main	4							0
+Act 5 (H) Chest A			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 5 (H) Junk	15	Act 5 (H) Equip A	10	Act 5 (H) Good	5	Potion 5 (H)	2	Gremlin Main	4							0
+Act 5 (H) Chest B			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	5	Potion 5 (H)	2	Gremlin Main	4							0
+Act 5 (H) Chest C			4	25	100	300	500	20	Empty	20	Gold 2	50	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	5	Potion 5 (H)	2	Gremlin Main	4							0
+Act 1 H2H A			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 1 Equip A	16	Act 1 Junk	21	Act 1 Good	2											0
+Act 1 H2H B			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 1 Equip B	16	Act 1 Junk	21	Act 1 Good	2											0
+Act 1 H2H C			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 1 Equip C	16	Act 1 Junk	21	Act 1 Good	2											0
+Act 2 H2H A			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 2 Equip A	16	Act 2 Junk	21	Act 2 Good	2											0
+Act 2 H2H B			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 2 Equip B	16	Act 2 Junk	21	Act 2 Good	2											0
+Act 2 H2H C			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 2 Equip C	16	Act 2 Junk	21	Act 3 Good	2											0
+Act 3 H2H A			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 3 Equip A	16	Act 3 Junk	21	Act 3 Good	2											0
+Act 3 H2H B			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 3 Equip B	16	Act 3 Junk	21	Act 3 Good	2											0
+Act 3 H2H C			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 3 Equip C	16	Act 3 Junk	21	Act 3 Good	2											0
+Act 4 H2H A			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 4 Equip A	16	Act 4 Junk	21	Act 4 Good	2											0
+Act 4 H2H B			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 4 Equip B	16	Act 4 Junk	21	Act 4 Good	2											0
+Act 5 H2H A			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 5 Equip A	16	Act 5 Junk	21	Act 5 Good	2											0
+Act 5 H2H B			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 5 Equip B	16	Act 5 Junk	21	Act 5 Good	2											0
+Act 5 H2H C			1	25	100	300	500	30	Empty	10	Gold 2	30	Act 5 Equip C	16	Act 5 Junk	21	Act 5 Good	2											0
+Act 1 (N) H2H A			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 1 (N) Equip A	16	Act 1 (N) Junk	21	Act 1 (N) Good	2											0
+Act 1 (N) H2H B			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 1 (N) Equip B	16	Act 1 (N) Junk	21	Act 1 (N) Good	2											0
+Act 1 (N) H2H C			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 1 (N) Equip B	16	Act 1 (N) Junk	21	Act 1 (N) Good	2											0
+Act 2 (N) H2H A			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 2 (N) Equip A	16	Act 2 (N) Junk	21	Act 2 (N) Good	2											0
+Act 2 (N) H2H B			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 2 (N) Equip B	16	Act 2 (N) Junk	21	Act 2 (N) Good	2											0
+Act 2 (N) H2H C			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 2 (N) Equip B	16	Act 2 (N) Junk	21	Act 2 (N) Good	2											0
+Act 3 (N) H2H A			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 3 (N) Equip A	16	Act 3 (N) Junk	21	Act 3 (N) Good	2											0
+Act 3 (N) H2H B			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 3 (N) Equip B	16	Act 3 (N) Junk	21	Act 3 (N) Good	2											0
+Act 3 (N) H2H C			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 3 (N) Equip B	16	Act 3 (N) Junk	21	Act 3 (N) Good	2											0
+Act 4 (N) H2H A			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 4 (N) Equip A	16	Act 4 (N) Junk	21	Act 4 (N) Good	2											0
+Act 4 (N) H2H B			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 4 (N) Equip B	16	Act 4 (N) Junk	21	Act 4 (N) Good	2											0
+Act 5 (N) H2H A			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 5 (N) Equip A	16	Act 5 (N) Junk	21	Act 5 (N) Good	2											0
+Act 5 (N) H2H B			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 5 (N) Equip B	16	Act 5 (N) Junk	21	Act 5 (N) Good	2											0
+Act 5 (N) H2H C			1	25	100	300	500	37	Empty	13	Gold 2	30	Act 5 (N) Equip C	16	Act 5 (N) Junk	21	Act 5 (N) Good	2											0
+Act 1 (H) H2H A			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 1 (H) Equip A	16	Act 1 (H) Junk	21	Act 1 (H) Good	2											0
+Act 1 (H) H2H B			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 1 (H) Equip B	16	Act 1 (H) Junk	21	Act 1 (H) Good	2											0
+Act 1 (H) H2H C			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 1 (H) Equip B	16	Act 1 (H) Junk	21	Act 1 (H) Good	2											0
+Act 2 (H) H2H A			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 2 (H) Equip A	16	Act 1 (H) Junk	21	Act 2 (H) Good	2											0
+Act 2 (H) H2H B			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 2 (H) Equip B	16	Act 1 (H) Junk	21	Act 2 (H) Good	2											0
+Act 2 (H) H2H C			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 2 (H) Equip B	16	Act 1 (H) Junk	21	Act 2 (H) Good	2											0
+Act 3 (H) H2H A			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 3 (H) Equip A	16	Act 1 (H) Junk	21	Act 3 (H) Good	2											0
+Act 3 (H) H2H B			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 3 (H) Equip B	16	Act 1 (H) Junk	21	Act 3 (H) Good	2											0
+Act 3 (H) H2H C			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 3 (H) Equip B	16	Act 1 (H) Junk	21	Act 3 (H) Good	2											0
+Act 4 (H) H2H A			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 4 (H) Equip A	16	Act 1 (H) Junk	21	Act 4 (H) Good	2											0
+Act 4 (H) H2H B			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 4 (H) Equip B	16	Act 1 (H) Junk	21	Act 4 (H) Good	2											0
+Act 5 (H) H2H A			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 5 (H) Equip A	16	Act 1 (H) Junk	21	Act 5 (H) Good	2											0
+Act 5 (H) H2H B			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 5 (H) Equip B	16	Act 1 (H) Junk	21	Act 5 (H) Good	2											0
+Act 5 (H) H2H C			1	25	100	300	500	45	Empty	15	Gold 2	30	Act 5 (H) Equip C	16	Act 1 (H) Junk	21	Act 5 (H) Good	2											0
+Act 1 Cast A			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 1 Equip A	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic A	7									0
+Act 1 Cast B			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 1 Equip B	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic B	7									0
+Act 1 Cast C			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 1 Equip C	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic C	7									0
+Act 2 Cast A			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 2 Equip A	15	Act 2 Junk	18	Act 2 Good	2	Act 2 Magic A	7									0
+Act 2 Cast B			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 2 Equip B	15	Act 2 Junk	18	Act 2 Good	2	Act 2 Magic B	7									0
+Act 2 Cast C			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 2 Equip C	15	Act 2 Junk	18	Act 3 Good	2	Act 2 Magic C	7									0
+Act 3 Cast A			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 3 Equip A	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic A	7									0
+Act 3 Cast B			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 3 Equip B	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic B	7									0
+Act 3 Cast C			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 3 Equip C	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic C	7									0
+Act 4 Cast A			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 4 Equip A	15	Act 4 Junk	18	Act 4 Good	2	Act 4 Magic A	7									0
+Act 4 Cast B			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 4 Equip B	15	Act 4 Junk	18	Act 4 Good	2	Act 4 Magic B	7									0
+Act 5 Cast A			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 5 Equip A	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic A	7									0
+Act 5 Cast B			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 5 Equip B	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic B	7									0
+Act 5 Cast C			1	25	100	300	500	30	Empty	10	Gold 2	24	Act 5 Equip C	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic C	7									0
+Act 1 (N) Cast A			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 1 (N) Equip A	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic A	7									0
+Act 1 (N) Cast B			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 1 (N) Equip B	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic B	7									0
+Act 1 (N) Cast C			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 1 (N) Equip B	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic B	7									0
+Act 2 (N) Cast A			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 2 (N) Equip A	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic A	7									0
+Act 2 (N) Cast B			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 2 (N) Equip B	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic B	7									0
+Act 2 (N) Cast C			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 2 (N) Equip B	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic B	7									0
+Act 3 (N) Cast A			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 3 (N) Equip A	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic A	7									0
+Act 3 (N) Cast B			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 3 (N) Equip B	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic B	7									0
+Act 3 (N) Cast C			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 3 (N) Equip B	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic B	7									0
+Act 4 (N) Cast A			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 4 (N) Equip A	15	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Magic A	7									0
+Act 4 (N) Cast B			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 4 (N) Equip B	15	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Magic B	7									0
+Act 5 (N) Cast A			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 5 (N) Equip A	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic A	7									0
+Act 5 (N) Cast B			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 5 (N) Equip B	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic B	7									0
+Act 5 (N) Cast C			1	25	100	300	500	37	Empty	13	Gold 2	24	Act 5 (N) Equip C	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic B	7									0
+Act 1 (H) Cast A			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 1 (H) Equip A	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic A	7									0
+Act 1 (H) Cast B			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 1 (H) Equip B	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic B	7									0
+Act 1 (H) Cast C			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 1 (H) Equip B	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic B	7									0
+Act 2 (H) Cast A			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 2 (H) Equip A	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic A	7									0
+Act 2 (H) Cast B			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 2 (H) Equip B	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic B	7									0
+Act 2 (H) Cast C			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 2 (H) Equip B	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic B	7									0
+Act 3 (H) Cast A			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 3 (H) Equip A	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic A	7									0
+Act 3 (H) Cast B			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 3 (H) Equip B	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic B	7									0
+Act 3 (H) Cast C			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 3 (H) Equip B	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic B	7									0
+Act 4 (H) Cast A			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 4 (H) Equip A	15	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Magic A	7									0
+Act 4 (H) Cast B			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 4 (H) Equip B	15	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Magic B	7									0
+Act 5 (H) Cast A			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 5 (H) Equip A	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic A	7									0
+Act 5 (H) Cast B			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 5 (H) Equip B	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic B	7									0
+Act 5 (H) Cast C			1	25	100	300	500	45	Empty	15	Gold 2	24	Act 5 (H) Equip C	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic B	7									0
+Act 1 Miss A			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 1 Equip A	16	Act 1 Junk	24	Act 1 Good	3	Act 1 Bow A	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 1 Miss B			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 1 Equip B	16	Act 1 Junk	24	Act 1 Good	3	Act 1 Bow B	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 1 Miss C			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 1 Equip C	16	Act 1 Junk	24	Act 1 Good	3	Act 1 Bow C	6	aqv	2	cqv	2	bpq	2	xpq	2	0
+Act 2 Miss A			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 2 Equip A	16	Act 2 Junk	24	Act 2 Good	3	Act 2 Bow A	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 2 Miss B			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 2 Equip B	16	Act 2 Junk	24	Act 2 Good	3	Act 2 Bow B	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 2 Miss C			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 2 Equip C	16	Act 2 Junk	24	Act 3 Good	3	Act 2 Bow C	6	aqv	2	cqv	2	bpq	2	xpq	2	0
+Act 3 Miss A			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 3 Equip A	16	Act 3 Junk	24	Act 3 Good	3	Act 3 Bow A	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 3 Miss B			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 3 Equip B	16	Act 3 Junk	24	Act 3 Good	3	Act 3 Bow B	6	aqv	1	cqv	1	bpq	1	xpq	1	0
+Act 3 Miss C			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 3 Equip C	16	Act 3 Junk	24	Act 3 Good	3	Act 3 Bow C	6	aqv	2	cqv	2	bpq	2	xpq	2	0
+Act 4 Miss A			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 4 Equip A	16	Act 4 Junk	24	Act 4 Good	3	Act 4 Bow A	6	aqv	2	cqv	2	bpq	1	xpq	1	0
+Act 4 Miss B			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 4 Equip B	16	Act 4 Junk	24	Act 4 Good	3	Act 4 Bow B	6	aqv	3	cqv	3	bpq	2	xpq	2	0
+Act 5 Miss A			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 5 Equip A	16	Act 5 Junk	24	Act 5 Good	3	Act 5 Bow A	6	aqv	2	cqv	2	bpq	1	xpq	1	0
+Act 5 Miss B			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 5 Equip B	16	Act 5 Junk	24	Act 5 Good	3	Act 5 Bow B	6	aqv	3	cqv	3	bpq	2	xpq	2	0
+Act 5 Miss C			1	25	100	300	500	30	Empty	10	Gold 2	50	Act 5 Equip C	16	Act 5 Junk	24	Act 5 Good	3	Act 5 Bow B	6	aqv	4	cqv	4	mqv	3	bqv	3	0
+Act 1 (N) Miss A			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 1 (N) Equip A	16	Act 1 (N) Junk	24	Act 1 (N) Good	3	Act 1 (N) Bow A	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 1 (N) Miss B			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 1 (N) Equip B	16	Act 1 (N) Junk	24	Act 1 (N) Good	3	Act 1 (N) Bow B	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 1 (N) Miss C			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 1 (N) Equip B	16	Act 1 (N) Junk	24	Act 1 (N) Good	3	Act 1 (N) Bow B	6	bpq	2	xpq	2	mqv	2	bqv	2	0
+Act 2 (N) Miss A			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 2 (N) Equip A	16	Act 2 (N) Junk	24	Act 2 (N) Good	3	Act 2 (N) Bow A	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 2 (N) Miss B			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 2 (N) Equip B	16	Act 2 (N) Junk	24	Act 2 (N) Good	3	Act 2 (N) Bow B	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 2 (N) Miss C			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 2 (N) Equip B	16	Act 2 (N) Junk	24	Act 2 (N) Good	3	Act 2 (N) Bow B	6	bpq	2	xpq	2	mqv	2	bqv	2	0
+Act 3 (N) Miss A			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 3 (N) Equip A	16	Act 3 (N) Junk	24	Act 3 (N) Good	3	Act 3 (N) Bow A	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 3 (N) Miss B			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 3 (N) Equip B	16	Act 3 (N) Junk	24	Act 3 (N) Good	3	Act 3 (N) Bow B	6	bpq	1	xpq	1	mqv	1	bqv	1	0
+Act 3 (N) Miss C			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 3 (N) Equip B	16	Act 3 (N) Junk	24	Act 3 (N) Good	3	Act 3 (N) Bow B	6	bpq	2	xpq	2	mqv	2	bqv	2	0
+Act 4 (N) Miss A			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 4 (N) Equip A	16	Act 4 (N) Junk	24	Act 4 (N) Good	3	Act 4 (N) Bow A	6	bpq	2	xpq	2	mqv	1	bqv	1	0
+Act 4 (N) Miss B			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 4 (N) Equip B	16	Act 4 (N) Junk	24	Act 4 (N) Good	3	Act 4 (N) Bow B	6	bpq	3	xpq	3	mqv	2	bqv	2	0
+Act 5 (N) Miss A			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 5 (N) Equip A	16	Act 5 (N) Junk	24	Act 5 (N) Good	3	Act 5 (N) Bow A	6	bpq	2	xpq	2	mqv	1	bqv	1	0
+Act 5 (N) Miss B			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 5 (N) Equip B	16	Act 5 (N) Junk	24	Act 5 (N) Good	3	Act 5 (N) Bow B	6	bpq	3	xpq	3	mqv	2	bqv	2	0
+Act 5 (N) Miss C			1	25	100	300	500	40	Empty	15	Gold 2	50	Act 5 (N) Equip C	16	Act 5 (N) Junk	24	Act 5 (N) Good	3	Act 5 (N) Bow B	6	bpq	4	xpq	4	mqv	3	bqv	3	0
+Act 1 (H) Miss A			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 1 (H) Equip A	16	Act 1 (H) Junk	24	Act 1 (H) Good	3	Act 1 (H) Bow A	6	mqv	2	bqv	2					0
+Act 1 (H) Miss B			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 1 (H) Equip B	16	Act 1 (H) Junk	24	Act 1 (H) Good	3	Act 1 (H) Bow B	6	mqv	2	bqv	2					0
+Act 1 (H) Miss C			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 1 (H) Equip B	16	Act 1 (H) Junk	24	Act 1 (H) Good	3	Act 1 (H) Bow B	6	mqv	3	bqv	3					0
+Act 2 (H) Miss A			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 2 (H) Equip A	16	Act 1 (H) Junk	24	Act 2 (H) Good	3	Act 2 (H) Bow A	6	mqv	2	bqv	2					0
+Act 2 (H) Miss B			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 2 (H) Equip B	16	Act 1 (H) Junk	24	Act 2 (H) Good	3	Act 2 (H) Bow B	6	mqv	2	bqv	2					0
+Act 2 (H) Miss C			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 2 (H) Equip B	16	Act 1 (H) Junk	24	Act 2 (H) Good	3	Act 2 (H) Bow B	6	mqv	3	bqv	3					0
+Act 3 (H) Miss A			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 3 (H) Equip A	16	Act 1 (H) Junk	24	Act 3 (H) Good	3	Act 3 (H) Bow A	6	mqv	2	bqv	2					0
+Act 3 (H) Miss B			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 3 (H) Equip B	16	Act 1 (H) Junk	24	Act 3 (H) Good	3	Act 3 (H) Bow B	6	mqv	2	bqv	2					0
+Act 3 (H) Miss C			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 3 (H) Equip B	16	Act 1 (H) Junk	24	Act 3 (H) Good	3	Act 3 (H) Bow B	6	mqv	3	bqv	3					0
+Act 4 (H) Miss A			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 4 (H) Equip A	16	Act 1 (H) Junk	24	Act 4 (H) Good	3	Act 4 (H) Bow A	6	mqv	3	bqv	3					0
+Act 4 (H) Miss B			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 4 (H) Equip B	16	Act 1 (H) Junk	24	Act 4 (H) Good	3	Act 4 (H) Bow B	6	mqv	4	bqv	4					0
+Act 5 (H) Miss A			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 5 (H) Equip A	16	Act 1 (H) Junk	24	Act 5 (H) Good	3	Act 5 (H) Bow A	6	mqv	3	bqv	3					0
+Act 5 (H) Miss B			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 5 (H) Equip B	16	Act 1 (H) Junk	24	Act 5 (H) Good	3	Act 5 (H) Bow B	6	mqv	4	bqv	4					0
+Act 5 (H) Miss C			1	25	100	300	500	60	Empty	20	Gold 2	50	Act 5 (H) Equip C	16	Act 1 (H) Junk	24	Act 5 (H) Good	3	Act 5 (H) Bow B	6	mqv	5	bqv	5					0
+Act 1 Wraith A			1	25	100	300	500	30	Empty	10	Act 1 Good	10	Act 1 Magic A	60	Gremlin Main	1	Gremlin 1	1											0
+Act 1 Wraith B			1	25	100	300	500	30	Empty	10	Act 1 Good	10	Act 1 Magic B	60	Gremlin Main	1	Gremlin 2	1											0
+Act 1 Wraith C			1	25	100	300	500	30	Empty	10	Act 1 Good	10	Act 1 Magic C	60	Gremlin Main	1	Gremlin 3	1											0
+Act 2 Wraith A			1	25	100	300	500	30	Empty	10	Act 2 Good	10	Act 2 Magic A	60	Gremlin Main	1	Gremlin 4	1											0
+Act 2 Wraith B			1	25	100	300	500	30	Empty	10	Act 2 Good	10	Act 2 Magic B	60	Gremlin Main	1	Gremlin 5	1											0
+Act 2 Wraith C			1	25	100	300	500	30	Empty	10	Act 3 Good	10	Act 2 Magic C	60	Gremlin Main	1	Gremlin 6	1											0
+Act 3 Wraith A			1	25	100	300	500	30	Empty	10	Act 3 Good	10	Act 3 Magic A	60	Gremlin Main	1	Gremlin 7	1											0
+Act 3 Wraith B			1	25	100	300	500	30	Empty	10	Act 3 Good	10	Act 3 Magic B	60	Gremlin Main	1	Gremlin 8	1											0
+Act 3 Wraith C			1	25	100	300	500	30	Empty	10	Act 3 Good	10	Act 3 Magic C	60	Gremlin Main	1	Gremlin 9	1											0
+Act 4 Wraith A			1	25	100	300	500	30	Empty	10	Act 4 Good	10	Act 4 Magic A	60	Gremlin Main	1	Gremlin 10	1											0
+Act 4 Wraith B			1	25	100	300	500	30	Empty	10	Act 4 Good	10	Act 4 Magic B	60	Gremlin Main	1	Gremlin 11	1											0
+Act 5 Wraith A			1	25	100	300	500	30	Empty	10	Act 5 Good	10	Act 5 Magic A	60	Gremlin Main	1	Gremlin 12	1											0
+Act 5 Wraith B			1	25	100	300	500	30	Empty	10	Act 5 Good	10	Act 5 Magic B	60	Gremlin Main	1	Gremlin 13	1											0
+Act 5 Wraith C			1	25	100	300	500	30	Empty	10	Act 5 Good	10	Act 5 Magic C	60	Gremlin Main	1	Gremlin 14	1											0
+Act 1 (N) Wraith A			1	25	100	300	500	37	Empty	13	Act 1 (N) Good	10	Act 1 (N) Magic A	50	Gremlin Main	1	Gremlin 15	1											0
+Act 1 (N) Wraith B			1	25	100	300	500	37	Empty	13	Act 1 (N) Good	10	Act 1 (N) Magic B	50	Gremlin Main	1	Gremlin 16	1											0
+Act 1 (N) Wraith C			1	25	100	300	500	37	Empty	13	Act 1 (N) Good	10	Act 1 (N) Magic B	50	Gremlin Main	1	Gremlin 17	1											0
+Act 2 (N) Wraith A			1	25	100	300	500	37	Empty	13	Act 2 (N) Good	10	Act 2 (N) Magic A	50	Gremlin Main	1	Gremlin 18	1											0
+Act 2 (N) Wraith B			1	25	100	300	500	37	Empty	13	Act 2 (N) Good	10	Act 2 (N) Magic B	50	Gremlin Main	1	Gremlin 19	1											0
+Act 2 (N) Wraith C			1	25	100	300	500	37	Empty	13	Act 2 (N) Good	10	Act 2 (N) Magic B	50	Gremlin Main	1	Gremlin 20	1											0
+Act 3 (N) Wraith A			1	25	100	300	500	37	Empty	13	Act 3 (N) Good	10	Act 3 (N) Magic A	50	Gremlin Main	1	Gremlin 21	1											0
+Act 3 (N) Wraith B			1	25	100	300	500	37	Empty	13	Act 3 (N) Good	10	Act 3 (N) Magic B	50	Gremlin Main	1	Gremlin 22	1											0
+Act 3 (N) Wraith C			1	25	100	300	500	37	Empty	13	Act 3 (N) Good	10	Act 3 (N) Magic B	50	Gremlin Main	1	Gremlin 23	1											0
+Act 4 (N) Wraith A			1	25	100	300	500	37	Empty	13	Act 4 (N) Good	10	Act 4 (N) Magic A	50	Gremlin Main	1	Gremlin 24	1											0
+Act 4 (N) Wraith B			1	25	100	300	500	37	Empty	13	Act 4 (N) Good	10	Act 4 (N) Magic B	50	Gremlin Main	1	Gremlin 25	1											0
+Act 5 (N) Wraith A			1	25	100	300	500	37	Empty	13	Act 5 (N) Good	10	Act 5 (N) Magic A	50	Gremlin Main	1	Gremlin 26	1											0
+Act 5 (N) Wraith B			1	25	100	300	500	37	Empty	13	Act 5 (N) Good	10	Act 5 (N) Magic B	50	Gremlin Main	1	Gremlin 27	1											0
+Act 5 (N) Wraith C			1	25	100	300	500	37	Empty	13	Act 5 (N) Good	10	Act 5 (N) Magic C	50	Gremlin Main	1	Gremlin 28	1											0
+Act 1 (H) Wraith A			1	25	100	300	500	45	Empty	15	Act 1 (H) Good	10	Act 1 (H) Magic A	40	Gremlin Main	1	Gremlin 29	1											0
+Act 1 (H) Wraith B			1	25	100	300	500	45	Empty	15	Act 1 (H) Good	10	Act 1 (H) Magic B	40	Gremlin Main	1	Gremlin 30	1											0
+Act 1 (H) Wraith C			1	25	100	300	500	45	Empty	15	Act 1 (H) Good	10	Act 1 (H) Magic B	40	Gremlin Main	1	Gremlin 31	1											0
+Act 2 (H) Wraith A			1	25	100	300	500	45	Empty	15	Act 2 (H) Good	10	Act 2 (H) Magic A	40	Gremlin Main	1	Gremlin 32	1											0
+Act 2 (H) Wraith B			1	25	100	300	500	45	Empty	15	Act 2 (H) Good	10	Act 2 (H) Magic B	40	Gremlin Main	1	Gremlin 33	1											0
+Act 2 (H) Wraith C			1	25	100	300	500	45	Empty	15	Act 2 (H) Good	10	Act 2 (H) Magic B	40	Gremlin Main	2													0
+Act 3 (H) Wraith A			1	25	100	300	500	45	Empty	15	Act 3 (H) Good	10	Act 3 (H) Magic A	40	Gremlin Main	2													0
+Act 3 (H) Wraith B			1	25	100	300	500	45	Empty	15	Act 3 (H) Good	10	Act 3 (H) Magic B	40	Gremlin Main	2													0
+Act 3 (H) Wraith C			1	25	100	300	500	45	Empty	15	Act 3 (H) Good	10	Act 3 (H) Magic B	40	Gremlin Main	2													0
+Act 4 (H) Wraith A			1	25	100	300	500	45	Empty	15	Act 4 (H) Good	10	Act 4 (H) Magic A	40	Gremlin Main	2													0
+Act 4 (H) Wraith B			1	25	100	300	500	45	Empty	15	Act 4 (H) Good	10	Act 4 (H) Magic B	40	Gremlin Main	2													0
+Act 5 (H) Wraith A			1	25	100	300	500	45	Empty	15	Act 5 (H) Good	10	Act 5 (H) Magic A	40	Gremlin Main	2													0
+Act 5 (H) Wraith B			1	25	100	300	500	45	Empty	15	Act 5 (H) Good	10	Act 5 (H) Magic B	40	Gremlin Main	2													0
+Act 5 (H) Wraith C			1	25	100	300	500	45	Empty	15	Act 5 (H) Good	10	Act 5 (H) Magic C	40	Gremlin Main	2													0
+Act 1 Citem A			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 1 Equip A	50	Act 1 Good	30	elx	2	Dbox Main	1	Gremlin 6	2	Gremlin Main	1					0
+Act 1 Citem B			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 1 Equip B	50	Act 1 Good	30	elx	2	Dbox Main	1	Gremlin 7	2	Gremlin Main	1					0
+Act 1 Citem C			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 1 Equip C	50	Act 1 Good	30	elx	2	Dbox Main	1	Gremlin 8	2	Gremlin Main	1					0
+Act 2 Citem A			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 2 Equip A	50	Act 2 Good	30	elx	2	Dbox Main	1	Gremlin 9	2	Gremlin Main	1					0
+Act 2 Citem B			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 2 Equip B	50	Act 2 Good	30	elx	2	Dbox Main	1	Gremlin 10	2	Gremlin Main	1					0
+Act 2 Citem C			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 2 Equip C	50	Act 3 Good	30	elx	2	Dbox Main	1	Gremlin 11	2	Gremlin Main	1					0
+Act 3 Citem A			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 3 Equip A	50	Act 3 Good	30	elx	2	Dbox Main	1	Gremlin 12	2	Gremlin Main	1					0
+Act 3 Citem B			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 3 Equip B	50	Act 3 Good	30	elx	2	Dbox Main	1	Gremlin 13	2	Gremlin Main	1					0
+Act 3 Citem C			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 3 Equip C	50	Act 3 Good	30	elx	2	Dbox Main	1	Gremlin 14	2	Gremlin Main	1					0
+Act 4 Citem A			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 4 Equip A	50	Act 4 Good	30	elx	2	Dbox Main	1	Gremlin 15	2	Gremlin Main	1					0
+Act 4 Citem B			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 4 Equip B	50	Act 4 Good	30	elx	2	Dbox Main	1	Gremlin 16	2	Gremlin Main	1					0
+Act 5 Citem A			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 5 Equip A	50	Act 5 Good	30	elx	2	Dbox Main	1	Gremlin 17	2	Gremlin Main	1					0
+Act 5 Citem B			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 5 Equip B	50	Act 5 Good	30	elx	2	Dbox Main	1	Gremlin 18	2	Gremlin Main	1					0
+Act 5 Citem C			1	75	150	450	750	30	Empty	10	"gld,mul=1280"	75	Act 5 Equip C	50	Act 5 Good	30	elx	2	Dbox Main	1	Gremlin 19	2	Gremlin Main	1					0
+Act 1 (N) Citem A			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 1 (N) Equip A	50	Act 1 (N) Good	30	elx	5	Dbox Main	2	Gremlin 20	3	Gremlin Main	2					0
+Act 1 (N) Citem B			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 1 (N) Equip B	50	Act 1 (N) Good	30	elx	5	Dbox Main	2	Gremlin 21	3	Gremlin Main	2					0
+Act 1 (N) Citem C			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 1 (N) Equip B	50	Act 1 (N) Good	30	elx	5	Dbox Main	2	Gremlin 22	3	Gremlin Main	2					0
+Act 2 (N) Citem A			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 2 (N) Equip A	50	Act 2 (N) Good	30	elx	5	Dbox Main	2	Gremlin 23	3	Gremlin Main	2					0
+Act 2 (N) Citem B			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 2 (N) Equip B	50	Act 2 (N) Good	30	elx	5	Dbox Main	2	Gremlin 24	3	Gremlin Main	2					0
+Act 2 (N) Citem C			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 2 (N) Equip B	50	Act 2 (N) Good	30	elx	5	Dbox Main	2	Gremlin 25	3	Gremlin Main	2					0
+Act 3 (N) Citem A			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 3 (N) Equip A	50	Act 3 (N) Good	30	elx	5	Dbox Main	2	Gremlin 26	3	Gremlin Main	2					0
+Act 3 (N) Citem B			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 3 (N) Equip B	50	Act 3 (N) Good	30	elx	5	Dbox Main	2	Gremlin 27	3	Gremlin Main	2					0
+Act 3 (N) Citem C			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 3 (N) Equip B	50	Act 3 (N) Good	30	elx	5	Dbox Main	2	Gremlin 28	3	Gremlin Main	2					0
+Act 4 (N) Citem A			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 4 (N) Equip A	50	Act 4 (N) Good	30	elx	5	Dbox Main	2	Gremlin 29	3	Gremlin Main	2					0
+Act 4 (N) Citem B			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 4 (N) Equip B	50	Act 4 (N) Good	30	elx	5	Dbox Main	2	Gremlin 30	3	Gremlin Main	2					0
+Act 5 (N) Citem A			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 5 (N) Equip A	50	Act 5 (N) Good	30	elx	5	Dbox Main	2	Gremlin 31	3	Gremlin Main	2					0
+Act 5 (N) Citem B			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 5 (N) Equip B	50	Act 5 (N) Good	30	elx	5	Dbox Main	2	Gremlin 32	3	Gremlin Main	2					0
+Act 5 (N) Citem C			1	75	150	450	750	37	Empty	13	"gld,mul=2560"	75	Act 5 (N) Equip C	50	Act 5 (N) Good	30	elx	5	Dbox Main	2	Gremlin 33	3	Gremlin Main	2					0
+Act 1 (H) Citem A			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 1 (H) Equip A	50	Act 1 (H) Good	30	elx	8	Dbox Main	3									0
+Act 1 (H) Citem B			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 1 (H) Equip B	50	Act 1 (H) Good	30	elx	8	Dbox Main	3									0
+Act 1 (H) Citem C			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 1 (H) Equip B	50	Act 1 (H) Good	30	elx	8	Dbox Main	3									0
+Act 2 (H) Citem A			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 2 (H) Equip A	50	Act 2 (H) Good	30	elx	8	Dbox Main	3									0
+Act 2 (H) Citem B			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 2 (H) Equip B	50	Act 2 (H) Good	30	elx	8	Dbox Main	3									0
+Act 2 (H) Citem C			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 2 (H) Equip B	50	Act 2 (H) Good	30	elx	8	Dbox Main	3									0
+Act 3 (H) Citem A			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 3 (H) Equip A	50	Act 3 (H) Good	30	elx	8	Dbox Main	3									0
+Act 3 (H) Citem B			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 3 (H) Equip B	50	Act 3 (H) Good	30	elx	8	Dbox Main	3									0
+Act 3 (H) Citem C			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 3 (H) Equip B	50	Act 3 (H) Good	30	elx	8	Dbox Main	3									0
+Act 4 (H) Citem A			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 4 (H) Equip A	50	Act 4 (H) Good	30	elx	8	Dbox Main	3									0
+Act 4 (H) Citem B			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 4 (H) Equip B	50	Act 4 (H) Good	30	elx	8	Dbox Main	3									0
+Act 5 (H) Citem A			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 5 (H) Equip A	50	Act 5 (H) Good	30	elx	8	Dbox Main	3									0
+Act 5 (H) Citem B			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 5 (H) Equip B	50	Act 5 (H) Good	30	elx	8	Dbox Main	3									0
+Act 5 (H) Citem C			1	75	150	450	750	45	Empty	15	"gld,mul=4840"	75	Act 5 (H) Equip C	50	Act 5 (H) Good	30	elx	8	Dbox Main	3									0
+Act 1 Cpot A			1		150	450	750	30	Empty	10	rvs	2	Hpotion 1	30	Gremlin Main	2	Gremlin 6	2											0
+Act 1 Cpot B			1		150	450	750	30	Empty	10	rvs	2	Hpotion 1	30	Gremlin Main	2	Gremlin 7	2											0
+Act 1 Cpot C			1		150	450	750	30	Empty	10	rvs	2	Hpotion 1	30	Gremlin Main	2	Gremlin 8	2											0
+Act 2 Cpot A			1		150	450	750	30	Empty	10	rvs	2	Hpotion 2	30	Gremlin Main	2	Gremlin 9	2											0
+Act 2 Cpot B			1		150	450	750	30	Empty	10	rvs	2	Hpotion 2	30	Gremlin Main	2	Gremlin 10	2											0
+Act 2 Cpot C			1		150	450	750	30	Empty	10	rvs	2	Hpotion 2	30	Gremlin Main	2	Gremlin 11	2											0
+Act 3 Cpot A			1		150	450	750	30	Empty	10	rvs	2	Hpotion 3	30	Gremlin Main	2	Gremlin 12	2											0
+Act 3 Cpot B			1		150	450	750	30	Empty	10	rvs	2	Hpotion 3	30	Gremlin Main	2	Gremlin 13	2											0
+Act 3 Cpot C			1		150	450	750	30	Empty	10	rvs	2	Hpotion 3	30	Gremlin Main	2	Gremlin 14	2											0
+Act 4 Cpot A			1		150	450	750	30	Empty	10	rvs	2	Hpotion 3	30	Hpotion 4	15	Gremlin Main	2	Gremlin 15	2									0
+Act 4 Cpot B			1		150	450	750	30	Empty	10	rvs	2	Hpotion 3	30	Hpotion 4	15	Gremlin Main	2	Gremlin 16	2									0
+Act 5 Cpot A			1		150	450	750	30	Empty	10	rvs	2	Hpotion 4	30	Hpotion 5	15	Gremlin Main	2	Gremlin 17	2									0
+Act 5 Cpot B			1		150	450	750	30	Empty	10	rvs	2	Hpotion 4	30	Hpotion 5	15	Gremlin Main	2	Gremlin 18	2									0
+Act 5 Cpot C			1		150	450	750	30	Empty	10	rvs	2	Hpotion 4	30	Hpotion 5	15	Gremlin Main	2	Gremlin 19	2									0
+Act 1 (N) Cpot A			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 20	2							0
+Act 1 (N) Cpot B			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 21	2							0
+Act 1 (N) Cpot C			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 22	2							0
+Act 2 (N) Cpot A			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 23	2							0
+Act 2 (N) Cpot B			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 24	2							0
+Act 2 (N) Cpot C			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 25	2							0
+Act 3 (N) Cpot A			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 26	2							0
+Act 3 (N) Cpot B			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 27	2							0
+Act 3 (N) Cpot C			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 28	2							0
+Act 4 (N) Cpot A			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 29	2							0
+Act 4 (N) Cpot B			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 30	2							0
+Act 5 (N) Cpot A			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 31	2							0
+Act 5 (N) Cpot B			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 32	2							0
+Act 5 (N) Cpot C			1		150	450	750	37	Empty	13	rvs	4	Hpotion 4 (N)	40	Hpotion 5 (N)	20	Hpotion 6 (N)	10	Gremlin Main	2	Gremlin 33	2							0
+Act 1 (H) Cpot A			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 1 (H) Cpot B			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 1 (H) Cpot C			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 2 (H) Cpot A			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 2 (H) Cpot B			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 2 (H) Cpot C			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 3 (H) Cpot A			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 3 (H) Cpot B			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 3 (H) Cpot C			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 4 (H) Cpot A			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 4 (H) Cpot B			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 5 (H) Cpot A			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 5 (H) Cpot B			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 5 (H) Cpot C			1		150	450	750	45	Empty	15	rvs	12	rvl	2	Hpotion 5 (H)	24	Hpotion 6 (H)	12	Gremlin Main	2									0
+Act 1 Champ A			-2	75	150	450	750		Act 1 Citem A	1	Act 1 Cpot A	1																	0
+Act 1 Champ B			-2	75	150	450	750		Act 1 Citem B	1	Act 1 Cpot B	1																	0
+Act 1 Champ C			-2	75	150	450	750		Act 1 Citem C	1	Act 1 Cpot C	1																	0
+Act 2 Champ A			-2	75	150	450	750		Act 2 Citem A	1	Act 2 Cpot A	1																	0
+Act 2 Champ B			-2	75	150	450	750		Act 2 Citem B	1	Act 2 Cpot B	1																	0
+Act 2 Champ C			-2	75	150	450	750		Act 2 Citem C	1	Act 2 Cpot C	1																	0
+Act 3 Champ A			-2	75	150	450	750		Act 3 Citem A	1	Act 3 Cpot A	1																	0
+Act 3 Champ B			-2	75	150	450	750		Act 3 Citem B	1	Act 3 Cpot B	1																	0
+Act 3 Champ C			-2	75	150	450	750		Act 3 Citem C	1	Act 3 Cpot C	1																	0
+Act 4 Champ A			-2	75	150	450	750		Act 4 Citem A	1	Act 4 Cpot A	1																	0
+Act 4 Champ B			-2	75	150	450	750		Act 4 Citem B	1	Act 4 Cpot B	1																	0
+Act 5 Champ A			-2	75	150	450	750		Act 5 Citem A	1	Act 5 Cpot A	1																	0
+Act 5 Champ B			-2	75	150	450	750		Act 5 Citem B	1	Act 5 Cpot B	1																	0
+Act 5 Champ C			-2	75	150	450	750		Act 5 Citem C	1	Act 5 Cpot C	1																	0
+Act 1 (N) Champ A			-3	75	150	450	750		Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																	0
+Act 1 (N) Champ B			-3	75	150	450	750		Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																	0
+Act 1 (N) Champ C			-3	75	150	450	750		Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																	0
+Act 2 (N) Champ A			-3	75	150	450	750		Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																	0
+Act 2 (N) Champ B			-3	75	150	450	750		Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																	0
+Act 2 (N) Champ C			-3	75	150	450	750		Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																	0
+Act 3 (N) Champ A			-3	75	150	450	750		Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																	0
+Act 3 (N) Champ B			-3	75	150	450	750		Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																	0
+Act 3 (N) Champ C			-3	75	150	450	750		Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																	0
+Act 4 (N) Champ A			-3	75	150	450	750		Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																	0
+Act 4 (N) Champ B			-3	75	150	450	750		Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																	0
+Act 4 (N) Champ C			-3	75	150	450	750		Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																	0
+Act 5 (N) Champ A			-3	75	150	450	750		Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																	0
+Act 5 (N) Champ B			-3	75	150	450	750		Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																	0
+Act 5 (N) Champ C			-3	75	150	450	750		Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																	0
+Act 1 (H) Champ A			-4	75	150	450	750		Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																	0
+Act 1 (H) Champ B			-4	75	150	450	750		Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																	0
+Act 1 (H) Champ C			-4	75	150	450	750		Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																	0
+Act 2 (H) Champ A			-4	75	150	450	750		Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																	0
+Act 2 (H) Champ B			-4	75	150	450	750		Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																	0
+Act 2 (H) Champ C			-4	75	150	450	750		Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																	0
+Act 3 (H) Champ A			-4	75	150	450	750		Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																	0
+Act 3 (H) Champ B			-4	75	150	450	750		Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																	0
+Act 3 (H) Champ C			-4	75	150	450	750		Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																	0
+Act 4 (H) Champ A			-4	75	150	450	750		Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																	0
+Act 4 (H) Champ B			-4	75	150	450	750		Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																	0
+Act 5 (H) Champ A			-4	75	150	450	750		Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																	0
+Act 5 (H) Champ B			-4	75	150	450	750		Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																	0
+Act 5 (H) Champ C			-4	75	150	450	750		Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																	0
+UAct 1 Equip A			1	100	200	500	750		weap3	7	armo3	7	TGrade-F	2															0
+UAct 1 Equip B			1	100	200	500	750		weap3	3	armo3	3	weap6	7	armo6	7	TGrade-F	3											0
+UAct 1 Equip C			1	100	200	500	750		weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1	TGrade-F	4			0
+UAct 2 Equip A			1	100	200	500	750		weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	100	TGrade-G	2	0
+UAct 2 Equip B			1	100	200	500	750		weap9	2	armo9	1	weap12	6	armo12	3	weap15	14	armo15	7	weap18	2	armo18	1	Act 2 Equip A	100	TGrade-G	3	0
+UAct 2 Equip C			1	100	200	500	750		weap12	2	armo12	1	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip B	100	TGrade-G	4	0
+UAct 3 Equip A			1	100	200	500	750		weap15	2	armo15	1	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip C	100	TGrade-H	2	0
+UAct 3 Equip B			1	100	200	500	750		weap18	2	armo18	1	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 3 Equip A	100	TGrade-H	3	0
+UAct 3 Equip C			1	100	200	500	750		weap21	2	armo21	1	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip B	100	TGrade-H	4	0
+UAct 4 Equip A			1	100	200	500	750		weap24	2	armo24	1	weap27	6	armo27	3	weap30	14	armo30	4	weap33	2	armo33	1	Act 3 Equip C	100	TGrade-I	2	0
+UAct 4 Equip B			1	100	200	500	750		weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	2	armo36	1	Act 4 Equip A	100	TGrade-I	3	0
+UAct 5 Equip A			1	100	200	500	750		weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	7	armo36	5	Act 4 Equip B	100	TGrade-J	2	0
+UAct 5 Equip B			1	100	200	500	750		weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip A	100	TGrade-J	3	0
+UAct 5 Equip C			1	100	200	500	750		weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip B	100	TGrade-J	4	0
+UAct 1 (N) Equip A			1	100	200	500	750		weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Equip C	100	TGrade-K	2	0
+UAct 1 (N) Equip B			1	100	200	500	750		weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Act 1 (N) Equip A	100	TGrade-K	3	0
+UAct 1 (N) Equip C			1	100	200	500	750		weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Equip A	100	TGrade-K	4	0
+UAct 2 (N) Equip A			1	100	200	500	750		weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Equip B	100	TGrade-L	2	0
+UAct 2 (N) Equip B			1	100	200	500	750		weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Equip A	100	TGrade-L	3	0
+UAct 2 (N) Equip C			1	100	200	500	750		weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Act 2 (N) Equip A	100	TGrade-L	4	0
+UAct 3 (N) Equip A			1	100	200	500	750		weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Equip B	100	TGrade-M	2	0
+UAct 3 (N) Equip B			1	100	200	500	750		weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 3 (N) Equip A	100	TGrade-M	3	0
+UAct 3 (N) Equip C			1	100	200	500	750		weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Equip A	100	TGrade-M	4	0
+UAct 4 (N) Equip A			1	100	200	500	750		weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Equip B	100	TGrade-N	2	0
+UAct 4 (N) Equip B			1	100	200	500	750		weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Equip A	100	TGrade-N	3	0
+UAct 4 (N) Equip C			1	100	200	500	750		weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 4 (N) Equip A	100	TGrade-N	4	0
+UAct 5 (N) Equip A			1	100	200	500	750		weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Equip B	100	TGrade-O	2	0
+UAct 5 (N) Equip B			1	100	200	500	750		weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Equip A	100	TGrade-O	3	0
+UAct 5 (N) Equip C			1	100	200	500	750		weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Equip B	100	TGrade-O	4	0
+UAct 1 (H) Equip A			1	100	200	500	750		weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Equip C	100	TGrade-P	2	0
+UAct 1 (H) Equip B			1	100	200	500	750		weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Equip A	100	TGrade-P	3	0
+UAct 1 (H) Equip C			1	100	200	500	750		weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 1 (H) Equip A	100	TGrade-P	4	0
+UAct 2 (H) Equip A			1	100	200	500	750		weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Equip B	100	TGrade-Q	2	0
+UAct 2 (H) Equip B			1	100	200	500	750		weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 2 (H) Equip A	100	TGrade-Q	3	0
+UAct 2 (H) Equip C			1	100	200	500	750		weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Equip A	100	TGrade-Q	4	0
+UAct 3 (H) Equip A			1	100	200	500	750		weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Equip B	100	TGrade-R	2	0
+UAct 3 (H) Equip B			1	100	200	500	750		weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Equip A	100	TGrade-R	3	0
+UAct 3 (H) Equip C			1	100	200	500	750		weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Act 3 (H) Equip A	100	TGrade-R	4	0
+UAct 4 (H) Equip A			1	100	200	500	750		weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Equip B	100	TGrade-S	2	0
+UAct 4 (H) Equip B			1	100	200	500	750		weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 4 (H) Equip A	100	TGrade-S	3	0
+UAct 4 (H) Equip C			1	100	200	500	750		weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Equip A	100	TGrade-S	4	0
+UAct 5 (H) Equip A			1	100	200	500	750		weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Equip B	100	TGrade-T	2	0
+UAct 5 (H) Equip B			1	100	200	500	750		weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Equip A	100	TGrade-T	3	0
+UAct 5 (H) Equip C			1	100	200	500	750		weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap90	2	armo90	1	Act 5 (H) Equip B	100	TGrade-T	4	0
+UAct 1 Good			2	200	300	700	900		Jewelry A	20	Chipped Gem	30	Runes 1	20	Runes 2	15	Runes 3	10	Misc 1	5	Misc 2	2	Cscroll Main	8	Mscroll Main	2	TGrade-L	10	0
+UAct 2 Good			2	200	300	700	900		Jewelry B	20	Chipped Gem	30	Flawed Gem	20	Runes 2	15	Runes 3	10	Runes 4	5	Misc 2	2	Cscroll Main	8	Mscroll Main	2	TGrade-M	10	0
+UAct 3 Good			2	200	300	700	900		Jewelry C	20	Chipped Gem	30	Flawed Gem	20	Runes 3	15	Runes 4	10	Runes 5	5	Cscroll Main	8	Mscroll Main	2	TGrade-N	10			0
+UAct 4 Good			2	200	300	700	900		Jewelry C	50	Chipped Gem	30	Flawed Gem	20	Normal Gem	15	Runes 5	10	Runes 6	5	Cscroll Main	8	Mscroll Main	2	TGrade-O	10			0
+UAct 5 Good			2	200	300	700	900		Jewelry C	50	Chipped Gem	30	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 7	5	Cscroll Main	8	Mscroll Main	2	TGrade-P	10			0
+UAct 1 (N) Good			2	200	300	700	900		Jewelry C	60	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 8 (N)	5	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-Q	10			0
+UAct 2 (N) Good			2	200	300	700	900		Jewelry C	60	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 9 (N)	5	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-R	10			0
+UAct 3 (N) Good			2	200	300	700	900		Jewelry C	60	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 10 (N)	5	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-S	10			0
+UAct 4 (N) Good			2	200	300	700	900		Jewelry C	60	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 11 (N)	5	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-T	10			0
+UAct 5 (N) Good			2	200	300	700	900		Jewelry C	60	Flawed Gem	20	Normal Gem	15	Flawless Gem	10	Runes 12 (N)	5	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-U	10			0
+UAct 1 (H) Good			2	200	300	700	900		Jewelry C	60	Normal Gem	15	Flawless Gem	10	Runes 13 (H)	8	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-V	10					0
+UAct 2 (H) Good			2	200	300	700	900		Jewelry C	60	Normal Gem	15	Flawless Gem	10	Runes 14 (H)	8	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-W	10					0
+UAct 3 (H) Good			2	200	300	700	900		Jewelry C	60	Normal Gem	15	Flawless Gem	10	Runes 15 (H)	8	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-X	10					0
+UAct 4 (H) Good			2	200	300	700	900		Jewelry C	60	Normal Gem	15	Flawless Gem	10	Runes 16 (H)	8	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-Y	10					0
+UAct 5 (H) Good			2	200	300	700	900		Jewelry C	60	Normal Gem	15	Flawless Gem	10	Runes 17 (H)	8	Cscroll Main	8	Mscroll Main	2	Lscroll Main	1	TGrade-Z	10					0
+Act 1 Uitem A			2	200	300	700	900		UAct 1 Equip A	75	UAct 1 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 6	3	Gremlin 20	1							0
+Act 1 Uitem B			2	200	300	700	900		UAct 1 Equip B	75	UAct 1 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 7	3	Gremlin 21	1							0
+Act 1 Uitem C			2	200	300	700	900		UAct 1 Equip C	75	UAct 1 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 8	3	Gremlin 22	1							0
+Act 2 Uitem A			2	200	300	700	900		UAct 2 Equip A	75	UAct 2 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 9	3	Gremlin 23	1							0
+Act 2 Uitem B			2	200	300	700	900		UAct 2 Equip B	75	UAct 2 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 10	3	Gremlin 24	1							0
+Act 2 Uitem C			2	200	300	700	900		UAct 2 Equip C	75	UAct 3 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 11	3	Gremlin 25	1							0
+Act 3 Uitem A			2	200	300	700	900		UAct 3 Equip A	75	UAct 3 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 12	3	Gremlin 26	1							0
+Act 3 Uitem B			2	200	300	700	900		UAct 3 Equip B	75	UAct 3 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 13	3	Gremlin 27	1							0
+Act 3 Uitem C			2	200	300	700	900		UAct 3 Equip C	75	UAct 3 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 14	3	Gremlin 28	1							0
+Act 4 Uitem A			2	200	300	700	900		UAct 4 Equip A	75	UAct 4 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 15	3	Gremlin 29	1							0
+Act 4 Uitem B			2	200	300	700	900		UAct 4 Equip B	75	UAct 4 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 16	3	Gremlin 30	1							0
+Act 5 Uitem A			2	200	300	700	900		UAct 5 Equip A	75	UAct 5 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 17	3	Gremlin 31	1							0
+Act 5 Uitem B			2	200	300	700	900		UAct 5 Equip B	75	UAct 5 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 18	3	Gremlin 32	1							0
+Act 5 Uitem C			2	200	300	700	900		UAct 5 Equip C	75	UAct 5 Good	50	elx	4	Dbox Main	1	Gremlin Main	1	Gremlin 19	3	Gremlin 33	1							0
+Act 1 (N) Uitem A			2	200	300	700	900		UAct 1 (N) Equip A	75	UAct 1 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 6	4	Gremlin 20	2							0
+Act 1 (N) Uitem B			2	200	300	700	900		UAct 1 (N) Equip B	75	UAct 1 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 7	4	Gremlin 21	2							0
+Act 1 (N) Uitem C			2	200	300	700	900		UAct 1 (N) Equip B	75	UAct 1 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 8	4	Gremlin 22	2							0
+Act 2 (N) Uitem A			2	200	300	700	900		UAct 2 (N) Equip A	75	UAct 2 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 9	4	Gremlin 23	2							0
+Act 2 (N) Uitem B			2	200	300	700	900		UAct 2 (N) Equip B	75	UAct 2 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 10	4	Gremlin 24	2							0
+Act 2 (N) Uitem C			2	200	300	700	900		UAct 2 (N) Equip B	75	UAct 2 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 11	4	Gremlin 25	2							0
+Act 3 (N) Uitem A			2	200	300	700	900		UAct 3 (N) Equip A	75	UAct 3 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 12	4	Gremlin 26	2							0
+Act 3 (N) Uitem B			2	200	300	700	900		UAct 3 (N) Equip B	75	UAct 3 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 13	4	Gremlin 27	2							0
+Act 3 (N) Uitem C			2	200	300	700	900		UAct 3 (N) Equip B	75	UAct 3 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 14	4	Gremlin 28	2							0
+Act 4 (N) Uitem A			2	200	300	700	900		UAct 4 (N) Equip A	75	UAct 4 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 15	4	Gremlin 29	2							0
+Act 4 (N) Uitem B			2	200	300	700	900		UAct 4 (N) Equip B	75	UAct 4 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 16	4	Gremlin 30	2							0
+Act 5 (N) Uitem A			2	200	300	700	900		UAct 5 (N) Equip A	75	UAct 5 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 17	4	Gremlin 31	2							0
+Act 5 (N) Uitem B			2	200	300	700	900		UAct 5 (N) Equip B	75	UAct 5 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 18	4	Gremlin 32	2							0
+Act 5 (N) Uitem C			2	200	300	700	900		UAct 5 (N) Equip C	75	UAct 5 (N) Good	50	elx	5	Dbox Main	3	Gremlin Main	2	Gremlin 19	4	Gremlin 33	2							0
+Act 1 (H) Uitem A			2	200	300	700	900		UAct 1 (H) Equip A	75	UAct 1 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 6	6	Gremlin 20	3							0
+Act 1 (H) Uitem B			2	200	300	700	900		UAct 1 (H) Equip B	75	UAct 1 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 7	6	Gremlin 21	3							0
+Act 1 (H) Uitem C			2	200	300	700	900		UAct 1 (H) Equip B	75	UAct 1 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 8	6	Gremlin 22	3							0
+Act 2 (H) Uitem A			2	200	300	700	900		UAct 2 (H) Equip A	75	UAct 2 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 9	6	Gremlin 23	3							0
+Act 2 (H) Uitem B			2	200	300	700	900		UAct 2 (H) Equip B	75	UAct 2 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 10	6	Gremlin 24	3							0
+Act 2 (H) Uitem C			2	200	300	700	900		UAct 2 (H) Equip B	75	UAct 2 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 11	6	Gremlin 25	3							0
+Act 3 (H) Uitem A			2	200	300	700	900		UAct 3 (H) Equip A	75	UAct 3 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 12	6	Gremlin 26	3							0
+Act 3 (H) Uitem B			2	200	300	700	900		UAct 3 (H) Equip B	75	UAct 3 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 13	6	Gremlin 27	3							0
+Act 3 (H) Uitem C			2	200	300	700	900		UAct 3 (H) Equip B	75	UAct 3 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 14	6	Gremlin 28	3							0
+Act 4 (H) Uitem A			2	200	300	700	900		UAct 4 (H) Equip A	75	UAct 4 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 15	6	Gremlin 29	3							0
+Act 4 (H) Uitem B			2	200	300	700	900		UAct 4 (H) Equip B	75	UAct 4 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 16	6	Gremlin 30	3							0
+Act 5 (H) Uitem A			2	200	300	700	900		UAct 5 (H) Equip A	75	UAct 5 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 17	6	Gremlin 31	3							0
+Act 5 (H) Uitem B			2	200	300	700	900		UAct 5 (H) Equip B	75	UAct 5 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 18	6	Gremlin 32	3							0
+Act 5 (H) Uitem C			2	200	300	700	900		UAct 5 (H) Equip C	75	UAct 5 (H) Good	50	elx	6	Dbox Main	4	Gremlin Main	2	Gremlin 19	6	Gremlin 33	3							0
+Act 1 Unique A			-3	100	200	500	750		Act 1 Uitem A	1	Act 1 Cpot A	2																	0
+Act 1 Unique B			-3	100	200	500	750		Act 1 Uitem B	1	Act 1 Cpot B	2																	0
+Act 1 Unique C			-3	100	200	500	750		Act 1 Uitem C	1	Act 1 Cpot C	2																	0
+Act 2 Unique A			-3	100	200	500	750		Act 2 Uitem A	1	Act 2 Cpot A	2																	0
+Act 2 Unique B			-3	100	200	500	750		Act 2 Uitem B	1	Act 2 Cpot B	2																	0
+Act 2 Unique C			-3	100	200	500	750		Act 2 Uitem C	1	Act 2 Cpot C	2																	0
+Act 3 Unique A			-3	100	200	500	750		Act 3 Uitem A	1	Act 3 Cpot A	2																	0
+Act 3 Unique B			-3	100	200	500	750		Act 3 Uitem B	1	Act 3 Cpot B	2																	0
+Act 3 Unique C			-3	100	200	500	750		Act 3 Uitem C	1	Act 3 Cpot C	2																	0
+Act 4 Unique A			-3	100	200	500	750		Act 4 Uitem A	1	Act 4 Cpot A	2																	0
+Act 4 Unique B			-3	100	200	500	750		Act 4 Uitem B	1	Act 4 Cpot B	2																	0
+Act 5 Unique A			-3	100	200	500	750		Act 5 Uitem A	1	Act 5 Cpot A	2																	0
+Act 5 Unique B			-3	100	200	500	750		Act 5 Uitem B	1	Act 5 Cpot B	2																	0
+Act 5 Unique C			-3	100	200	500	750		Act 5 Uitem C	1	Act 5 Cpot C	2																	0
+Act 1 (N) Unique A			-3	100	200	500	750		Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																	0
+Act 1 (N) Unique B			-3	100	200	500	750		Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																	0
+Act 1 (N) Unique C			-3	100	200	500	750		Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																	0
+Act 2 (N) Unique A			-3	100	200	500	750		Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																	0
+Act 2 (N) Unique B			-3	100	200	500	750		Act 2 (N) Uitem B	1	Act 2 (N) Cpot B	2																	0
+Act 2 (N) Unique C			-3	100	200	500	750		Act 2 (N) Uitem C	1	Act 2 (N) Cpot C	2																	0
+Act 3 (N) Unique A			-3	100	200	500	750		Act 3 (N) Uitem A	1	Act 3 (N) Cpot A	2																	0
+Act 3 (N) Unique B			-3	100	200	500	750		Act 3 (N) Uitem B	1	Act 3 (N) Cpot B	2																	0
+Act 3 (N) Unique C			-3	100	200	500	750		Act 3 (N) Uitem C	1	Act 3 (N) Cpot C	2																	0
+Act 4 (N) Unique A			-3	100	200	500	750		Act 4 (N) Uitem A	1	Act 4 (N) Cpot A	2																	0
+Act 4 (N) Unique B			-3	100	200	500	750		Act 4 (N) Uitem B	1	Act 4 (N) Cpot B	2																	0
+Act 5 (N) Unique A			-3	100	200	500	750		Act 5 (N) Uitem A	1	Act 5 (N) Cpot A	2																	0
+Act 5 (N) Unique B			-3	100	200	500	750		Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																	0
+Act 5 (N) Unique C			-3	100	200	500	750		Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																	0
+Act 1 (H) Unique A			-3	100	200	500	750		Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																	0
+Act 1 (H) Unique B			-3	100	200	500	750		Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																	0
+Act 1 (H) Unique C			-3	100	200	500	750		Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																	0
+Act 2 (H) Unique A			-3	100	200	500	750		Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																	0
+Act 2 (H) Unique B			-3	100	200	500	750		Act 2 (H) Uitem B	1	Act 2 (H) Cpot B	2																	0
+Act 2 (H) Unique C			-3	100	200	500	750		Act 2 (H) Uitem C	1	Act 2 (H) Cpot C	2																	0
+Act 3 (H) Unique A			-3	100	200	500	750		Act 3 (H) Uitem A	1	Act 3 (H) Cpot A	2																	0
+Act 3 (H) Unique B			-3	100	200	500	750		Act 3 (H) Uitem B	1	Act 3 (H) Cpot B	2																	0
+Act 3 (H) Unique C			-3	100	200	500	750		Act 3 (H) Uitem C	1	Act 3 (H) Cpot C	2																	0
+Act 4 (H) Unique A			-3	100	200	500	750		Act 4 (H) Uitem A	1	Act 4 (H) Cpot A	2																	0
+Act 4 (H) Unique B			-3	100	200	500	750		Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2																	0
+Act 5 (H) Unique A			-3	100	200	500	750		Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																	0
+Act 5 (H) Unique B			-3	100	200	500	750		Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																	0
+Act 5 (H) Unique C			-3	100	200	500	750		Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																	0
+Quill 1			1			100	200	37	Empty	13	Gold 2	75	Act 1 Junk	50	Potion 1	2	bpq	2	xpq	1									0
+Quill 2			1			100	200	37	Empty	13	Gold 2	75	Act 1 Junk	50	Potion 1	2	bpq	2	xpq	1									0
+Quill 3			1			100	200	37	Empty	13	Gold 2	75	Act 1 Junk	50	Act 1 Good	2	bpq	2	xpq	1									0
+Quill 4			1			100	200	37	Empty	13	Gold 2	75	Act 2 Junk	50	Act 2 Good	2	bpq	2	xpq	1									0
+Quill 5			1			100	200	37	Empty	13	Gold 2	75	Act 3 Junk	50	Act 3 Good	2	bpq	2	xpq	1									0
+Quill 1 (N)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (N) Junk	50	Act 3 Good	2	bpq	2	xpq	1									0
+Quill 2 (N)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (N) Junk	50	Act 1 (N) Good	4	bpq	2	xpq	1									0
+Quill 3 (N)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (N) Junk	50	Act 1 (N) Good	4	bpq	2	xpq	1									0
+Quill 4 (N)			1			100	200	37	Empty	13	Gold 2	75	Act 2 (N) Junk	50	Act 2 (N) Good	4	bpq	2	xpq	1									0
+Quill 5 (N)			1			100	200	37	Empty	13	Gold 2	75	Act 3 (N) Junk	50	Act 3 (N) Good	4	bpq	2	xpq	1									0
+Quill 1 (H)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (H) Junk	50	Act 3 (N) Good	4	bpq	2	xpq	1									0
+Quill 2 (H)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (H) Junk	50	Act 1 (H) Good	6	bpq	2	xpq	1									0
+Quill 3 (H)			1			100	200	37	Empty	13	Gold 2	75	Act 1 (H) Junk	50	Act 1 (H) Good	6	bpq	2	xpq	1									0
+Quill 4 (H)			1			100	200	37	Empty	13	Gold 2	75	Act 2 (H) Junk	50	Act 2 (H) Good	6	bpq	2	xpq	1									0
+Quill 5 (H)			1			100	200	37	Empty	13	Gold 2	75	Act 3 (H) Junk	50	Act 3 (H) Good	6	bpq	2	xpq	1									0
+Swarm 1			1			100	200	30	Empty	10	Potion 2	12	Misc 1	6	Act 2 Good	1	Act 2 Magic A	6											0
+Swarm 2			1			100	200	30	Empty	10	Potion 3	12	Misc 2	6	Act 3 Good	1	Act 3 Magic A	6											0
+Swarm 1 (N)			1			100	200	34	Empty	11	Potion 6	12	Misc 2	6	Act 2 (N) Good	1	Act 2 (N) Magic A	6											0
+Swarm 2 (N)			1			100	200	34	Empty	11	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magic A	6											0
+Swarm 1 (H)			1			100	200	38	Empty	12	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6											0
+Swarm 2 (H)			1			100	200	38	Empty	12	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6											0
+Andariel - Base			6	150	250	650	1024		"gld,mul=1280"	75	Act 2 Equip A	40	Act 2 Junk	30	Act 2 Good	15	elx	1	luv	1	Cscroll Main	15	Mscroll Main	3	Act 1 Uitem C	1	Gremlin Main	10	0
+Andariel (N) - Base			6	150	250	650	1024		"gld,mul=1536"	75	Act 2 (N) Equip A	40	Act 2 (N) Junk	30	Act 2 (N) Good	15	elx	1	luv	1	Cscroll Main	15	Mscroll Main	3	Act 1 (N) Uitem C	1	Haunted Main	10	0
+Andariel (H) - Base			6	150	250	650	1024		"gld,mul=2048"	75	Act 2 (H) Equip A	40	Act 2 (H) Junk	30	Act 2 (H) Good	15	elx	1	luv	1	Cscroll Main	15	Mscroll Main	3	Act 1 (H) Uitem C	1	Haunted Main	10	0
+Duriel - Base			9	200	300	750	1024		"gld,mul=1280"	50	Act 3 Equip A	40	Act 3 Junk	30	Act 3 Good	15	elx	2	luv	1	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 2 Uitem C	1	0
+Duriel (N) - Base			9	200	300	750	1024		"gld,mul=1536"	50	Act 3 (N) Equip A	40	Act 3 (N) Junk	30	Act 3 (N) Good	15	elx	2	luv	1	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 2 (N) Uitem C	1	0
+Duriel (H) - Base			9	200	300	750	1024		"gld,mul=2048"	50	Act 3 (H) Equip A	40	Act 3 (H) Junk	30	Act 3 (H) Good	15	elx	2	luv	1	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 2 (H) Uitem C	1	0
+Radament			5	150	250	650	1024		"gld,mul=1280"	75	Act 3 Equip B	40	Act 3 Junk	30	Act 3 Good	15	Cscroll Main	15	elx	1	rvl	3	Gremlin Main	10	Act 2 Uitem A	1			0
+Radament (N)			5	150	250	650	1024		"gld,mul=1536"	75	Act 3 (N) Equip B	40	Act 3 (N) Junk	30	Act 3 (N) Good	15	Cscroll Main	15	elx	1	rvl	3	Haunted 1	10	Haunted 3	5	Act 2 (N) Uitem A	1	0
+Radament (H)			5	150	250	650	1024		"gld,mul=2048"	75	Act 3 (H) Equip C	40	Act 3 (H) Junk	30	Act 3 (H) Good	15	Cscroll Main	15	elx	1	rvl	3	Haunted 2	10	Haunted 4	5	Act 2 (H) Uitem A	1	0
+Flying Scimitar			1					45	Empty	15	Act 2 Good	3	scm	57															0
+Flying Scimitar (N)			1					45	Empty	15	Act 2 (N) Good	3	scm	25	9sm	32													0
+Flying Scimitar (H)			1					45	Empty	15	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32											0
+Mephisto - Item			6	250	500	800	1024		"gld,mul=1280"	40	Act 4 Equip A	52	Act 4 Junk	30	Act 4 Good	20	ZY6	1	luv	1	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 3 Uitem C	1	0
+Mephisto (N) - Item			6	250	500	800	1024		"gld,mul=1536"	40	Act 4 (N) Equip A	52	Act 4 (N) Junk	30	Act 4 (N) Good	20	ZY6	1	luv	2	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 3 (N) Uitem C	1	0
+Mephisto (H) - Item			6	250	500	800	1024		"gld,mul=2048"	40	Act 4 (H) Equip A	52	Act 4 (H) Junk	30	Act 4 (H) Good	20	ZY6	2	luv	2	Cscroll Main	20	Mscroll Main	5	Lscroll Main	2	Act 3 (H) Uitem C	1	0
+Diablo - Item			6	300	550	850	1024		"gld,mul=1536"	40	Act 5 Equip A	52	Act 5 Junk	30	Act 5 Good	20	ZY6	1	luv	2	Cscroll Main	25	Mscroll Main	10	Lscroll Main	5	Act 4 Uitem B	1	0
+Diablo (N) - Item			6	300	550	850	1024		"gld,mul=2048"	40	Act 5 (N) Equip A	52	Act 5 (N) Junk	30	Act 5 (N) Good	20	ZY7	1	luv	3	Cscroll Main	25	Mscroll Main	10	Lscroll Main	5	Act 4 (N) Uitem B	1	0
+Diablo (H) - Item			6	300	550	850	1024		"gld,mul=2560"	40	Act 5 (H) Equip A	52	Act 5 (H) Junk	30	Act 5 (H) Good	20	ZY7	2	luv	4	Cscroll Main	25	Mscroll Main	10	Lscroll Main	5	Act 4 (H) Uitem B	1	0
+Summoner			6	200	400	750	1024		"gld,mul=1280"	50	Act 2 Equip C	15	Act 3 Junk	30	Act 2 Good	20	Act 3 Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Gremlin Main	5	Act 3 Uitem A	1	0
+Summoner (N)			6	200	400	750	1024		"gld,mul=1536"	50	Act 2 (N) Equip C	15	Act 3 (N) Junk	30	Act 2 (N) Good	20	Act 3 (N) Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Haunted 3	10	Act 3 (N) Uitem A	1	0
+Summoner (H)			6	200	400	750	1024		"gld,mul=2048"	50	Act 2 (H) Equip C	15	Act 3 (H) Junk	30	Act 2 (H) Good	20	Act 3 (H) Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Haunted 4	10	Act 3 (H) Uitem A	1	0
+Council			3	150	300	650	1024		"gld,mul=1280"	50	Act 4 Equip A	15	Act 4 Junk	30	Act 4 Good	20	Act 4 Magic A	10	Cscroll Main	15	elx	1	Gremlin Main	5	Act 3 Uitem A	1			0
+Council (N)			3	150	300	650	1024		"gld,mul=1536"	50	Act 4 (N) Equip A	15	Act 4 (N) Junk	30	Act 4 (N) Good	20	Act 4 (N) Magic A	10	Cscroll Main	15	elx	1	Haunted Main	5	Act 3 (N) Uitem A	1			0
+Council (H)			3	150	300	650	1024		"gld,mul=2048"	50	Act 4 (H) Equip A	15	Act 4 (H) Junk	30	Act 4 (H) Good	20	Act 4 (H) Magic A	10	Cscroll Main	15	elx	1	Haunted Main	5	Act 3 (H) Uitem A	1			0
+Griswold			3						"gld,mul=1280"	50	Act 1 Uitem C	5	Act 1 Melee B	10	Cscroll Main	15	elx	1	rvl	2	Gremlin Main	5	Act 1 Uitem A	1					0
+Griswold (N)			3						"gld,mul=1536"	50	Act 1 (H) Uitem C	5	Act 1 (N) Melee B	10	Cscroll Main	15	elx	1	rvl	2	Haunted 5	10	Haunted 6	10	Act 1 (N) Uitem A	1			0
+Griswold (H)			3						"gld,mul=2048"	50	Act 1 (H) Uitem C	5	Act 1 (H) Melee B	10	Cscroll Main	15	elx	1	rvl	2	Haunted 6	10	Haunted 7	10	Act 1 (H) Uitem A	1			0
+Cow			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1			0
+Cow (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1	Haunted 5	5	0
+Cow (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 8	5	0
+Drake			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5	0
+Drake (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1			0
+Drake (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1			0
+Majat			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	2	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5	0
+Majat (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	2	Cscroll Main	8	Mscroll Main	1	cm7	1			0
+Majat (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	2	Cscroll Main	8	Mscroll Main	1	luv	1			0
+Witch			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	cm7	1	Gremlin Main	5	0
+Witch (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	cm7	1			0
+Witch (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	1	Cscroll Main	8	Mscroll Main	2	luv	1			0
+Banshee			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 Uitem A	1	0
+Banshee (N)			2					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 (N) Uitem A	1	0
+Banshee (H)			3					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 (H) Uitem A	1	0
+Whipper			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY1	1	0
+Whipper (N)			2					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY1	1	0
+Whipper (H)			3					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY2	1	0
+Knight			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Runes 16	3	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5	0
+Knight (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Runes 17 (N)	3	Cscroll Main	8	Mscroll Main	1	cm7	1	Haunted 6	5	0
+Knight (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	3	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 9	5	0
+StygDoll			1					37	Empty	13	Gold 2	40	Act 5 Equip A	30	Act 5 Junk	20	rvl	3	Gremlin Main	1									0
+StygDoll (N)			1					45	Empty	15	Gold 2	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	rvl	3											0
+StygDoll (H)			2					53	Empty	17	Gold 2	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	elx	1	rvl	3									0
+StygShaman			1					37	Empty	13	"gld,mul=1280"	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	cm7	1	Gremlin Main	5	0
+StygShaman (N)			1					45	Empty	15	"gld,mul=1536"	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	cm7	1			0
+StygShaman (H)			2					53	Empty	17	"gld,mul=2048"	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	luv	1			0
+Minion			1					37	Empty	13	Gold 2	40	Act 5 Equip A	30	Act 5 Junk	20	Dbox Main	1	rvl	3	Gremlin Main	5	Act 5 Uitem A	1					0
+Minion (N)			1					45	Empty	15	Gold 2	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Dbox Main	1	rvl	3	Haunted 7	10	Haunted 8	10	Act 5 (N) Uitem A	1			0
+Minion (H)			1					53	Empty	17	Gold 2	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Dbox Main	1	rvl	3	Haunted 8	10	Haunted 9	10	Act 5 (H) Uitem A	1			0
+Chimera			4	5	10	15	20		"gld,mul=1280"	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
+Chimera (N)			5	5	10	15	20		"gld,mul=1536"	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY6	1	Act 5 (N) Uitem A	1	0
+Chimera (H)			6	5	10	15	20		"gld,mul=2048"	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
+Voorlon			4	10	15	20	30		"gld,mul=1280"	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
+Voorlon (N)			5	10	15	20	30		"gld,mul=1536"	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY6	1	Act 5 (N) Uitem A	1	0
+Voorlon (H)			6	10	15	20	30		"gld,mul=2048"	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
+Hellsprite			2						"gld,mul=1280"	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
+Hellsprite (N)			4						"gld,mul=1536"	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
+Hellsprite (H)			6						"gld,mul=2048"	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY3	1					0
+Ryokin			1						"gld,mul=1280"	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Lscroll Main	2	Dbox Main	2	cm7	1					0
+Ryokin (N)			2						"gld,mul=1536"	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	1	Lscroll Main	2	Dbox Main	2	cm7	1					0
+Ryokin (H)			3						"gld,mul=2048"	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Lscroll Main	2	Dbox Main	2	luv	1					0
+Trapped Soul			1					37	Empty	13	Gold 2	20	Act 4 Equip A	8	Act 4 Junk	33													0
+Trapped Soul (N)			1					45	Empty	15	Gold 2	20	Act 4 (N) Equip A	8	Act 4 (N) Junk	33	Haunted 5	10											0
+Trapped Soul (H)			1					53	Empty	17	Gold 2	20	Act 4 (H) Equip A	8	Act 4 (H) Junk	33	Haunted 6	10											0
+Haphesto			6	150	300	650	1024		"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Gremlin Main	10					0
+Haphesto (N)			6	150	300	650	1024		"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Haunted 9	10	Haunted 10	10			0
+Haphesto (H)			6	150	300	650	1024		"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Haunted 9	10	Haunted 10	10			0
+Nihlathak			6	200	400	750	1024		"gld,mul=1280"	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17	5	Gremlin Main	10	0
+Nihlathak (N)			6	200	400	750	1024		"gld,mul=1536"	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17 (N)	5	Haunted Main	10	0
+Nihlathak (H)			6	200	400	750	1024		"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17 (H)	5	Haunted Main	10	0
+Baal - Item			6	300	550	800	1024		"gld,mul=1536"	5	Act 1 (N) Equip A	52	Act 1 (N) Junk	30	Act 1 (N) Good	20	ZY6	1	luv	3	Cscroll Main	20	Mscroll Main	10	Lscroll Main	5	Act 5 Uitem C	1	0
+Baal (N) - Item			6	300	550	800	1024		"gld,mul=2048"	5	Act 1 (H) Equip A	52	Act 1 (H) Junk	30	Act 1 (H) Good	20	ZY6	2	luv	3	Cscroll Main	20	Mscroll Main	10	Lscroll Main	5	Act 5 (N) Uitem C	1	0
+Baal (H) - Item			6	300	550	800	1024		"gld,mul=2560"	5	Act 5 (H) Equip B	52	Act 5 (H) Junk	30	Act 5 (H) Good	20	ZY6	2	luv	3	Cscroll Main	20	Mscroll Main	10	Lscroll Main	5	Act 5 (H) Uitem C	1	0
+Blood Raven			5	100	150	400	650		"gld,mul=1280"	40	Act 1 Equip B	20	Act 1 Junk	10	Act 1 Good	5	Cscroll Main	15	elx	1	rvs	5	Gremlin Main	10					0
+Blood Raven (N)			5	100	150	400	650		"gld,mul=1536"	40	Act 1 (N) Equip B	20	Act 1 (N) Junk	10	Act 1 (N) Good	5	Cscroll Main	15	elx	1	rvs	5	Haunted 1	10					0
+Blood Raven (H)			5	100	150	400	650		"gld,mul=2048"	40	Act 1 (H) Equip B	20	Act 1 (H) Junk	10	Act 1 (H) Good	5	Cscroll Main	15	elx	1	rvs	5	Haunted 2	10					0
+Smith			4	150	300	650	1024		Act 1 Uitem C	5	Act 1 Melee B	10	Cscroll Main	15	elx	1	Gremlin Main	10											0
+Smith (N)			4	150	300	650	1024		Act 1 (H) Uitem C	5	Act 1 (N) Melee B	10	Cscroll Main	15	elx	1	Haunted 3	10	Haunted 4	10									0
+Smith (H)			4	150	300	650	1024		Act 1 (H) Uitem C	5	Act 1 (H) Melee B	10	Cscroll Main	15	elx	1	Haunted 4	10	Haunted 5	10									0
+Izual			5	150	300	650	1024		"gld,mul=1280"	50	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	5	elx	1	luv	1	Cscroll Main	15	Mscroll Main	2	Dbox Main	1	ZY5	1	0
+Izual (N)			5	150	300	650	1024		"gld,mul=1536"	50	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	5	elx	1	luv	1	Haunted 5	10	Mscroll Main	2	Dbox Main	1	ZY5	1	0
+Izual (H)			5	150	300	650	1024		"gld,mul=2048"	50	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	5	elx	1	luv	1	Haunted 6	10	Mscroll Main	2	Dbox Main	1	ZY5	1	0
+Act 1 Super A			-4	100	300	600	900		Act 1 Uitem A	2	Act 1 Cpot A	2																	0
+Act 1 Super B			-4	100	300	600	900		Act 1 Uitem B	2	Act 1 Cpot B	2																	0
+Act 1 Super C			-4	100	300	600	900		Act 1 Uitem C	2	Act 1 Cpot C	2																	0
+Act 2 Super A			-4	100	300	600	900		Act 2 Uitem A	2	Act 2 Cpot A	2																	0
+Act 2 Super B			-4	100	300	600	900		Act 2 Uitem B	2	Act 2 Cpot B	2																	0
+Act 2 Super C			-4	100	300	600	900		Act 2 Uitem C	2	Act 2 Cpot C	2																	0
+Act 3 Super A			-4	100	300	600	900		Act 3 Uitem A	2	Act 3 Cpot A	2																	0
+Act 3 Super B			-4	100	300	600	900		Act 3 Uitem B	2	Act 3 Cpot B	2																	0
+Act 3 Super C			-4	100	300	600	900		Act 3 Uitem C	2	Act 3 Cpot C	2																	0
+Act 4 Super A			-4	100	300	600	900		Act 4 Uitem A	2	Act 4 Cpot A	2																	0
+Act 4 Super B			-4	100	300	600	900		Act 4 Uitem B	2	Act 4 Cpot B	2																	0
+Act 4 Super C			-4	100	300	600	900		Act 4 Uitem B	2	Act 4 Cpot B	2																	0
+Act 5 Super A			-4	100	300	600	900		Act 5 Uitem A	2	Act 5 Cpot A	2																	0
+Act 5 Super B			-4	100	300	600	900		Act 5 Uitem B	2	Act 5 Cpot B	2																	0
+Act 5 Super C			-4	100	300	600	900		Act 5 Uitem C	2	Act 5 Cpot C	2																	0
+Act 1 (N) Super A			-4	100	300	600	900		Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																	0
+Act 1 (N) Super B			-4	100	300	600	900		Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																	0
+Act 1 (N) Super C			-4	100	300	600	900		Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																	0
+Act 2 (N) Super A			-4	100	300	600	900		Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																	0
+Act 2 (N) Super B			-4	100	300	600	900		Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																	0
+Act 2 (N) Super C			-4	100	300	600	900		Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																	0
+Act 3 (N) Super A			-4	100	300	600	900		Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																	0
+Act 3 (N) Super B			-4	100	300	600	900		Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																	0
+Act 3 (N) Super C			-4	100	300	600	900		Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																	0
+Act 4 (N) Super A			-4	100	300	600	900		Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																	0
+Act 4 (N) Super B			-4	100	300	600	900		Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																	0
+Act 4 (N) Super C			-4	100	300	600	900		Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																	0
+Act 5 (N) Super A			-4	100	300	600	900		Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																	0
+Act 5 (N) Super B			-4	100	300	600	900		Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																	0
+Act 5 (N) Super C			-4	100	300	600	900		Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																	0
+Act 1 (H) Super A			-4	100	300	600	900		Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																	0
+Act 1 (H) Super B			-4	100	300	600	900		Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																	0
+Act 1 (H) Super C			-4	100	300	600	900		Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																	0
+Act 2 (H) Super A			-4	100	300	600	900		Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																	0
+Act 2 (H) Super B			-4	100	300	600	900		Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																	0
+Act 2 (H) Super C			-4	100	300	600	900		Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																	0
+Act 3 (H) Super A			-4	100	300	600	900		Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																	0
+Act 3 (H) Super B			-4	100	300	600	900		Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																	0
+Act 3 (H) Super C			-4	100	300	600	900		Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																	0
+Act 4 (H) Super A			-4	100	300	600	900		Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																	0
+Act 4 (H) Super B			-4	100	300	600	900		Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																	0
+Act 4 (H) Super C			-4	100	300	600	900		Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																	0
+Act 5 (H) Super A			-4	100	300	600	900		Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																	0
+Act 5 (H) Super B			-4	100	300	600	900		Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																	0
+Act 5 (H) Super C			-4	100	300	600	900		Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																	0
+Countess			3	150	300	600	900		Act 1 Uitem C	10	Act 1 Melee B	25	elx	1	Cscroll Main	15	Gremlin Main	10											0
+Countess (N)			3	150	300	600	900		Act 1 (H) Uitem C	10	Act 1 (N) Melee B	25	elx	2	Cscroll Main	15	Haunted 7	10											0
+Countess (H)			3	150	300	600	900		Act 1 (H) Uitem C	10	Act 1 (H) Melee B	25	elx	3	Cscroll Main	15	Haunted 8	10											0
+Cow King			4	200	400	750	1024		Act 1 Uitem C	15	Act 1 Melee B	20	elx	1	Cscroll Main	15	Mscroll Main	5	Gremlin Main	10	Act 5 Uitem B	1							0
+Cow King (N)			4	200	400	750	1024		Act 1 (H) Uitem C	15	Act 1 (N) Melee B	20	elx	2	Cscroll Main	15	Mscroll Main	5	Haunted 9	10	Act 5 (N) Uitem B	1							0
+Cow King (H)			4	200	400	750	1024		Act 1 (H) Uitem C	15	Act 1 (H) Melee B	20	elx	3	Cscroll Main	15	Mscroll Main	5	Haunted 10	10	Act 5 (H) Uitem B	1							0
+Andariel			-3						elx	1	Elite Gem	1	Andariel - Base	1															0
+Andariel (N)			-3						elx	1	Elite Gem	1	Andariel (N) - Base	1															0
+Andariel (H)			-3						elx	1	Elite Gem	1	Andariel (H) - Base	1															0
+Duriel			-3						elx	1	Elite Gem	1	Duriel - Base	1															0
+Duriel (N)			-3						elx	1	Elite Gem	1	Duriel (N) - Base	1															0
+Duriel (H)			-3						elx	1	Elite Gem	1	Duriel (H) - Base	1															0
+ZyRune			1					20	Empty	20	r33	10	luv	10	elx	20	Elite Gem	20											0
+Mephisto			-4						ZyRune	3	Mephisto - Item	1																	0
+Mephisto (N)			-4						ZyRune	3	Mephisto (N) - Item	1																	0
+Mephisto (H)			-4						ZyRune	3	Mephisto (H) - Item	1																	0
+Diablo			-4						ZyRune	3	Diablo - Item	1																	0
+Diablo (N)			-4						ZyRune	3	Diablo (N) - Item	1																	0
+Diablo (H)			-4						ZyRune	3	Diablo (H) - Item	1																	0
+Baal			-4						ZyRune	3	Baal - Item	1																	0
+Baal (N)			-4						ZyRune	3	Baal (N) - Item	1																	0
+Baal (H)			-4						ZyRune	3	Baal (H) - Item	1																	0
+Immortal			4	200	400	750	1024	60	Empty	20	"gld,mul=2048"	200	ZyRune	75	Dbox Main	25	ZG5	5	ZG6	5	TGrade-Z	5							0

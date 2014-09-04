@@ -1,0 +1,199 @@
+ItemType	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Charm	Gem	Beltable	MaxSock1	MaxSock25	MaxSock40	TreasureClass	Rarity	StaffMods	CostFormula	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
+None				0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+None				0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Shield	shie	shld		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		1		0							armo	0
+Armor	tors	armo		1	1	tors	tors			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		1		0							armo	0
+Gold	gold	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0								0
+Bow Quiver	bowq	misl		0	1	rarm	larm		bow	0	1	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Crossbow Quiver	xboq	misl		0	1	rarm	larm		xbow	0	1	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Player Body Part	play	misc		0	0					0	0	0	0	0	0	1	1	0	0	0	0	0	0	3		0		0							misc	0
+Herb	herb	misc		0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							misc	0
+Potion	poti	misc		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Ring	ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		6	invrin1	invrin2	invrin3	invrin4	invrin5	invrin6	misc	0
+Elixir	elix	misc		0	0					0	0	0	0	0	0	0	0	0	1	0	0	0	0	3		0		6	invpotn0	invpotn1	invpotn2	invpotn3	invpotn4	invpotn5	misc	0
+Amulet	amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		6	invamu1	invamu2	invamu3	invamu4	invamu5	invamu6	misc	0
+Charm	char	misc		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		6	invch1	invch4	invch7	invch10	invch13	invch16	misc	0
+Not Used				0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Boots	boot	armo		1	1	feet	feet			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Gloves	glov	armo		1	1	glov	glov			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Not Used				0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Book	book	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Belt	belt	armo		1	1	belt	belt			0	0	0	0	0	1	0	0	0	0	2	2	2	0	3		1		0							armo	0
+Gem	gem	sock		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Torch	torc	misc		0	1					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Scroll	scro	misc		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Anty Item	item			0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	1	3		0		0								0
+Scepter	scep	rod		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3	pal	0		0							weap	0
+Wand	wand	rod		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	3	0	3	nec	0		0							weap	0
+Staff	staf	rod		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	5	6	6	0	3	sor	0		0							weap	0
+Bow	bow	miss		0	1	rarm	larm	bowq		0	0	0	0	0	1	0	0	0	0	4	5	6	1	3		0		0							weap	0
+Axe	axe	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Club	club	blun		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Sword	swor	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Knife	knif	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	3	0	3		0		0							weap	0
+Spear	spea	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Polearm	pole	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Crossbow	xbow	miss		1	1	rarm	larm	xboq		0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Mace	mace	blun		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+Helm	helm	armo		1	1	head	head			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Missile Potion	tpot	thro		0	1	rarm	larm			1	1	1	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Quest	ques			0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Body Part	body	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		2		0							misc	0
+Key	key	misc		0	0					0	0	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Throwing Knife	tkni	comb	knif	1	1	rarm	larm			1	1	1	1	0	1	0	0	0	0	1	2	2	0	3		1		0							misc	0
+Throwing Axe	taxe	comb	axe	1	1	rarm	larm			1	1	1	1	0	1	0	0	0	0	4	5	6	0	3		1		0							misc	0
+Javelin	jave	comb	spea	1	1	rarm	larm			1	1	1	1	0	1	0	0	0	0	3	4	4	0	3		1		0							misc	0
+Weapon	weap	item		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	1	3		0		0								0
+Melee Weapon	mele	weap		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	1	3		0		0								0
+Missile Weapon	miss	weap		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Thrown Weapon	thro	weap		0	0					1	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Combo Weapon	comb	mele	thro	0	0					1	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Any Armor	armo	item		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	1	3		0		0								0
+Any Shield	shld	armo	seco	0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Miscellaneous	misc	item		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Socket Filler	sock	misc		0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Second Hand	seco			0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Staves And Rods	rod	blun		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Missile	misl	misc		0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0								0
+Blunt	blun	mele		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Jewel	jewl	sock		0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	3		0		6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+Class Specific	clas			0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0		0								0
+Amazon Item	amaz	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	ama	0								0
+Barbarian Item	barb	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	bar	0								0
+Necromancer Item	necr	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	nec	0								0
+Paladin Item	pala	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	pal	0								0
+Sorceress Item	sorc	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	sor	0								0
+Assassin Item	assn	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	ass	0								0
+Druid Item	drui	clas		0	0					0	0	0	0	0	1	0	0	0	0	0	0	0	0	3		0	dru	0								0
+Hand to Hand	h2h	mele	assn	1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	3	0	3	ass	0	ass	0							weap	0
+Orb	orb	mele	sorc	1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	3	0	3	sor	0	sor	0							weap	0
+Voodoo Heads	head	shld	necr	1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3	nec	0	nec	0							armo	0
+Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0	pal	0							armo	0
+Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3	bar	0	bar	0							armo	0
+Pelt	pelt	helm	drui	1	1	head	head			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3	dru	0	dru	0							armo	0
+Cloak	cloa	tors	assn	1	1	tors	tors			0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	ass	0	ass	0							armo	0
+Rune	rune	sock		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+Circlet	circ	helm		1	1	head	head			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3	sor	1		0							armo	0
+Healing Potion	hpot	poti		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Mana Potion	mpot	poti		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Rejuv Potion	rpot	hpot	mpot	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Stamina Potion	spot	poti		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Antidote Potion	apot	poti		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Thawing Potion	wpot	poti		0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc	0
+Small Charm	scha	char		0	0					0	0	0	0	1	1	0	1	0	0	1	1	1	0	3		0		6	invch1	invch4	invch7	invch10	invch13	invch16	misc	0
+Medium Charm	mcha	char		0	0					0	0	0	0	1	1	0	1	0	0	2	2	2	0	3		0		6	invch2	invch5	invch8	invch11	invch14	invch17	misc	0
+Large Charm	lcha	char		0	0					0	0	0	0	1	1	0	1	0	0	3	3	3	0	3		0		6	invch3	invch6	invch9	invch12	invch15	invch18	misc	0
+Amazon Bow	abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0	0	1	0	0	0	0	4	5	6	1	3		0	ama	0							weap	0
+Amazon Spear	aspe	spea	amaz	1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0	ama	0							weap	0
+Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1	0	1	0	0	0	0	3	4	4	0	3		0	ama	0							misc	0
+Hand to Hand 2	h2h2	h2h		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	2	3	4	0	3	ass	0	ass	0							weap	0
+Magic Bow Quiv	mboq	bowq	misl	1	1	rarm	larm		bow	0	1	1	1	0	1	0	0	0	0	2	2	3	0	3		0		0							misc	0
+Magic Xbow Quiv	mxbq	xboq	misl	1	1	rarm	larm		xbow	0	1	1	1	0	1	0	0	0	0	2	2	3	0	3		0		0							misc	0
+Chipped Gem	gem0	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Flawed Gem	gem1	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Standard Gem	gem2	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Flawless Gem	gem3	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Perfect Gem	gem4	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Amethyst	gema	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Diamond	gemd	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Emerald	geme	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Ruby	gemr	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Sapphire	gems	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Topaz	gemt	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Skull	gemz	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+	cbs1	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbs2	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbs3	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	qcha	char		0	0					0	0	0	0	0	1	0	1	0	0	4	4	4	0	3		0		6	invch19	invch20	invch21	invch22	invch23	invch24	misc	0
+	tcha	char		0	0					0	0	0	0	0	1	0	1	0	0	4	4	4	0	3		0		6	invch25	invch26	invch27	invch28	invch29	invch30	misc	0
+	hcha	char		0	0					0	0	0	0	0	1	0	1	0	0	6	6	6	0	3		0		6	invch31	invch32	invch33	invch34	invch35	invch36	misc	0
+	cbs4	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbs5	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		4	invdmbx1	invdmbx2	invdmbx3	invdmbx4			misc	0
+	h2h3	h2h		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	3	4	4	0	3	ass	0	ass	0							weap	0
+	axes	axe		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	4	5	6	0	3		0		0							weap	0
+	cbs6	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbs7	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	tkn1	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	tkn2	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	tkn3	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	tkn4	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	ncha	char		0	0					0	0	0	0	0	1	0	1	0	0	2	2	2	0	3		0		4	invch37	invch38	invch39	invch40			misc	0
+	wcha	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+	ocha	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+	food	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		6	invfood1	invfood2	invfood3	invfood4	invfood5	invfood6	misc	0
+	bopq	bowq	misl	1	1	rarm	larm		bow	0	1	1	1	1	0	0	0	0	0	0	0	0	0	3		0		0							misc	0
+	xbpq	xboq	misl	1	1	rarm	larm		xbow	0	1	1	1	1	0	0	0	0	0	0	0	0	0	3		0		0							misc	0
+	brac	mele		1	1	rarm	larm			0	0	0	0	0	1	0	0	0	0	1	1	1	0	3	bar	0		0							weap	0
+	meat	food		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		6	invfod07	invfod08	invfod09	invfod10	invfod11	invfod12	misc	0
+	vegi	food		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		6	invfod13	invfod14	invfod15	invfod16	invfod17	invfod18	misc	0
+	cbs8	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbs9	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs1	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs2	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbsa	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbsb	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs3	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs4	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbsc	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs5	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	rcha	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+Collector	colr	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs6	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs7	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs8	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	dbs9	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cblk	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	cbdr	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+	chm1	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+	chm2	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+	chm3	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+card any	trcd	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card talon	ttal	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card sword	tswd	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card star	tsta	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card spade	tspd	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+crad club	tclb	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card heart	thrt	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card diamond	tdmd	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 2	tcd2	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 3	tcd3	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 4	tcd4	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 5	tcd5	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 6	tcd6	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 7	tcd7	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 8	tcd8	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 9	tcd9	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card 10	tcd0	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card J	tcdJ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card Q	tcdQ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card K	tcdK	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card A	tcdA	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card E	tcdE	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card Z	tcdZ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+card joker	tjok	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb any	tctm	misc		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb talon	tcta	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb sword	tcsw	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb star	tcst	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb spade	tcsp	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb club	tccl	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb heart	tchr	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb diamond	tcdm	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb joker	thjo	tctm		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc	0
+thumb 2	thd2	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 3	thd3	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 4	thd4	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 5	thd5	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 6	thd6	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 7	thd7	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 8	thd8	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 9	thd9	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb 10	thd0	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb J	thdJ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb Q	thdQ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb K	thdK	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb A	thdA	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb E	thdE	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb Z	thdZ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
+thumb poster	kcha	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0

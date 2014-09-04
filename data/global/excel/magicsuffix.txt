@@ -1,0 +1,405 @@
+Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transform	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	divide	multiply	add
+of Health	1	1	1	7	0	5			0	1	1	red-dmg	0	1	1		0	0	0		0	0	0			tors	shld	ring	amul	circ	    	    	    	    	    	0	0	0
+of Protection	1	1	1	18	0	13			0	1	1	red-dmg	0	2	2		0	0	0		0	0	0			ring	amul	circ	    	    	    	    	    	    	    	0	0	0
+of Absorption	1	1	1	26	0	19			0	1	1	red-dmg	0	3	3		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
+of Life	1	1	1	35	0	26			0	1	1	red-dmg	0	4	4		0	0	0		0	0	0	1	dblu	amul	circ	    	    	    	    	    	    	    	    	0	0	0
+of Life Everlasting	100	1	0	45	0	37			0	1	1	red-dmg	0	10	25		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
+of Protection	1	1	1	24	0	18			0	1	1	red-dmg	0	2	2		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Absorption	1	1	1	32	0	24			0	1	1	red-dmg	0	3	3		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Life	1	1	1	41	0	33			0	1	1	red-dmg	0	4	7		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Anima	100	1	0	51	0	43			0	1	1	red-dmg	0	8	15		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Warding	1	1	1	7	0	5			0	1	2	red-mag	0	1	1		0	0	0		0	0	0			tors	shld	ring	amul	orb 	circ	    	    	    	    	0	0	0
+of the Sentinel	1	1	1	18	0	12			0	1	2	red-mag	0	2	2		0	0	0		0	0	0			ring	amul	orb 	circ	    	    	    	    	    	    	0	0	0
+of Guarding	1	1	1	26	0	19			0	1	2	red-mag	0	3	3		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Negation	100	1	0	42	0	35			0	1	2	red-mag	0	4	6		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of the Sentinel	1	1	1	24	0	18			0	1	2	red-mag	0	2	2		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Guarding	1	1	1	32	0	24			0	1	2	red-mag	0	3	3		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Negation	100	1	1	41	0	33			0	1	2	red-mag	0	4	6		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Coolness	100	0	1	11	0	8			0	1	3	abs-fire	0	2	2		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Incombustibility	100	0	1	19	0	14			0	1	3	abs-fire	0	3	3		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Amianthus	100	0	1	28	0	21			0	1	3	abs-fire	0	4	5		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Fire Quenching	100	0	1	38	0	30			0	1	3	abs-fire	0	6	8		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Coolness	100	0	1	13	0	9			0	1	3	abs-fire	0	2	2		0	0	0		0	0	0			ring	amul	orb 	circ	    	    	    	    	    	    	0	0	0
+of Incombustibility	100	0	1	22	0	16			0	1	3	abs-fire	0	3	3		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Amianthus	100	0	1	33	0	25			0	1	3	abs-fire	0	4	5		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Fire Quenching	100	0	1	46	0	38			0	1	3	abs-fire	0	6	8		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Faith	100	0	1	23	0	17			0	1	3	abs-fire	0	1	2		0	0	0		0	0	0			jewl	ncha	ocha	wcha	kcha	    	    	    	    	    	0	0	0
+of Resistance	100	0	1	11	0	8			0	1	3	abs-ltng	0	2	2		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Insulation	100	0	1	19	0	14			0	1	3	abs-ltng	0	3	3		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Grounding	100	0	1	28	0	21			0	1	3	abs-ltng	0	4	5		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of the Dynamo	100	0	1	38	0	30			0	1	3	abs-ltng	0	6	8		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Resistance	100	0	1	13	0	9			0	1	3	abs-ltng	0	2	2		0	0	0		0	0	0			ring	amul	orb 	circ	    	    	    	    	    	    	0	0	0
+of Insulation	100	0	1	22	0	16			0	1	3	abs-ltng	0	3	3		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Grounding	100	0	1	33	0	25			0	1	3	abs-ltng	0	4	5		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of the Dynamo	100	0	1	46	0	38			0	1	3	abs-ltng	0	6	8		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Stoicism	100	0	1	22	0	16			0	1	3	abs-ltng	0	1	2		0	0	0		0	0	0			jewl	ncha	ocha	wcha	    	    	    	    	    	    	0	0	0
+of Warming	100	0	1	11	0	8			0	1	3	abs-cold	0	2	2		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Thawing	100	0	1	19	0	14			0	1	3	abs-cold	0	3	3		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of the Dunes	100	0	1	28	0	21			0	1	3	abs-cold	0	4	5		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of the Sirocco	100	0	1	38	0	30			0	1	3	abs-cold	0	6	8		0	0	0		0	0	0			tors	shld	boot	circ	    	    	    	    	    	    	0	0	0
+of Warming	100	0	1	13	0	9			0	1	3	abs-cold	0	2	2		0	0	0		0	0	0			ring	amul	orb 	circ	    	    	    	    	    	    	0	0	0
+of Thawing	100	0	1	22	0	16			0	1	3	abs-cold	0	3	3		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of the Dunes	100	0	1	33	0	25			0	1	3	abs-cold	0	4	5		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of the Sirocco	100	0	1	46	0	38			0	1	3	abs-cold	0	6	8		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Desire	100	0	1	23	0	17			0	1	3	abs-cold	0	1	2		0	0	0		0	0	0			jewl	ncha	ocha	wcha	    	    	    	    	    	    	0	0	0
+of Piercing	1	1	1	25	0	18			0	1	4	ignore-ac	0	1	1		0	0	0		0	0	0			rod 	knif	h2h 	mboq	mxbq	    	    	    	    	    	0	0	0
+of Bashing	100	0	1	16	0	12			0	1	5	dmg-ac	0	-25	-40		0	0	0		0	0	0			blun	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Puncturing	100	0	1	6	0	4			0	1	5	dmg-ac	0	-10	-20		0	0	0		0	0	0			spea	knif	h2h 	mboq	mxbq	    	    	    	    	    	0	0	0
+of Thorns	1	1	1	14	0	10			0	1	6	thorns	0	10	30		0	0	0		0	0	0			tors	shld	belt	circ	    	    	    	    	    	    	0	0	0
+of Spikes	1	1	1	21	0	15			0	1	6	thorns	0	40	60		0	0	0		0	0	0	1	oran	tors	shld	belt	circ	    	    	    	    	    	    	0	0	0
+of Razors	100	1	1	34	0	26			0	1	6	thorns	0	70	90		0	0	0		0	0	0	1	oran	tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Swords	100	1	1	47	0	39			0	1	6	thorns	0	100	200		0	0	0		0	0	0	1	oran	tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Malice	100	1	1	37	0	29			0	1	6	thorns	0	20	50		0	0	0		0	0	0			jewl	ncha	ocha	wcha	    	    	    	    	    	    	0	0	0
+of Readiness	1	1	1	5	0	3			0	1	7	swing1	0	10	10		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Alacrity	1	1	1	25	0	17			0	1	7	swing2	0	20	20		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Swiftness	1	1	1	34	0	26			0	1	7	swing2	0	30	30		0	0	0		0	0	0			mele	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Quickness	1	1	1	46	0	38			0	1	7	swing3	0	40	40		0	0	0		0	0	0	1	dyel	mele	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Alacrity	100	1	1	43	0	35			0	1	7	swing2	0	20	20		0	0	0		0	0	0	1	dyel	glov	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Fervor	100	1	1	39	0	31			0	1	7	swing1	0	15	15		0	0	0		0	0	0			jewl	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Blocking	1	1	1	1	0	1			0	1	8	block	0	10	10	block2	0	15	15		0	0	0			shld	    	    	    	    	    	    	    	    	    	0	0	0
+of Deflecting	1	1	1	11	0	8			0	1	8	block	0	20	20	block2	0	30	30		0	0	0			shld	    	    	    	    	    	    	    	    	    	0	0	0
+of the Apprentice	1	1	1	5	0	3			0	1	9	cast1	0	10	10		0	0	0		0	0	0			rod 	ring	amul	orb 	circ	    	    	    	    	    	0	0	0
+of the Magus	1	1	1	29	0	21			0	1	9	cast3	0	20	20		0	0	0		0	0	0			rod 	orb 	circ	    	    	    	    	scep	    	    	0	0	0
+of Frost	1	1	1	4	0	3			0	1	10	cold-min	0	1	1	cold-max	0	1	2	cold-len	0	50	50			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of the Icicle	100	1	1	13	0	9			0	1	10	cold-min	0	1	1	cold-max	0	3	4	cold-len	0	75	75			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of the Glacier	1	1	1	27	0	20			0	1	10	cold-min	0	2	4	cold-max	0	4	15	cold-len	0	100	100	1	dblu	weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Winter	100	1	1	45	0	37			0	1	10	cold-min	0	5	9	cold-max	0	16	50	cold-len	0	150	150	1	dblu	mele	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Frost	1	1	1	55	0	41			0	1	10	cold-min	0	1	1	cold-max	0	3	6	cold-len	0	50	50			belt	amul	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of Frigidity	100	1	1	16	0	12			0	1	10	cold-min	0	1	1	cold-max	0	3	5	cold-len	0	50	50	1	dblu	jewl	mboq	mxbq	ncha	ocha	    	    	    	    	    	0	0	0
+of Warmth	1	1	1	10	0	7			0	1	11	half-freeze	0	1	1		0	0	0		0	0	0			shld	boot	glov	ring	amul	circ	orb 	    	    	    	0	0	0
+of Flame	1	1	1	4	0	3			0	1	12	fire-min	0	1	1	fire-max	0	2	5		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Fire	1	1	1	15	0	11			0	1	12	fire-min	0	1	4	fire-max	0	6	11		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Burning	1	1	1	25	0	18			0	1	12	fire-min	0	5	9	fire-max	0	10	20		0	0	0	1	dred	weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Incineration	100	1	1	43	0	35			0	1	12	fire-min	0	10	20	fire-max	0	21	75		0	0	0	1	dred	mele	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Flame	100	1	1	40	0	30			0	1	12	fire-min	0	1	1	fire-max	0	2	6		0	0	0			glov	ring	amul	mboq	mxbq	    	    	    	    	    	0	0	0
+of Passion	100	1	1	15	0	11			0	1	12	fire-min	0	1	3	fire-max	0	6	10		0	0	0	1	dred	jewl	mboq	mxbq	ncha	ocha	kcha	    	    	    	    	0	0	0
+of Shock	1	1	1	4	0	3			0	1	13	ltng-min	0	1	1	ltng-max	0	6	8		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Lightning	1	1	1	15	0	11			0	1	13	ltng-min	0	1	1	ltng-max	0	9	16		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Thunder	1	1	1	25	0	18			0	1	13	ltng-min	0	1	1	ltng-max	0	17	40		0	0	0	1	dyel	weap	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Storms	100	1	1	34	0	26			0	1	13	ltng-min	0	1	6	ltng-max	0	41	120		0	0	0	1	dyel	mele	mboq	mxbq	    	    	    	    	wand	orb 	    	0	0	0
+of Shock	100	1	1	50	0	37			0	1	13	ltng-min	0	1	1	ltng-max	0	11	23		0	0	0			boot	ring	amul	mboq	mxbq	    	    	    	    	    	0	0	0
+of Ennui	100	1	1	15	0	11			0	1	13	ltng-min	0	1	1	ltng-max	0	10	20		0	0	0	1	dyel	jewl	mboq	mxbq	ncha	ocha	kcha	    	    	    	    	0	0	0
+of Craftsmanship	1	1	1	1	0	1			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			weap	ring	amul	mboq	mxbq	    	    	wand	staf	orb 	0	0	0
+of Quality	1	1	1	4	0	3			0	1	14	dmg-max	0	2	2		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Maiming	1	1	1	7	0	5			0	1	14	dmg-max	0	3	4		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Slaying	1	1	1	11	0	8			0	1	14	dmg-max	0	5	7		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Gore	1	1	1	14	0	10			0	1	14	dmg-max	0	8	10		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Carnage	1	1	1	19	0	14			0	1	14	dmg-max	0	11	14		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Slaughter	1	1	1	25	0	18			0	1	14	dmg-max	0	15	20		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Butchery	100	1	1	35	0	27			0	1	14	dmg-max	0	21	40		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Evisceration	100	1	1	45	0	37			0	1	14	dmg-max	0	41	63		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
+of Maiming	1	1	1	42	0	34			0	1	14	dmg-max	0	3	4		0	0	0		0	0	0			shld	ring	amul	mboq	mxbq	    	    	    	    	    	0	0	0
+of Craftsmanship	100	1	1	1	7	1			0	1	14	dmg-max	0	1	2		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Craftsmanship	100	1	1	8	14	6			0	1	14	dmg-max	0	2	3		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Craftsmanship	100	1	1	15	0	11			0	1	14	dmg-max	0	4	5		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Quality	100	1	1	23	29	17			0	1	14	dmg-max	0	6	7		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Quality	100	1	1	30	0	22			0	1	14	dmg-max	0	7	8		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Maiming	100	1	1	37	44	29			0	1	14	dmg-max	0	9	10		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Maiming	100	1	1	45	0	37			0	1	14	dmg-max	0	11	12		0	0	0		0	0	0			circ	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Craftsmanship	100	0	1	8	17	6			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Craftsmanship	100	0	1	18	0	13			0	1	14	dmg-max	0	2	2		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Quality	100	0	1	28	37	21			0	1	14	dmg-max	0	3	4		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Quality	100	0	1	38	0	30			0	1	14	dmg-max	0	5	6		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Maiming	100	0	1	48	0	40			0	1	14	dmg-max	0	7	8		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Craftsmanship	100	0	1	21	0	15			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Quality	100	0	1	36	0	28			0	1	14	dmg-max	0	2	2		0	0	0		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Maiming	100	0	1	51	0	43			0	1	14	dmg-max	0	3	4		0	0	0		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Ire	100	1	1	4	0	3			0	1	14	dmg-max	0	2	5		0	0	0		0	0	0			jewl	mboq	mxbq	ncha	ocha	wcha	rcha	    	    	    	0	0	0
+of Wrath	100	1	1	11	0	8			0	1	14	dmg-max	0	6	9		0	0	0		0	0	0	1	blac	jewl	mboq	mxbq	ncha	ocha	wcha	rcha	    	    	    	0	0	0
+of Carnage	100	1	1	25	0	18			0	1	14	dmg-max	0	11	15		0	0	0		0	0	0	1	blac	jewl	mboq	mxbq	ncha	ocha	wcha	rcha	    	    	    	0	0	0
+of Worth	1	1	1	1	0	1			0	1	15	dmg-min	0	1	2		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Measure	1	1	1	12	0	9			0	1	15	dmg-min	0	3	4		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Excellence	1	1	1	24	0	18			0	1	15	dmg-min	0	5	8		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Performance	1	1	1	48	0	40			0	1	15	dmg-min	0	9	14		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Transcendence	100	1	1	76	0	50			0	1	15	dmg-min	0	15	20		0	0	0		0	0	0	1	blac	weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Worth	1	1	1	15	0	11			0	1	15	dmg-min	0	2	3		0	0	0		0	0	0			ring	amul	circ	mboq	mxbq	    	    	    	    	    	0	0	0
+of Measure	1	1	1	37	0	29			0	1	15	dmg-min	0	4	5		0	0	0		0	0	0			ring	amul	circ	mboq	mxbq	    	    	    	    	    	0	0	0
+of Excellence	1	1	1	59	0	50			0	1	15	dmg-min	0	6	9		0	0	0		0	0	0			ring	amul	circ	mboq	mxbq	    	    	    	    	    	0	0	0
+of Performance	100	1	1	81	0	50			0	1	15	dmg-min	0	10	13		0	0	0		0	0	0			ring	amul	circ	mboq	mxbq	    	    	    	    	    	0	0	0
+of Joyfulness	100	1	1	5	0	3			0	1	15	dmg-min	0	1	4		0	0	0		0	0	0	1	whit	jewl	mboq	mxbq	ncha	ocha	wcha	rcha	    	    	    	0	0	0
+of Bliss	100	1	1	43	0	37			0	1	15	dmg-min	0	5	10		0	0	0		0	0	0	1	whit	jewl	mboq	mxbq	ncha	ocha	wcha	rcha	    	    	    	0	0	0
+of Blight	1	1	1	5	0	3			0	1	16	dmg-pois	75	24	24		0	0	0		0	0	0			weap	circ	mboq	mxbq	bopq	xbpq	    	rod 	orb 	    	0	0	0
+of Venom	1	1	1	15	0	11			0	1	16	dmg-pois	100	54	54		0	0	0		0	0	0			weap	circ	mboq	mxbq	bopq	xbpq	    	rod 	orb 	    	0	0	0
+of Pestilence	1	1	1	25	0	18			0	1	16	dmg-pois	125	103	103		0	0	0		0	0	0	1	dgrn	weap	circ	mboq	mxbq	bopq	xbpq	    	rod 	orb 	    	0	0	0
+of Anthrax	100	1	1	33	0	25			0	1	16	dmg-pois	150	171	171		0	0	0		0	0	0	1	dgrn	weap	mboq	mxbq	bopq	xbpq	    	    	rod 	orb 	    	0	0	0
+of Blight	100	1	1	45	0	33			0	1	16	dmg-pois	75	171	171		0	0	0		0	0	0			ring	amul	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of Envy	100	1	1	1	0	1			0	1	16	dmg-pois	50	103	103		0	0	0		0	0	0	1	dgrn	jewl	mboq	mxbq	ncha	ocha	wcha	kcha	    	    	    	0	0	0
+of Dexterity	1	1	1	1	0	1			0	1	17	dex	0	1	2		0	0	0		0	0	0			amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Skill	1	1	1	11	0	8			0	1	17	dex	0	3	5		0	0	0		0	0	0			amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Accuracy	1	1	1	27	0	20			0	1	17	dex	0	6	9		0	0	0		0	0	0			amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Precision	1	1	1	43	0	35			0	1	17	dex	0	10	15		0	0	0		0	0	0			amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Perfection	1	1	1	59	0	50			0	1	17	dex	0	16	20		0	0	0		0	0	0	1	dgld	amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Nirvana	100	1	1	72	0	50			0	1	17	dex	0	21	30		0	0	0		0	0	0	1	dgld	amul	miss	circ	    	    	    	    	    	    	    	0	0	0
+of Dexterity	1	1	1	6	0	4			0	1	17	dex	0	1	2		0	0	0		0	0	0			ring	glov	    	    	    	    	    	    	    	    	0	0	0
+of Skill	1	1	1	22	0	16			0	1	17	dex	0	3	5		0	0	0		0	0	0			ring	glov	    	    	    	    	    	    	    	    	0	0	0
+of Accuracy	1	1	1	39	0	31			0	1	17	dex	0	6	9		0	0	0		0	0	0			ring	glov	    	    	    	    	    	    	    	    	0	0	0
+of Precision	1	1	1	56	0	48			0	1	17	dex	0	10	15		0	0	0		0	0	0			ring	glov	    	    	    	    	    	    	    	    	0	0	0
+of Perfection	100	1	1	75	0	50			0	1	17	dex	0	16	20		0	0	0		0	0	0	1	dgld	ring	glov	    	    	    	    	    	    	    	    	0	0	0
+of Dexterity	1	1	1	13	0	9			0	1	17	dex	0	2	3		0	0	0		0	0	0			tors	boot	    	    	    	    	    	glov	    	    	0	0	0
+of Skill	1	1	1	34	0	26			0	1	17	dex	0	4	5		0	0	0		0	0	0			tors	boot	    	    	    	    	    	glov	    	    	0	0	0
+of Accuracy	1	1	1	46	0	38			0	1	17	dex	0	6	9		0	0	0		0	0	0			tors	boot	    	    	    	    	    	glov	    	    	0	0	0
+of Precision	100	1	1	60	0	50			0	1	17	dex	0	10	15		0	0	0		0	0	0	1	dgld	tors	boot	    	    	    	    	    	glov	    	    	0	0	0
+of Dexterity	100	1	1	1	0	1			0	1	31	dex	0	3	4		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Dexterity	100	1	1	3	0	2			0	1	31	dex	0	2	3		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Dexterity	100	1	1	7	0	5			0	1	31	dex	0	1	1		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Dexterity	100	1	1	14	0	10			0	1	31	dex	0	5	6		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Dexterity	100	1	1	18	0	13			0	1	31	dex	0	4	5		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Dexterity	100	1	1	22	0	16			0	1	31	dex	0	2	2		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Daring	100	1	1	7	0	5			0	1	17	dex	0	1	3		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Balance	1	1	1	5	0	3			0	1	18	balance1	0	10	10		0	0	0		0	0	0			armo	    	    	    	    	    	    	glov	    	    	0	0	0
+of Equilibrium	1	1	1	9	0	6			0	1	18	balance2	0	17	17		0	0	0		0	0	0			tors	belt	shld	    	    	    	    	    	    	    	0	0	0
+of Stability	1	1	1	18	0	13			0	1	18	balance3	0	24	24		0	0	0		0	0	0	1	dyel	tors	belt	    	    	    	    	    	    	    	    	0	0	0
+of Balance	100	1	1	1	0	1			0	1	18	balance3	0	12	12		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Balance	100	1	1	19	0	14			0	1	18	balance2	0	8	8		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Balance	100	1	1	37	0	29			0	1	18	balance1	0	5	5		0	0	0		0	0	0	1	dyel	scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Truth	100	1	1	44	0	36			0	1	18	balance1	0	7	7		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Regeneration	1	1	1	10	0	7			0	1	19	regen	0	3	5		0	0	0		0	0	0			scep	belt	ring	amul	circ	    	    	    	    	    	0	0	0
+of Regeneration	1	1	1	40	0	30			0	1	19	regen	0	3	5		0	0	0		0	0	0			shld	glov	    	    	    	    	    	    	    	    	0	0	0
+of Regeneration	1	1	1	70	0	52			0	1	19	regen	0	3	5		0	0	0		0	0	0			tors	weap	boot	    	    	    	    	scep	    	    	0	0	0
+of Regrowth	1	1	1	17	0	12			0	1	19	regen	0	6	10		0	0	0		0	0	0	1	cred	scep	amul	circ	    	    	    	    	    	    	    	0	0	0
+of Regrowth	1	1	1	55	0	41			0	1	19	regen	0	6	9		0	0	0		0	0	0	1	cred	belt	ring	    	    	    	    	    	    	    	    	0	0	0
+of Revivification	100	1	1	38	0	30			0	1	19	regen	0	11	15		0	0	0		0	0	0	1	cred	scep	amul	circ	    	    	    	    	    	    	    	0	0	0
+of Honor	100	1	1	47	0	35			0	1	19	regen	0	1	4		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	    	    	    	    	    	0	0	0
+of Vileness	1	1	1	9	0	6			0	1	20	noheal	0	1	1		0	0	0		0	0	0			mele	    	    	    	    	    	    	rod 	orb 	    	0	0	0
+of Greed	1	1	1	1	0	1			0	1	21	gold%	0	25	40		0	0	0		0	0	0			ring	amul	circ	    	    	    	    	    	    	    	0	0	0
+of Wealth	1	1	1	17	0	12			0	1	21	gold%	0	41	80		0	0	0		0	0	0	1	lgld	boot	glov	belt	amul	circ	    	    	    	    	    	0	0	0
+of Greed	100	1	1	1	0	1			0	1	21	gold%	0	10	20		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Greed	100	1	1	7	0	5			0	1	21	gold%	0	21	30		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Greed	100	1	1	19	0	14			0	1	21	gold%	0	31	40		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Greed	100	1	1	1	0	5			0	1	21	gold%	0	5	10		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Greed	100	1	1	20	0	15			0	1	21	gold%	0	11	22		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Greed	100	1	1	1	0	15			0	1	21	gold%	0	5	10		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Avarice	100	1	1	1	0	1			0	1	21	gold%	0	10	30		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Chance	1	1	1	12	0	9			0	1	22	mag%	0	5	15		0	0	0		0	0	0			boot	glov	ring	amul	circ	    	    	    	    	    	0	0	0
+of Fortune	1	1	1	16	0	12			0	1	22	mag%	0	16	25		0	0	0		0	0	0	1	lgld	boot	glov	amul	circ	    	    	    	    	    	    	0	0	0
+of Fortune	1	1	1	42	0	31			0	1	22	mag%	0	16	25		0	0	0		0	0	0	1	lgld	ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Luck	100	1	1	26	0	19			0	1	22	mag%	0	26	35		0	0	0		0	0	0	1	lgld	boot	amul	circ	    	    	    	    	    	    	    	0	0	0
+of Fortune	100	1	1	31	0	18			0	1	22	mag%	0	3	5		0	0	0		0	0	0			scha	tcha	wcha	ocha	rcha	kcha	    	    	    	    	0	0	0
+of Good Luck	100	1	1	47	0	33			0	1	22	mag%	0	6	7		0	0	0		0	0	0			scha	tcha	wcha	ocha	rcha	kcha	    	    	    	    	0	0	0
+of Prosperity	100	1	1	26	0	19			0	1	22	mag%	0	5	10		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Energy	1	1	1	1	0	1			0	1	23	enr	0	1	3		0	0	0		0	0	0			amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of the Mind	1	1	1	7	0	3			0	1	23	enr	0	4	6		0	0	0		0	0	0			amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of Brilliance	1	1	1	13	0	9			0	1	23	enr	0	7	10		0	0	0		0	0	0			amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of Sorcery	1	1	1	21	0	16			0	1	23	enr	0	11	15		0	0	0		0	0	0			amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of Wizardry	1	1	1	31	0	23			0	1	23	enr	0	16	20		0	0	0		0	0	0	1	dgld	amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of Enlightenment	100	1	1	41	0	33			0	1	23	enr	0	21	30		0	0	0		0	0	0	1	dgld	amul	orb 	circ	wand	staf	rcha	    	    	    	    	0	0	0
+of Energy	1	1	1	7	0	5			0	1	23	enr	0	1	3		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of the Mind	1	1	1	13	0	9			0	1	23	enr	0	4	6		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Brilliance	1	1	1	21	0	16			0	1	23	enr	0	7	10		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Sorcery	1	1	1	31	0	23			0	1	23	enr	0	11	15		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Wizardry	100	1	1	41	0	33			0	1	23	enr	0	16	20		0	0	0		0	0	0	1	dgld	ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Energy	1	1	1	4	0	3			0	1	23	enr	0	1	3		0	0	0		0	0	0			helm	scep	    	    	    	    	    	    	    	    	0	0	0
+of the Mind	1	1	1	10	0	7			0	1	23	enr	0	4	6		0	0	0		0	0	0			helm	scep	    	    	    	    	    	    	    	    	0	0	0
+of Brilliance	1	1	1	16	0	12			0	1	23	enr	0	7	10		0	0	0		0	0	0			helm	scep	    	    	    	    	    	    	    	    	0	0	0
+of Sorcery	100	1	1	26	0	21			0	1	23	enr	0	11	15		0	0	0		0	0	0	1	dgld	helm	scep	    	    	    	    	    	    	    	    	0	0	0
+of Knowledge	100	1	1	9	0	6			0	1	23	enr	0	1	5		0	0	0		0	0	0			jewl	ncha	kcha	    	    	    	    	    	    	    	0	0	0
+of the Bear	1	1	1	8	0	6			0	1	24	knock	0	1	1		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Light	1	1	1	6	0	4			0	1	25	light	0	1	1	att	0	20	20		0	0	0			armo	rod 	ring	amul	    	    	    	    	    	    	0	0	0
+of Radiance	1	1	1	15	0	11			0	1	25	light	0	3	3	att	0	50	50		0	0	0			rod 	miss	ring	amul	helm	    	    	    	    	    	0	0	0
+of the Sun	1	1	1	17	0	12			0	1	25	light	0	5	5	att%	0	5	5		0	0	0			rod 	miss	glov	ring	amul	helm	    	    	    	    	0	0	0
+of the Jackal	1	1	1	1	0	1			0	1	26	hp	0	1	5		0	0	0		0	0	0			tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Fox	1	1	1	7	0	5			0	1	26	hp	0	6	10		0	0	0		0	0	0			tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Wolf	1	1	1	15	0	11			0	1	26	hp	0	11	20		0	0	0		0	0	0			tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Tiger	1	1	1	20	0	15			0	1	26	hp	0	21	30		0	0	0		0	0	0			tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Mammoth	1	1	1	25	0	18			0	1	26	hp	0	31	40		0	0	0		0	0	0	1	cred	tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Colosuss	1	1	1	30	0	22			0	1	26	hp	0	41	60		0	0	0		0	0	0	1	cred	tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Squid	100	1	1	40	0	30			0	1	26	hp	0	61	80		0	0	0		0	0	0	1	cred	tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Whale	100	1	1	50	0	37			0	1	26	hp	0	81	100		0	0	0		0	0	0	1	cred	tors	belt	amul	phlm	circ	    	    	    	    	    	0	0	0
+of the Jackal	100	1	1	4	0	3			0	1	26	hp	0	1	5		0	0	0		0	0	0			shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Fox	100	1	1	11	0	8			0	1	26	hp	0	6	10		0	0	0		0	0	0			shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Wolf	100	1	1	27	0	20			0	1	26	hp	0	11	20		0	0	0		0	0	0			shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Tiger	100	1	1	43	0	35			0	1	26	hp	0	21	30		0	0	0		0	0	0			shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Mammoth	100	1	1	59	0	50			0	1	26	hp	0	31	40		0	0	0		0	0	0	1	cred	shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Colosuss	100	1	1	75	0	50			0	1	26	hp	0	41	60		0	0	0		0	0	0	1	cred	shld	pelt	    	    	    	    	    	    	    	    	0	0	0
+of the Jackal	1	1	1	8	0	6			0	1	26	hp	0	1	5		0	0	0		0	0	0			club	hamm	mace	ring	helm	    	    	    	    	    	0	0	0
+of the Fox	1	1	1	17	0	13			0	1	26	hp	0	6	10		0	0	0		0	0	0			club	hamm	mace	ring	helm	    	    	    	    	    	0	0	0
+of the Wolf	1	1	1	34	0	26			0	1	26	hp	0	11	20		0	0	0		0	0	0			club	hamm	mace	ring	helm	    	    	    	    	    	0	0	0
+of the Tiger	1	1	1	51	0	43			0	1	26	hp	0	21	30		0	0	0		0	0	0			club	hamm	mace	ring	helm	    	    	    	    	    	0	0	0
+of the Mammoth	1	1	1	68	0	50			0	1	26	hp	0	31	40		0	0	0		0	0	0	1	cred	club	hamm	mace	ring	helm	    	    	    	    	    	0	0	0
+of Life	100	1	1	1	0	1			0	1	26	hp	0	5	10		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Life	100	1	1	9	0	6			0	1	26	hp	0	11	15		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Life	100	1	1	19	0	14			0	1	26	hp	0	16	20		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Substinence	100	1	1	31	0	23			0	1	26	hp	0	21	25		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Substinence	100	1	1	45	0	37			0	1	26	hp	0	26	30		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Substinence	100	1	1	61	0	50			0	1	26	hp	0	31	35		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Vita	100	1	1	77	0	50			0	1	26	hp	0	36	40		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Vita	100	1	1	91	0	50			0	1	26	hp	0	41	45		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Vita	100	1	1	110	0	50			0	1	26	hp	0	46	50		0	0	0		0	0	0			lcha	qcha	ncha	ocha	wcha	rcha	kcha	    	    	    	0	0	0
+of Life	100	1	1	1	0	9			0	1	26	hp	0	6	10		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Life	100	1	1	12	0	9			0	1	26	hp	0	11	15		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Substinence	100	1	1	26	0	19			0	1	26	hp	0	16	20		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Substinence	100	1	1	42	0	34			0	1	26	hp	0	21	25		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Vita	100	1	1	58	0	50			0	1	26	hp	0	26	30		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Vita	100	1	1	74	0	50			0	1	26	hp	0	31	35		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Life	100	1	1	1	0	14			0	1	26	hp	0	5	10		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Substinence	100	1	1	23	0	17			0	1	26	hp	0	11	15		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Vita	100	1	1	47	0	39			0	1	26	hp	0	16	20		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Spirit	100	1	1	1	0	1			0	1	26	hp	0	3	8		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Hope	100	1	1	45	0	37			0	1	26	hp	0	9	20		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of the Leech	1	1	1	6	0	4			0	1	27	lifesteal	0	4	5		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	orb 	    	    	0	0	0
+of the Locust	1	1	1	20	0	15			0	1	27	lifesteal	0	6	7		0	0	0		0	0	0	1	cred	mele	mboq	mxbq	    	    	    	    	orb 	    	    	0	0	0
+of the Lamprey	100	1	1	55	0	43			0	1	27	lifesteal	0	8	9		0	0	0		0	0	0	1	cred	mele	mboq	mxbq	    	    	    	    	orb 	    	    	0	0	0
+of the Leech	1	1	1	14	0	10			0	1	27	lifesteal	0	3	4		0	0	0		0	0	0			ring	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Locust	1	1	1	47	0	35			0	1	27	lifesteal	0	5	6		0	0	0		0	0	0			ring	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Lamprey	100	1	1	77	0	50			0	1	27	lifesteal	0	7	8		0	0	0		0	0	0	1	cred	ring	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Leech	1	1	1	34	0	26			0	1	27	lifesteal	0	3	3		0	0	0		0	0	0	1	cred	glov	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of the Bat	1	1	1	7	0	4			0	1	28	manasteal	0	4	5		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of the Wraith	1	1	1	21	0	16			0	1	28	manasteal	0	6	7		0	0	0		0	0	0	1	cred	mele	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of the Vampire	100	1	1	56	0	48			0	1	28	manasteal	0	8	9		0	0	0		0	0	0	1	cred	mele	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of the Bat	1	1	1	15	0	11			0	1	28	manasteal	0	3	4		0	0	0		0	0	0			amul	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Wraith	1	1	1	58	0	40			0	1	28	manasteal	0	5	6		0	0	0		0	0	0			amul	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Vampire	100	1	1	78	0	50			0	1	28	manasteal	0	7	8		0	0	0		0	0	0	1	cred	amul	circ	mboq	mxbq	    	    	    	    	    	    	0	0	0
+of the Bat	1	1	1	35	0	27			0	1	28	manasteal	0	3	3		0	0	0		0	0	0	1	cred	glov	mboq	mxbq	    	    	    	    	    	    	    	0	0	0
+of Defiance	1	1	1	25	0	18			0	1	29	res-pois-len	0	75	75		0	0	0		0	0	0	1	dred	tors	shld	amul	circ	    	    	    	    	    	    	0	0	0
+of Amelioration	1	1	1	18	0	13			0	1	29	res-pois-len	0	50	50		0	0	0		0	0	0			tors	shld	amul	circ	    	    	    	    	    	    	0	0	0
+of Remedy	100	1	1	7	0	5			0	1	29	res-pois-len	0	25	25		0	0	0		0	0	0			armo	ring	amul	circ	    	    	    	    	    	    	0	0	0
+of Simplicity	1	1	1	25	0	18			0	1	30	ease	0	-300	-300	ease-string	0	-30	-30		0	0	0			tors	weap	shld	    	    	    	    	rod 	orb 	    	0	0	0
+of Ease	1	1	1	15	0	11			0	1	30	ease	0	-200	-200	ease-string	0	-20	-20		0	0	0			tors	weap	shld	    	    	    	    	rod 	orb 	    	0	0	0
+of Freedom	100	1	1	1	0	1			0	1	30	ease	0	-100	-100	ease-string	0	-10	-10		0	0	0			jewl	ncha	ocha	rcha	    	    	    	    	    	    	0	0	0
+of Strength	1	1	1	1	0	1			0	1	31	str	0	1	2		0	0	0		0	0	0			amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of Might	1	1	1	10	0	8			0	1	31	str	0	3	5		0	0	0		0	0	0			amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of the Ox	1	1	1	26	0	19			0	1	31	str	0	6	9		0	0	0		0	0	0			amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of the Giant	1	1	1	42	0	34			0	1	31	str	0	10	15		0	0	0		0	0	0			amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of the Titan	1	1	1	58	0	50			0	1	31	str	0	16	20		0	0	0		0	0	0	1	dgld	amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of Atlus	100	1	1	71	0	50			0	1	31	str	0	21	30		0	0	0		0	0	0	1	dgld	amul	belt	club	hamm	circ	    	    	    	    	    	0	0	0
+of Strength	1	1	1	5	0	3			0	1	31	str	0	1	2		0	0	0		0	0	0			ring	scep	mace	tors	    	    	    	    	    	    	0	0	0
+of Might	1	1	1	21	0	15			0	1	31	str	0	3	5		0	0	0		0	0	0			ring	scep	mace	tors	    	    	    	    	    	    	0	0	0
+of the Ox	1	1	1	38	0	30			0	1	31	str	0	6	9		0	0	0		0	0	0			ring	scep	mace	tors	    	    	    	    	    	    	0	0	0
+of the Giant	1	1	1	55	0	47			0	1	31	str	0	10	15		0	0	0		0	0	0			ring	scep	mace	tors	    	    	    	    	    	    	0	0	0
+of the Titan	100	1	1	74	0	50			0	1	31	str	0	16	20		0	0	0		0	0	0	1	dgld	ring	scep	mace	tors	    	    	    	    	    	    	0	0	0
+of Strength	1	1	1	12	0	8			0	1	31	str	0	1	2		0	0	0		0	0	0			mele	glov	shld	    	    	    	    	blun	    	    	0	0	0
+of Might	1	1	1	33	0	25			0	1	31	str	0	3	5		0	0	0		0	0	0			mele	glov	shld	    	    	    	    	blun	    	    	0	0	0
+of the Ox	1	1	1	45	0	37			0	1	31	str	0	6	9		0	0	0		0	0	0			mele	glov	shld	    	    	    	    	blun	    	    	0	0	0
+of the Giant	100	1	1	59	0	50			0	1	31	str	0	10	15		0	0	0		0	0	0	1	dgld	mele	glov	    	    	    	    	    	blun	    	    	0	0	0
+of Strength	100	1	1	1	0	1			0	1	31	str	0	3	4		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Strength	100	1	1	3	0	2			0	1	31	str	0	2	3		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Strength	100	1	1	7	0	5			0	1	31	str	0	1	1		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Strength	100	1	1	14	0	10			0	1	31	str	0	5	6		0	0	0		0	0	0			lcha	qcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Strength	100	1	1	18	0	13			0	1	31	str	0	4	5		0	0	0		0	0	0			mcha	tcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Strength	100	1	1	22	0	16			0	1	31	str	0	2	2		0	0	0		0	0	0			scha	tcha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Virility	100	1	1	18	0	13			0	1	31	str	0	1	4		0	0	0		0	0	0			jewl	ncha	ocha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Pacing	1	1	1	12	0	8			0	1	35	move1	0	10	10		0	0	0		0	0	0			boot	circ	    	    	    	    	    	    	    	    	0	0	0
+of Haste	1	1	1	22	0	16			0	1	35	move2	0	20	20		0	0	0		0	0	0			boot	circ	    	    	    	    	    	    	    	    	0	0	0
+of Speed	1	1	1	37	0	29			0	1	35	move3	0	30	30		0	0	0		0	0	0			boot	circ	    	    	    	    	    	    	    	    	0	0	0
+of Traveling	100	1	0	65	0	50			0	1	35	move3	0	30	30		0	0	0		0	0	0			boot	    	    	    	    	    	    	    	    	    	0	0	0
+of Acceleration	100	1	0	51	0	43			0	1	35	move3	0	40	40		0	0	0		0	0	0			boot	    	    	    	    	    	    	    	    	    	0	0	0
+of Inertia	100	1	1	19	0	14			0	1	35	move3	0	7	7		0	0	0		0	0	0			lcha	qcha	    	    	    	    	    	    	    	    	0	0	0
+of Inertia	100	1	1	24	0	18			0	1	35	move2	0	5	5		0	0	0		0	0	0			mcha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Inertia	100	1	0	35	0	1			0	1	35	move1	0	10	50		0	0	0		0	0	0			scha	tcha	hcha	wcha	rcha	kcha	    	    	    	    	0	0	0
+of Self-Repair	100	1	1	3	0	1			0	1	37	rep-dur	3	0	0		0	0	0		0	0	0			weap	armo	    	    	    	    	    	thro	miss	    	0	0	0
+of Fast Repair	100	1	1	20	0	12			0	1	37	rep-dur	5	0	0		0	0	0		0	0	0			weap	armo	    	    	    	    	    	thro	miss	    	0	0	0
+of Ages	100	1	1	50	0	42			0	1	39	indestruct	0	0	0		0	0	0		0	0	0			weap	armo	    	    	    	    	    	thro	miss	    	0	0	0
+of Replenishing	100	1	1	5	0	3			0	1	39	rep-quant	5	0	0		0	0	0		0	0	0			thro	    	    	    	    	    	    	    	    	    	0	0	0
+of Propogation	100	1	1	24	0	18			0	1	39	rep-quant	10	0	0		0	0	0		0	0	0			thro	miss	    	    	    	    	    	    	    	    	0	0	0
+of the Kraken	100	1	1	20	0	1			0	1	41	hp/lvl	6	0	0		0	0	0		0	0	0	1	cred	tors	amul	pelt	phlm	    	    	    	    	    	    	0	0	0
+of Memory	100	1	1	20	0	1			0	1	41	mana/lvl	6	0	0		0	0	0		0	0	0	1	cred	circ	amul	pelt	    	    	    	    	    	    	    	0	0	0
+of the Elephant	100	1	1	37	0	7			0	1	41	hp/lvl	4	0	0	mana/lvl	2	0	0		0	0	0	1	cred	circ	pelt	    	    	    	    	    	    	    	    	0	0	0
+of Power	100	1	1	50	0	40			0	1	42	str%	0	6	12		0	0	0		0	0	0	1	dgld	belt	amul	    	    	    	    	    	    	    	    	0	0	0
+of Grace	100	1	1	50	0	40			0	1	42	dex%	0	6	12		0	0	0		0	0	0	1	dgld	helm	amul	    	    	    	    	    	    	    	    	0	0	0
+of Grace and Power	100	1	1	50	0	40			0	1	42	str%	0	3	6	dex%	0	3	6		0	0	0	1	dgld	amul	    	    	    	    	    	    	    	    	    	0	0	0
+of the Yeti	100	0	0	1	0	1			0	1	43	res-cold/lvl	3	0	0		0	0	0		0	0	0	1	lblu	tors	glov	amul	    	    	    	    	    	    	    	0	0	0
+of the Phoenix	100	0	0	1	0	1			0	1	43	res-fire/lvl	3	0	0		0	0	0		0	0	0	1	cred	shld	helm	amul	    	    	    	    	    	    	    	0	0	0
+of the Efreeti	100	0	0	1	0	1			0	1	43	res-ltng/lvl	3	0	0		0	0	0		0	0	0	1	cblu	glov	boot	ring	    	    	    	    	    	    	    	0	0	0
+of the Cobra	100	0	0	1	0	1			0	1	43	res-pois/lvl	3	0	0		0	0	0		0	0	0	1	dyel	belt	ring	amul	    	    	    	    	    	    	    	0	0	0
+of the Elements	100	0	0	1	0	1			0	1	43	res-cold/lvl	1	0	0	res-fire/lvl	1	0	0	res-ltng/lvl	1	0	0	1	dgld	circ	    	    	    	    	    	    	    	    	    	0	0	0
+of Firebolts	100	1	1	16	0	12			0	1	44	hit-skill	36	10	8		0	0	0		0	0	0			weap	    	    	    	    	    	    	miss	    	    	0	0	0
+of Firebolts	100	1	1	6	0	4			0	1	44	att-skill	36	5	3		0	0	0		0	0	0			weap	    	    	    	    	    	    	miss	    	    	0	0	0
+of Firebolts	100	1	1	20	0	15			0	1	44	att-skill	36	10	4		0	0	0		0	0	0			weap	    	    	    	    	    	    	miss	    	    	0	0	0
+of Charged Shield	100	1	1	6	0	4			0	1	44	gethit-skill	38	10	3		0	0	0		0	0	0			armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Charged Shield	100	1	1	16	0	12			0	1	44	gethit-skill	38	12	4		0	0	0		0	0	0			armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Charged Shield	100	1	1	26	0	19			0	1	44	gethit-skill	38	14	5		0	0	0		0	0	0			armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Icebolt	100	1	1	6	0	4			0	1	44	att-skill	39	5	3		0	0	0		0	0	0	1	lblu	weap	    	    	    	    	    	    	miss	    	    	0	0	0
+of Frost Shield	100	1	1	12	0	9			0	1	44	gethit-skill	44	5	3		0	0	0		0	0	0	1	lblu	armo	amul	    	    	    	    	    	    	    	    	0	0	0
+of Nova	100	1	1	18	0	13			0	1	44	hit-skill	48	10	3		0	0	0		0	0	0	1	cblu	weap	mboq	mxbq	    	    	    	    	miss	    	    	0	0	0
+of Nova	100	1	1	28	0	21			0	1	44	hit-skill	48	12	4		0	0	0		0	0	0	1	cblu	weap	mboq	mxbq	    	    	    	    	miss	    	    	0	0	0
+of Nova Shield	100	1	1	18	0	13			0	1	44	gethit-skill	48	10	3		0	0	0		0	0	0	1	cblu	armo	ring	    	    	    	    	    	    	    	    	0	0	0
+of Nova Shield	100	1	1	28	0	21			0	1	44	gethit-skill	48	12	4		0	0	0		0	0	0	1	cblu	armo	ring	    	    	    	    	    	    	    	    	0	0	0
+of Nova Shield	100	1	1	38	0	28			0	1	44	gethit-skill	48	14	5		0	0	0		0	0	0	1	cblu	armo	ring	    	    	    	    	    	    	    	    	0	0	0
+of Lightning	100	1	1	18	0	13			0	1	44	att-skill	49	5	3		0	0	0		0	0	0	1	cblu	weap	    	    	    	    	    	    	miss	    	    	0	0	0
+of Chain Lightning	100	1	1	25	0	18			0	1	44	att-skill	53	5	3		0	0	0		0	0	0			weap	ring	amul	mboq	mxbq	    	    	miss	    	    	0	0	0
+of Chain Lightning	100	1	1	35	0	26			0	1	44	att-skill	53	8	3		0	0	0		0	0	0			weap	ring	amul	mboq	mxbq	    	    	miss	    	    	0	0	0
+of Chain Lightning	100	1	1	45	0	33			0	1	44	att-skill	53	8	5		0	0	0		0	0	0			weap	ring	amul	mboq	mxbq	    	    	miss	    	    	0	0	0
+of Teleport Shield	100	0	0	25	0	18			0	1	44	gethit-skill	54	10	3		0	0	0		0	0	0	1	whit	armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Teleport Shield	100	0	0	35	0	26			0	1	44	gethit-skill	54	14	3		0	0	0		0	0	0	1	whit	armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Teleport Shield	100	0	0	45	0	33			0	1	44	gethit-skill	54	18	3		0	0	0		0	0	0	1	whit	armo	ring	amul	    	    	    	    	    	    	    	0	0	0
+of Hydra Shield	100	1	1	40	0	30			0	1	44	gethit-skill	62	10	3		0	0	0		0	0	0	1	cred	amul	    	    	    	    	    	    	    	    	    	0	0	0
+of Damage Amplification	100	1	1	3	0	0			0	1	44	hit-skill	66	5	1		0	0	0		0	0	0			weap	    	    	    	    	    	    	orb 	    	    	0	0	0
+of the Icicle	100	1	1	37	0	29			0	1	10	cold-min	0	2	3	cold-max	0	6	10	cold-len	0	50	50	1	dblu	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of the Glacier	100	1	1	58	0	50			0	1	10	cold-min	0	4	5	cold-max	0	11	15	cold-len	0	50	50	1	dblu	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of Fire	100	1	1	36	0	28			0	1	12	fire-min	0	4	10	fire-max	0	11	30		0	0	0	1	dred	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of Burning	100	1	1	57	0	49			0	1	12	fire-min	0	11	25	fire-max	0	31	50		0	0	0	1	dred	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of Lightning	100	1	1	36	0	28			0	1	13	ltng-min	0	1	1	ltng-max	0	21	60		0	0	0	1	dyel	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of Thunder	100	1	1	57	0	49			0	1	13	ltng-min	0	1	1	ltng-max	0	61	100		0	0	0	1	dyel	jewl	mboq	mxbq	ncha	wcha	rcha	kcha	    	    	    	0	0	0
+of Daring	100	1	1	19	0	14			0	1	17	dex	0	4	6		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Daring	100	1	1	36	0	28			0	1	17	dex	0	7	9		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Knowledge	100	1	1	24	0	18			0	1	23	enr	0	4	6		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Knowledge	100	1	1	41	0	33			0	1	23	enr	0	7	9		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Virility	100	1	1	33	0	25			0	1	31	str	0	5	6		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Virility	100	1	1	50	0	42			0	1	31	str	0	7	9		0	0	0		0	0	0			jewl	ncha	ocha	rcha	kcha	    	    	    	    	    	0	0	0
+of Readiness	1	1	1	20	0	15			0	1	7	swing1	0	10	10		0	0	0		0	0	0			glov	    	    	    	    	    	    	    	    	    	0	0	0
+of Craftsmanship	100	1	1	1	0	1			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Quality	100	1	1	41	0	33			0	1	14	dmg-max	0	2	2		0	0	0		0	0	0			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Maiming	100	1	1	71	0	63			0	1	14	dmg-max	0	3	4		0	0	0		0	0	0			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Craftsmanship	100	1	1	26	0	19			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Quality	100	1	1	56	0	48			0	1	14	dmg-max	0	2	2		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Craftsmanship	100	1	1	85	0	77			0	1	14	dmg-max	0	1	1		0	0	0		0	0	0			scha	tcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Blight	100	1	1	1	0	1			0	1	16	dmg-pois	75	21	21		0	0	0		0	0	0			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Venom	100	1	1	6	0	4			0	1	16	dmg-pois	100	39	39		0	0	0		0	0	0			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Pestilence	100	1	1	14	0	10			0	1	16	dmg-pois	125	52	52		0	0	0		0	0	0	1	dgrn	lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Anthrax	100	1	1	21	0	15			0	1	16	dmg-pois	150	86	86		0	0	0		0	0	0	1	dgrn	lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Blight	100	1	1	5	0	3			0	1	16	dmg-pois	75	21	21		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Venom	100	1	1	13	0	9			0	1	16	dmg-pois	100	39	39		0	0	0		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Pestilence	100	1	1	23	0	17			0	1	16	dmg-pois	125	52	52		0	0	0		0	0	0	1	dgrn	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Anthrax	100	1	1	33	0	25			0	1	16	dmg-pois	150	86	86		0	0	0		0	0	0	1	dgrn	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Blight	100	1	1	9	0	6			0	1	16	dmg-pois	75	21	21		0	0	0		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Venom	100	1	1	20	0	15			0	1	16	dmg-pois	100	39	39		0	0	0		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Pestilence	100	1	1	32	0	24			0	1	16	dmg-pois	125	52	52		0	0	0		0	0	0	1	dgrn	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Anthrax	100	1	1	44	0	36			0	1	16	dmg-pois	150	86	86		0	0	0		0	0	0	1	dgrn	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Frost	100	1	1	5	0	3			0	1	10	cold-min	0	1	1	cold-max	0	2	2	cold-len	0	25	25			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of the Icicle	100	1	1	8	0	6			0	1	10	cold-min	0	2	2	cold-max	0	3	4	cold-len	0	25	25			lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of the Glacier	100	1	1	15	0	11			0	1	10	cold-min	0	3	3	cold-max	0	5	7	cold-len	0	25	25	1	dblu	lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Winter	100	1	1	23	0	17			0	1	10	cold-min	0	4	6	cold-max	0	8	11	cold-len	0	25	25	1	dblu	lcha	qcha	mboq	mxbq	ocha	wcha	rcha	    	    	    	0	0	0
+of Frost	100	1	1	9	0	6			0	1	10	cold-min	0	1	1	cold-max	0	2	3	cold-len	0	25	25			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of the Icicle	100	1	1	15	0	11			0	1	10	cold-min	0	2	2	cold-max	0	4	5	cold-len	0	25	25			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of the Glacier	100	1	1	25	0	18			0	1	10	cold-min	0	3	3	cold-max	0	6	8	cold-len	0	25	25	1	dblu	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Winter	100	1	1	35	0	27			0	1	10	cold-min	0	4	6	cold-max	0	9	12	cold-len	0	25	25	1	dblu	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Frost	100	1	1	14	0	10			0	1	10	cold-min	0	1	1	cold-max	0	2	2	cold-len	0	25	25			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of the Icicle	100	1	1	21	0	15			0	1	10	cold-min	0	2	2	cold-max	0	3	4	cold-len	0	25	25			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of the Glacier	100	1	1	33	0	25			0	1	10	cold-min	0	3	3	cold-max	0	5	6	cold-len	0	25	25	1	dblu	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Winter	100	1	1	46	0	38			0	1	10	cold-min	0	4	5	cold-max	0	7	9	cold-len	0	25	25	1	dblu	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Flame	100	1	1	3	0	2			0	1	12	fire-min	0	1	1	fire-max	0	2	2		0	0	0			lcha	qcha	mboq	mxbq	ncha	wcha	rcha	    	    	    	0	0	0
+of Fire	100	1	1	8	0	6			0	1	12	fire-min	0	1	2	fire-max	0	3	3		0	0	0			lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Burning	100	1	1	14	0	10			0	1	12	fire-min	0	2	3	fire-max	0	4	7		0	0	0	1	dred	lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Incineration	100	1	1	22	0	16			0	1	12	fire-min	0	4	7	fire-max	0	8	14		0	0	0	1	dred	lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Flame	100	1	1	7	0	5			0	1	12	fire-min	0	1	1	fire-max	0	2	2		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Fire	100	1	1	14	0	10			0	1	12	fire-min	0	2	2	fire-max	0	3	5		0	0	0			mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Burning	100	1	1	24	0	18			0	1	12	fire-min	0	3	5	fire-max	0	6	11		0	0	0	1	dred	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Incineration	100	1	1	34	0	26			0	1	12	fire-min	0	6	10	fire-max	0	12	17		0	0	0	1	dred	mcha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Flame	100	1	1	11	0	8			0	1	12	fire-min	0	1	1	fire-max	0	2	2		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Fire	100	1	1	20	0	15			0	1	12	fire-min	0	2	2	fire-max	0	3	4		0	0	0			scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Burning	100	1	1	32	0	24			0	1	12	fire-min	0	3	4	fire-max	0	5	8		0	0	0	1	dred	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Incineration	100	1	1	45	0	37			0	1	12	fire-min	0	5	7	fire-max	0	9	13		0	0	0	1	dred	scha	tcha	mboq	mxbq	hcha	wcha	rcha	    	    	    	0	0	0
+of Shock	100	1	1	4	0	3			0	1	13	ltng-min	0	1	1	ltng-max	0	2	3		0	0	0			lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Lightning	100	1	1	7	0	5			0	1	13	ltng-min	0	1	1	ltng-max	0	4	7		0	0	0			lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Thunder	100	1	1	15	0	11			0	1	13	ltng-min	0	1	1	ltng-max	0	8	21		0	0	0	1	dyel	lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Storms	100	1	1	22	0	16			0	1	13	ltng-min	0	1	1	ltng-max	0	22	33		0	0	0	1	dyel	lcha	qcha	mboq	mxbq	ncha	ocha	wcha	    	    	    	0	0	0
+of Shock	100	1	1	7	0	5			0	1	13	ltng-min	0	1	1	ltng-max	0	3	5		0	0	0			mcha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Lightning	100	1	1	14	0	10			0	1	13	ltng-min	0	1	1	ltng-max	0	6	13		0	0	0			mcha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Thunder	100	1	1	24	0	18			0	1	13	ltng-min	0	1	1	ltng-max	0	14	25		0	0	0	1	dyel	mcha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Storms	100	1	1	34	0	26			0	1	13	ltng-min	0	1	1	ltng-max	0	26	38		0	0	0	1	dyel	mcha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Shock	100	1	1	12	0	9			0	1	13	ltng-min	0	1	1	ltng-max	0	3	6		0	0	0			scha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Lightning	100	1	1	21	0	15			0	1	13	ltng-min	0	1	1	ltng-max	0	7	10		0	0	0			scha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Thunder	100	1	1	33	0	25			0	1	13	ltng-min	0	1	1	ltng-max	0	11	18		0	0	0	1	dyel	scha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Storms	100	1	1	45	0	37			0	1	13	ltng-min	0	1	1	ltng-max	0	19	28		0	0	0	1	dyel	scha	tcha	mboq	mxbq	hcha	ocha	wcha	    	    	    	0	0	0
+of Dexterity	1	1	1	1	10	1			0	1	17	dex	0	1	1		0	0	0		0	0	0			boot	glov	    	    	    	    	    	    	    	    	0	0	0
+of Dexterity	1	1	1	1	5	1			0	1	17	dex	0	1	1		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Strength	1	1	1	1	10	1			0	1	31	str	0	1	1		0	0	0		0	0	0			glov	    	    	    	    	    	    	    	    	    	0	0	0
+of Strength	1	1	1	1	5	1			0	1	31	str	0	1	1		0	0	0		0	0	0			ring	    	    	    	    	    	    	    	    	    	0	0	0
+of Thorns	1	1	1	1	10	1			0	1	6	thorns	0	5	15		0	0	0		0	0	0			tors	belt	shld	boot	    	    	    	    	    	    	0	0	0
+of Frost	1	1	1	1	3	1			0	1	10	dmg-cold	25	1	1		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Flame	1	1	1	1	3	1			0	1	12	dmg-fire	0	1	2		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Blight	1	1	1	1	4	1			0	1	16	dmg-pois	50	8	8		0	0	0		0	0	0			weap	mboq	mxbq	bopq	xbpq	    	    	scep	staf	orb 	0	0	0
+of Shock	1	1	1	1	3	1			0	1	13	dmg-ltng	0	1	3		0	0	0		0	0	0			weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	0	0	0
+of Regeneration	1	1	1	1	9	1			0	1	19	regen	0	2	2		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
+of Energy	1	1	1	1	4	1			0	1	23	enr	0	1	1		0	0	0		0	0	0			amul	orb 	circ	wand	staf	helm	ring	    	    	    	0	0	0
+of Light	1	1	1	1	5	1			0	1	25	light	0	1	1	att	0	10	10		0	0	0			ring	amul	    	    	    	    	    	    	    	    	0	0	0

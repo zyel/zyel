@@ -1,0 +1,70 @@
+name	letter	transform	code	nummods	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
+Chipped Amethyst	Amy	18	gcv	3	empty		1	1	att%		15	15					empty		1	1	str		5	5					empty		1	1	ac%		20	20				
+Flawed Amethyst	Amy	18	gfv	3	empty		1	1	att%		30	30					empty		1	1	str		10	10					empty		1	1	ac%		40	40				
+Amethyst	Amy	18	gsv	3	empty		1	1	att%		45	45					empty		1	1	str		15	15					empty		1	1	ac%		60	60				
+Flawless Amethyst	Amy	18	gzv	3	empty		1	1	att%		60	60					empty		1	1	str		20	20					empty		1	1	ac%		80	80				
+Perfect Amethyst	Amy	17	gpv	3	empty		1	1	att%		75	75					empty		1	1	str		25	25					empty		1	1	ac%		100	100				
+Chipped Saphire	Sap	5	gcb	3	empty		1	1	dmg-cold	25	4	6					empty		1	1	mana		20	20					empty		1	1	res-cold		10	10				
+Flawed Saphire	Sap	5	gfb	3	empty		1	1	dmg-cold	50	8	12					empty		1	1	mana		40	40					empty		1	1	res-cold		20	20				
+Saphire	Sap	5	gsb	3	empty		1	1	dmg-cold	75	12	18					empty		1	1	mana		60	60					empty		1	1	res-cold		30	30				
+Flwless Saphire	Sap	5	glb	3	empty		1	1	dmg-cold	100	16	24					empty		1	1	mana		80	80					empty		1	1	res-cold		40	40				
+Perfect Saphire	Sap	6	gpb	3	empty		1	1	dmg-cold	125	20	30					empty		1	1	mana		100	100					empty		1	1	res-cold		50	50				
+Chipped Emerald	Ema	11	gcg	3	empty		1	1	dmg-pois	50	52	52					empty		1	1	dex		5	5					empty		1	1	res-pois		10	10				
+Flawed Emerald	Ema	11	gfg	3	empty		1	1	dmg-pois	50	103	103					empty		1	1	dex		10	10					empty		1	1	res-pois		20	20				
+Emerald	Ema	11	gsg	3	empty		1	1	dmg-pois	50	154	154					empty		1	1	dex		15	15					empty		1	1	res-pois		30	30				
+Flawless Emerald	Ema	11	glg	3	empty		1	1	dmg-pois	50	205	205					empty		1	1	dex		20	20					empty		1	1	res-pois		40	40				
+Perfect Emerald	Ema	12	gpg	3	empty		1	1	dmg-pois	50	256	256					empty		1	1	dex		25	25					empty		1	1	res-pois		50	50				
+Chipped Ruby	Rub	8	gcr	3	empty		1	1	dmg-fire		4	8					empty		1	1	hp		25	25					empty		1	1	res-fire		10	10				
+Flawed Ruby	Rub	8	gfr	3	empty		1	1	dmg-fire		8	16					empty		1	1	hp		50	50					empty		1	1	res-fire		20	20				
+Ruby	Rub	8	gsr	3	empty		1	1	dmg-fire		12	24					empty		1	1	hp		75	75					empty		1	1	res-fire		30	30				
+Flawless Ruby	Rub	8	glr	3	empty		1	1	dmg-fire		16	32					empty		1	1	hp		100	100					empty		1	1	res-fire		40	40				
+Perfect Ruby	Rub	9	gpr	3	empty		1	1	dmg-fire		20	40					empty		1	1	hp		125	125					empty		1	1	res-fire		50	50				
+Chipped Diamond	Dia	1	gcw	3	empty		1	1	dmg-mag		4	5					empty		1	1	red-mag		2	2					empty		1	1	res-mag		10	10				
+Flawed Diamond	Dia	1	gfw	3	empty		1	1	dmg-mag		8	10					empty		1	1	red-mag		5	5					empty		1	1	res-mag		20	20				
+Diamond	Dia	1	gsw	3	empty		1	1	dmg-mag		12	15					empty		1	1	red-mag		9	9					empty		1	1	res-mag		30	30				
+Flawless Diamond	Dia	1	glw	3	empty		1	1	dmg-mag		16	20					empty		1	1	red-mag		14	14					empty		1	1	res-mag		40	40				
+Perfect Diamond	Dia	0	gpw	3	empty		1	1	dmg-mag		20	25					empty		1	1	red-mag		20	20					empty		1	1	res-mag		50	50				
+Chipped Topaz	Top	14	gcy	3	empty		1	1	dmg-ltng		1	12					empty		1	1	red-dmg		2	2					empty		1	1	res-ltng		10	10				
+Flawed Topaz	Top	14	gfy	3	empty		1	1	dmg-ltng		2	24					empty		1	1	red-dmg		5	5					empty		1	1	res-ltng		20	20				
+Topaz	Top	14	gsy	3	empty		1	1	dmg-ltng		3	36					empty		1	1	red-dmg		9	9					empty		1	1	res-ltng		30	30				
+Flawless Topaz	Top	14	gly	3	empty		1	1	dmg-ltng		4	48					empty		1	1	red-dmg		14	14					empty		1	1	res-ltng		40	40				
+Perfect Topaz	Top	13	gpy	3	empty		1	1	dmg-ltng		5	60					empty		1	1	red-dmg		20	20					empty		1	1	res-ltng		50	50				
+Chipped Skull	Sku	2	skc	3	empty		1	1	lifesteal		1	1	manasteal		1	1	empty		1	1	regen		3	3	regen-mana		5	5	empty		1	1	thorns		20	20				
+Flawed Skull	Sku	2	skf	3	empty		1	1	lifesteal		2	2	manasteal		2	2	empty		1	1	regen		6	6	regen-mana		10	10	empty		1	1	thorns		40	40				
+Skull	Sku	2	sku	3	empty		1	1	lifesteal		3	3	manasteal		3	3	empty		1	1	regen		9	9	regen-mana		15	15	empty		1	1	thorns		60	60				
+Flawless Skull	Sku	2	skl	3	empty		1	1	lifesteal		4	4	manasteal		4	4	empty		1	1	regen		12	12	regen-mana		20	20	empty		1	1	thorns		80	80				
+Perfect Skull	Sku	3	skz	3	empty		1	1	lifesteal		5	5	manasteal		5	5	empty		1	1	regen		15	15	regen-mana		25	25	empty		1	1	thorns		100	100				
+El Rune	El	18	r01	1	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10
+Eld Rune	Eld	18	r02	1	empty		1	1	slow		25	25					empty		1	1	stamdrain		15	15					empty		1	1	block		7	7				
+Tir Rune	Tir	18	r03	1	empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2				
+Nef Rune	Nef	18	r04	1	empty		1	1	heal-kill		10	10					empty		1	1	heal-kill		10	10					empty		1	1	heal-kill		10	10				
+Eth Rune	Eth	18	r05	1	empty		1	1	reduce-ac		25	25					empty		1	1	ac		25	25					empty		1	1	ac		25	25				
+Ith Rune	Ith	18	r06	1	empty		1	1	dmg-max		20	20					empty		1	1	res-mag		30	30					empty		1	1	res-mag		30	30				
+Tal Rune	Tal	18	r07	1	empty		1	1	dmg-pois	25	307	307					empty		1	1	res-pois		30	30					empty		1	1	res-pois		30	30				
+Ral Rune	Ral	18	r08	1	empty		1	1	dmg-fire		5	30					empty		1	1	res-fire		30	30					empty		1	1	res-fire		30	30				
+Ort Rune	Ort	18	r09	1	empty		1	1	dmg-ltng		1	50					empty		1	1	res-ltng		30	30					empty		1	1	res-ltng		30	30				
+Thul Rune	Thul	18	r10	1	empty		1	1	dmg-cold	50	10	20					empty		1	1	res-cold		30	30					empty		1	1	res-cold		30	30				
+Amn Rune	Amn	18	r11	1	empty		1	1	lifesteal		5	5					empty		1	1	regen		7	7					empty		1	1	regen		7	7				
+Sol Rune	Sol	18	r12	1	empty		1	1	dmg-min		15	15					empty		1	1	red-dmg		10	10					empty		1	1	red-dmg		10	10				
+Shael Rune	Shael	18	r13	1	empty		1	1	swing2		20	20	cast2		20	20	empty		1	1	balance2		20	20					empty		1	1	block2		20	20				
+Dol Rune	Dol	18	r14	1	empty		1	1	openwounds		25	25					empty		1	1	thorns		15	15	light-thorns		15	15	empty		1	1	thorns		14	14	light-thorns		15	15
+Hel Rune	Hel	18	r15	1	empty		1	1	att%		20	20					empty		1	1	ac%		20	20					empty		1	1	ac%		20	20				
+Io Rune	Io	18	r16	1	empty		1	1	vit		20	20					empty		1	1	vit		20	20					empty		1	1	vit		20	20				
+Lum Rune	Lum	18	r17	1	empty		1	1	enr		20	20					empty		1	1	enr		20	20					empty		1	1	enr		20	20				
+Ko Rune	Ko	18	r18	1	empty		1	1	dex		20	20					empty		1	1	dex		20	20					empty		1	1	dex		20	20				
+Fal Rune	Fal	18	r19	1	empty		1	1	str		20	20					empty		1	1	str		20	20					empty		1	1	str		20	20				
+Lem Rune	Lem	18	r20	1	empty		1	1	gold%		30	30					empty		1	1	gold%		20	20					empty		1	1	gold%		20	20				
+Pul Rune	Pul	18	r21	1	empty		1	1	deadly		20	20					empty		1	1	regen-mana		15	15					empty		1	1	regen-mana		15	15				
+Um Rune	Um	18	r22	1	empty		1	1	crush		20	20					empty		1	1	res-all		10	10					empty		1	1	res-all		20	20				
+Mal Rune	Mal	18	r23	1	empty		1	1	dmg-mag		20	30					empty		1	1	red-mag		15	15					empty		1	1	red-mag		15	15				
+Ist Rune	Ist	18	r24	1	empty		1	1	extra-mag		2	2					empty		1	1	res-mag-max		3	3					empty		1	1	res-mag-max		3	3				
+Gul Rune	Gul	18	r25	1	empty		1	1	extra-pois		2	2					empty		1	1	res-pois-max		3	3					empty		1	1	res-pois-max		3	3				
+Vex Rune	Vex	18	r26	1	empty		1	1	extra-fire		2	2					empty		1	1	res-fire-max		3	3					empty		1	1	res-fire-max		3	3				
+Ohm Rune	Ohm	18	r27	1	empty		1	1	extra-ltng		2	2					empty		1	1	res-cold-max		3	3					empty		1	1	res-cold-max		3	3				
+Lo Rune	Lo	18	r28	1	empty		1	1	extra-cold		2	2					empty		1	1	res-ltng-max		3	3					empty		1	1	res-ltng-max		3	3				
+Sur Rune	Sur	18	r29	1	empty		1	1	manasteal		5	5					empty		1	1	mana%		5	5					empty		1	1	mana		200	200				
+Ber Rune	Ber	18	r30	1	empty		1	1	dmg%		20	20					empty		1	1	red-dmg%		5	5					empty		1	1	red-dmg%		5	5				
+Jo Rune	Jah	18	r31	1	empty		1	1	noheal		1	1	rip		1	1	empty		1	1	hp%		5	5					empty		1	1	hp		200	200				
+Cham Rune	Cham	18	r32	1	empty		1	1	freeze		2	2					empty		1	1	nofreeze		1	1					empty		1	1	nofreeze		1	1				
+Zod Rune	Zy	18	r33	1	empty		1	1	indestruct		1	1	light		1	1	empty		1	1	indestruct		1	1	light		1	1	empty		1	1	indestruct		1	1	light		1	1
+Jewel	Jewl	0	jew	0																																				

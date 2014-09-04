@@ -1,0 +1,6 @@
+.git
+BnetLog.txt
+PlugY.log
+
+!*.dll
+!D2ModSetup.exe
