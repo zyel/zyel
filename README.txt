@@ -5,11 +5,7 @@ D2 mod Zy-El 4.5 version
 
 tools to edit files:
 most .txt files can be opened and edited in MS excel or any other spreadsheet editor.
-cubemain.txt is a bit special:
-  1) MS Excel can not fully open it since it has more rows that Excel allows.
-  You can use http://www.delimitware.com/download.html to open it and edit existing values.
-  2) If you change cubemain.txt you have to archive it to cubemain.zip.
-  Github does not allow uploading files that are larger than 100 MB
+cubemain.zip contains the 3 removed card cashout recipes to reduce the cubemain.txt size
   
 Map editing:
   Download map editor from http://paul.siramy.free.fr/_divers/ds1/dl_ds1edit.html
