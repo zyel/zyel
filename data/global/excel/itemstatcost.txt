@@ -215,8 +215,8 @@ unused211	212		1	30										3	401	256	1024																																			0
 unused212	213		1	30										3	401	256	1024																																			0
 item_armor_perlevel	214		1	8											43	42	1024		8	0	8	0			4	3	level	armorclass											72	6	1	ModStr1i	ModStr1i	increaseswithplaylevelX								0
 item_armorpercent_perlevel	215		1	8											87	100	1024		8	0	8	0			5	3	level	armorclass											73	8	1	Modstr2v	Modstr2v	increaseswithplaylevelX								0
-item_hp_perlevel	216		1	8											92	64	1024	4	8	0	8	0			2	3	level	maxhp											57	6	1	ModStr1u	ModStr1u	increaseswithplaylevelX								0
-item_mana_perlevel	217		1	8											90	128	1024	4	8	0	8	0			2	3	level	maxmana											53	6	1	ModStr1e	ModStr1e	increaseswithplaylevelX								0
+item_hp_perlevel	216		1	8											92	64	1024	8	8	0	8	0			2	3	level	maxhp											57	6	1	ModStr1u	ModStr1u	increaseswithplaylevelX								0
+item_mana_perlevel	217		1	8											90	128	1024	8	8	0	8	0			2	3	level	maxmana											53	6	1	ModStr1e	ModStr1e	increaseswithplaylevelX								0
 item_maxdamage_perlevel	218		1	8											54	204	1024		8	0	8	0			4	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					125	6	1	ModStr1f	ModStr1f	increaseswithplaylevelX								0
 item_maxdamage_percent_perlevel	219		1	8											86	100	1024		8	0	8	0			5	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					128	8	1	ModStr2j	ModStr2j	increaseswithplaylevelX								0
 item_strength_perlevel	220		1	8											132	128	1024		8	0	8	0			2	3	level	strength											66	6	1	ModStr1a	ModStr1a	increaseswithplaylevelX								0
