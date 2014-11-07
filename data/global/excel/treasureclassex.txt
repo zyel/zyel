@@ -12,21 +12,21 @@ Flawless Gem			1	2	25	50	75	30	Empty	15	gzv	3	glb	3	glg	3	glr	3	glw	3	gly	3	skl	
 Perfect Gem			1	2	25	50	75	30	Empty	15	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2					0
 Elite Gem			1	2	25	50	75	0	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2							0
 Ammo			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opl	5	gpl	5	opm	5	gpm	5	key	16					0
-Misc 0			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opl	6	gpl	6	key	20	Ammo	5							0
-Misc 1			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opm	6	gpm	6	key	20	Misc 0	5							0
-Misc 2			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	ops	6	gps	6	key	20	Misc 1	5							0
-Hpotion 1			1					30	Empty	10	Chipped Gem	2	vps	3	yps	3	wms	3	hp1	3	mp1	2							0
-Hpotion 2			1					30	Empty	10	Chipped Gem	2	vps	3	yps	3	wms	3	hp2	3	mp2	2							0
-Hpotion 3			1					30	Empty	10	Flawed Gem	2	vps	4	yps	4	wms	4	hp3	3	mp3	2							0
-Hpotion 4			1					30	Empty	10	Normal Gem	2	vps	4	yps	4	wms	4	hp4	3	mp4	2							0
-Hpotion 5			1					30	Empty	10	Flawless Gem	2	vps	5	yps	5	wms	5	hp5	3	mp5	2							0
-Hpotion 6			1					30	Empty	10	Perfect Gem	2	vps	5	yps	5	wms	5	hp5	3	mp5	2							0
-Potion 1			1					30	Empty	10	Chipped Gem	2	opl	4	gpl	4	key	2	hp1	3	mp1	2							0
-Potion 2			1					30	Empty	10	Chipped Gem	2	opl	4	gpl	4	key	2	hp2	3	mp2	2							0
-Potion 3			1					30	Empty	10	Flawed Gem	2	opm	6	gpm	6	key	3	hp3	3	mp3	2							0
-Potion 4			1					30	Empty	10	Normal Gem	2	opm	6	gpm	6	key	3	hp4	3	mp4	2							0
-Potion 5			1					30	Empty	10	Flawless Gem	2	ops	8	gps	8	key	4	hp5	3	mp5	2							0
-Potion 6			1					30	Empty	10	Perfect Gem	2	ops	8	gps	8	key	4	hp5	3	mp5	2							0
+Misc 0			1					30	Empty	10	tsc	5	isc	8	opl	6	gpl	6	key	20	Ammo	5							0
+Misc 1			1					30	Empty	10	tsc	5	isc	8	opm	6	gpm	6	key	20	Misc 0	5							0
+Misc 2			1					30	Empty	10	tsc	5	isc	8	ops	6	gps	6	key	20	Misc 1	5							0
+Hpotion 1			1					30	Empty	10	Chipped Gem	2	vps	2	yps	2	wms	2	hp1	6	mp1	6							0
+Hpotion 2			1					30	Empty	10	Chipped Gem	2	vps	2	yps	2	wms	2	hp2	6	mp2	6							0
+Hpotion 3			1					30	Empty	10	Flawed Gem	2	vps	2	yps	2	wms	2	hp3	6	mp3	6							0
+Hpotion 4			1					30	Empty	10	Normal Gem	2	vps	2	yps	2	wms	2	hp4	6	mp4	6							0
+Hpotion 5			1					30	Empty	10	Flawless Gem	2	vps	2	yps	2	wms	2	hp5	6	mp5	6							0
+Hpotion 6			1					30	Empty	10	Perfect Gem	2	vps	2	yps	2	wms	2	hp5	6	mp5	6							0
+Potion 1			1					30	Empty	10	Chipped Gem	2	opl	2	gpl	2	key	2	hp1	6	mp1	6							0
+Potion 2			1					30	Empty	10	Chipped Gem	2	opl	2	gpl	2	key	2	hp2	6	mp2	6							0
+Potion 3			1					30	Empty	10	Flawed Gem	2	opm	2	gpm	2	key	2	hp3	6	mp3	6							0
+Potion 4			1					30	Empty	10	Normal Gem	2	opm	2	gpm	2	key	2	hp4	6	mp4	6							0
+Potion 5			1					30	Empty	10	Flawless Gem	2	ops	2	gps	2	key	2	hp5	6	mp5	6							0
+Potion 6			1					30	Empty	10	Perfect Gem	2	ops	2	gps	2	key	2	hp5	6	mp5	6							0
 Runes 1			1					30	Empty	20	r01	10	r02	4	r03	2													0
 Runes 2			1					30	Empty	20	r03	10	r04	4	Runes 1	5													0
 Runes 3			1					30	Empty	20	r05	10	r06	4	Runes 2	10													0
@@ -573,11 +573,11 @@ TGrade-W			1					75	"gld,mul=5248"	125	TCard-Joker	100	TCard-9	36	TCard-10	37	TC
 TGrade-X			1					75	"gld,mul=5440"	125	TCard-Joker	100	TCard-9	34	TCard-10	35	TCard-J	25	TCard-Q	21	TCard-K	15	TCard-A	9	TCard-E	7	TCard-Z	4	0
 TGrade-Y			1					75	"gld,mul=5632"	125	TCard-Joker	100	TCard-9	33	TCard-10	33	TCard-J	25	TCard-Q	22	TCard-K	16	TCard-A	9	TCard-E	7	TCard-Z	5	0
 TGrade-Z			1					75	"gld,mul=5824"	125	TCard-Joker	100	TCard-9	31	TCard-10	31	TCard-J	25	TCard-Q	23	TCard-K	17	TCard-A	10	TCard-E	8	TCard-Z	5	0
-Act 1 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	4	Runes 1	5	Chipped Gem	4	Cscroll Main	2	hp1	1									0
-Act 2 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	5	Runes 2	5	Chipped Gem	6	Cscroll Main	2	hp2	1	Act 1 Junk	10							0
-Act 3 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	6	Runes 3	5	Chipped Gem	8	Cscroll Main	2	hp3	1	Act 2 Junk	15							0
-Act 4 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	7	Runes 4	5	Chipped Gem	10	Cscroll Main	2	hp4	1	Act 3 Junk	20							0
-Act 5 Junk			1	25	100	300	500	30	Empty	10	Jewelry A	8	Runes 5	5	Chipped Gem	12	Cscroll Main	2	hp5	1	Act 4 Junk	25							0
+Act 1 Junk			1	25	100	300	500	30	Empty	10	Potion 1	10	Misc 0	5	Cscroll Main	2	gld	5	Jewelry A	5	Runes 1	5							0
+Act 2 Junk			1	25	100	300	500	30	Empty	10	Potion 2	10	Misc 0	5	Cscroll Main	2	Act 1 Junk	10	Jewelry A	5	Runes 2	5							0
+Act 3 Junk			1	25	100	300	500	30	Empty	10	Potion 3	10	Misc 0	5	Cscroll Main	2	Act 2 Junk	15	Jewelry A	5	Runes 3	5							0
+Act 4 Junk			1	25	100	300	500	30	Empty	10	Potion 4	10	Misc 0	5	Cscroll Main	2	Act 3 Junk	20	Jewelry A	5	Runes 4	5							0
+Act 5 Junk			1	25	100	300	500	30	Empty	10	Potion 5	10	Misc 0	5	Cscroll Main	2	Act 4 Junk	25	Jewelry A	5	Runes 5	5							0
 Act 1 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
 Act 2 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
 Act 3 (N) Junk			1	25	100	300	500	30	Empty	10	Potion 6	10	Misc 1	5	Cscroll Main	3	Act 5 Junk	50											0
