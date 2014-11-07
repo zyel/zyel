@@ -29,11 +29,11 @@ Flawed Topaz	Top	14	gfy	3	empty		1	1	dmg-ltng		2	24					empty		1	1	red-dmg		5	5	
 Topaz	Top	14	gsy	3	empty		1	1	dmg-ltng		3	36					empty		1	1	red-dmg		9	9					empty		1	1	res-ltng		30	30				
 Flawless Topaz	Top	14	gly	3	empty		1	1	dmg-ltng		4	48					empty		1	1	red-dmg		14	14					empty		1	1	res-ltng		40	40				
 Perfect Topaz	Top	13	gpy	3	empty		1	1	dmg-ltng		5	60					empty		1	1	red-dmg		20	20					empty		1	1	res-ltng		50	50				
-Chipped Skull	Sku	2	skc	3	empty		1	1	lifesteal		1	1	manasteal		1	1	empty		1	1	regen		3	3	regen-mana		5	5	empty		1	1	thorns		20	20				
-Flawed Skull	Sku	2	skf	3	empty		1	1	lifesteal		2	2	manasteal		2	2	empty		1	1	regen		6	6	regen-mana		10	10	empty		1	1	thorns		40	40				
-Skull	Sku	2	sku	3	empty		1	1	lifesteal		3	3	manasteal		3	3	empty		1	1	regen		9	9	regen-mana		15	15	empty		1	1	thorns		60	60				
+Chipped Skull	Sku	2	skc	3	empty		1	1	lifesteal		1	1	manasteal		1	1	empty		1	1	regen		3	3	regen-mana		5	5	empty		1	1	thorns		10	10				
+Flawed Skull	Sku	2	skf	3	empty		1	1	lifesteal		2	2	manasteal		2	2	empty		1	1	regen		6	6	regen-mana		10	10	empty		1	1	thorns		20	20				
+Skull	Sku	2	sku	3	empty		1	1	lifesteal		3	3	manasteal		3	3	empty		1	1	regen		9	9	regen-mana		15	15	empty		1	1	thorns		40	40				
 Flawless Skull	Sku	2	skl	3	empty		1	1	lifesteal		4	4	manasteal		4	4	empty		1	1	regen		12	12	regen-mana		20	20	empty		1	1	thorns		80	80				
-Perfect Skull	Sku	3	skz	3	empty		1	1	lifesteal		5	5	manasteal		5	5	empty		1	1	regen		15	15	regen-mana		25	25	empty		1	1	thorns		100	100				
+Perfect Skull	Sku	3	skz	3	empty		1	1	lifesteal		5	5	manasteal		5	5	empty		1	1	regen		15	15	regen-mana		25	25	empty		1	1	thorns		160	160				
 El Rune	El	18	r01	1	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10
 Eld Rune	Eld	18	r02	1	empty		1	1	slow		25	25					empty		1	1	stamdrain		15	15					empty		1	1	block		7	7				
 Tir Rune	Tir	18	r03	1	empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2				
