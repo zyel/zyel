@@ -216,4 +216,3 @@ Pierce I-K	100	1	1	1	0	5		0	2	325	ease	0	800	1000	pierce	0	5	15		0	0	0			xbow	  
 Pierce II-K	100	1	1	5	0	10		0	2	326	ease	0	800	1000	pierce	0	15	25		0	0	0			xbow	    	    	    	    	    	    	    	    	    	0	0	0
 Pierce II-K	100	1	1	10	0	15		0	2	327	ease	0	800	1000	pierce	0	25	35		0	0	0			xbow	    	    	    	    	    	    	    	    	    	0	0	0
 Requirements	100	1	1	1	0	1		0	1	328	ease	0	800	1000		0	0	0		0	0	0			armo	weap									0	0	0
-Throw I	100	1	1	1	0	5		0	2	329	ease	0	800	1000	throw	0	1	1	rep-quant	0	255	255			knif	    	    	    	    	    	    	    	    	    	0	0	0
