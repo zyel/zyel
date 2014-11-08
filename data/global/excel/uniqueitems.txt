@@ -466,14 +466,14 @@ Andariel's Bane	100	1		10	1	99	20	ukp	helm			100	75000	dgld	dgld						dmg-fire/l
 Phil's Ragged	100	1		10	1	99	13	cap	helm			100	37500	lblu	lblu						ac		10	30	hp		20	40	sock	4			rep-dur	15			regen		1	2																													0
 Phil's Thinly	100	1		10	1	99	13	qui	torso			100	37500	lblu	lblu						res-all		10	30	str		10	20	sock	6			rep-dur	15			regen		1	2																													0
 Phil's Chipped	100	1		10	1	99	13	buc	shield			100	37500	lblu	lblu						block		5	20	dex		10	20	sock	4			rep-dur	15			regen		1	2																													0
-Phil's Sticky	100	1		10	1	99	13	lgl	gloves			100	37500	lblu	lblu						swing1		10	20	dmg		10	20	sock	4			rep-dur	15			regen		1	2																													0
+Phil's Sticky	100	1		10	1	99	13	lgl	gloves			100	37500	lblu	lblu						swing1		10	20	dmg-norm		10	20	sock	4			rep-dur	15			regen		1	2																													0
 Phil's Smelly	100	1		10	1	99	13	lbt	boots			100	37500	lblu	lblu						move1		10	20	stam		40	80	sock	4			rep-dur	15			regen		1	2																													0
 Phil's Stringy	100	1		10	1	99	13	lbl	belt			100	37500	lblu	lblu						regen		1	4	vit		10	20	sock	2			rep-dur	15			regen		1	2																													0
 Phil's Dusty	100	1		10	1	99	13	dr1	druid			100	37500	lblu	lblu						dru		1	1	mana		30	50	sock	4			rep-dur	15			regen		1	2																													0
 Phil's Crusty	100	1		10	1	99	13	ba1	barb			100	37500	lblu	lblu						bar		1	1	balance1		10	20	sock	3			rep-dur	15			regen		1	2																													0
 Phil's Holey	100	1		10	1	99	13	pa1	paladin			100	37500	lblu	lblu						pal		1	1	light-thorns		50	200	sock	4			rep-dur	15			regen		1	2																													0
 Phil's Pickled	100	1		10	1	99	13	ne1	necro			100	37500	lblu	lblu						nec		1	1	ac		10	30	sock	4			rep-dur	15			regen		1	2																													0
-Phil's Choo Choo	100	1		10	1	99	13	hax	axe			100	37500	lblu	lblu						swing1		10	20	dmg		10	20	sock	3			rep-dur	15			regen		1	2																													0
+Phil's Choo Choo	100	1		10	1	99	13	hax	axe			100	37500	lblu	lblu						swing1		10	20	dmg-norm		10	20	sock	3			rep-dur	15			regen		1	2																													0
 Phil's Limp	100	1		10	1	99	13	wnd	wand			100	37500	lblu	lblu						nec		1	1	mana		30	50	sock	2			rep-dur	15			regen-mana		10	20																													0
 Phil's Knotty	100	1		10	1	99	13	clb	club			100	37500	lblu	lblu						deadly		10	30	knock		1	1	sock	3			rep-dur	15			regen		1	2																													0
 Phil's Dee	100	1		10	1	99	13	scp	scepter			100	37500	lblu	lblu						crush		10	20	stupidity		1	1	sock	3			rep-dur	15			regen		1	2																													0
@@ -486,7 +486,7 @@ Phil's Twirly	100	1		10	1	99	13	tax	thrown			100	37500	lblu	lblu						rep-quant	
 Phil's Jabby	100	1		10	1	99	13	jav	javelin			100	37500	lblu	lblu						pierce		20	40	swing2		20	40	regen		1	2																																					0
 Phil's Wiggly	100	1		10	1	99	13	spr	spear			100	37500	lblu	lblu						swing1		10	20	openwounds		20	40	sock	6			rep-dur	15			regen		1	2																													0
 Phil's Bardish	100	1		10	1	99	13	bar	polearm			100	37500	lblu	lblu						ignore-ac		1	1	openwounds		20	40	sock	6			rep-dur	15			regen		1	2																													0
-Phil's Pokey	100	1		10	1	99	13	sst	staff			100	37500	lblu	lblu						knock		1	1	dmg		10	40	sock	3			rep-dur	15			regen-mana		10	20																													0
+Phil's Pokey	100	1		10	1	99	13	sst	staff			100	37500	lblu	lblu						knock		1	1	dmg-norm		10	40	sock	3			rep-dur	15			regen-mana		10	20																													0
 Phil's Twangy	100	1		10	1	99	13	sbw	bow			100	37500	lblu	lblu						mana-kill		1	1	demon-heal		1	3	sock	6			regen-mana		10	40	regen		1	2																													0
 Phil's Blight	100	1		10	1	99	13	lxb	crossbow			100	37500	lblu	lblu						stupidity		1	1	knock		1	1	sock	6			regen-mana		10	40	regen		1	2																													0
 Phil's Kato	100	1		10	1	99	13	ktr	claws			100	37500	lblu	lblu						swing2		20	40	openwounds		20	40	sock	3			rep-dur	15			regen		1	2																													0
