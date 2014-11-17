@@ -595,7 +595,7 @@ Shard of Locust	100	1		10	1	99	50	jew	Jewel			100	25000	whit							res-pois-max	
 Shard of Flame	100	1		10	1	99	50	jew	Jewel			100	25000	whit							res-fire-max		5	5	res-fire		30	30	hp		200	200																																					0
 Shard of Frost	100	1		10	1	99	50	jew	Jewel			100	25000	whit							res-cold-max		5	5	res-cold		30	30	half-freeze		1	1																																					0
 Shard of Ambience	100	1		10	1	99	50	jew	Jewel			100	25000	whit							res-ltng-max		5	5	res-ltng		30	30	light-thorns		250	250																																					0
-Shard of Grease	100	1		10	1	99	50	jew	Jewel			100	25000	whit							ease-string		-40	-40	move3		30	30	swing2		30	30	balance2		30	30																																	0
+Shard of Grease	100	1		10	1	99	50	jew	Jewel			100	25000	whit							ease		-400	-400	ease-string		-40	-40	move3		30	30	swing2		30	30	balance2		30	30																													0
 Shard of Hamster	100	1		10	1	99	50	jew	Jewel			100	25000	whit							res-all-max		5	5	res-all		30	30	balance2		30	30																																					0
 Cats Eye	100	1		10	1	99	80	jew	Jewel			100	30000	whit							allskills		4	4	gold%		50	50	mag%		30	30	swing2		30	30	cast2		30	30																													0
 Dogs Ear	100	1		10	1	99	60	jew	Jewel			100	25000	whit							allskills		3	3	gold%		30	30	mag%		20	20	swing2		20	20	cast2		20	20																													0
@@ -2144,7 +2144,7 @@ Slice of Potato	100	1		15	1	99	10	jew	Jewel			100	15000	whit							res-pois-max	
 Slice of Pear	100	1		15	1	99	10	jew	Jewel			100	15000	whit							res-fire-max		5	5	res-fire		15	15	hp		100	100																																					0
 Slice of Lettuce	100	1		15	1	99	10	jew	Jewel			100	15000	whit							res-cold-max		5	5	res-cold		15	15	half-freeze		1	1																																					0
 Slice of Orange	100	1		15	1	99	10	jew	Jewel			100	15000	whit							res-ltng-max		5	5	res-ltng		15	15	light-thorns		100	100																																					0
-Slice of Grapefruit	100	1		15	1	99	10	jew	Jewel			100	15000	whit							ease-string		-20	-20	move3		15	15	swing2		15	15	balance2		15	15																																	0
+Slice of Grapefruit	100	1		15	1	99	10	jew	Jewel			100	15000	whit							ease		-200	-200	ease-string		-20	-20	move3		15	15	swing2		15	15	balance2		15	15																													0
 Sip of Coffee	100	1		15	1	99	10	jew	Jewel			100	15000	whit							res-all-max		3	3	res-all		15	15	balance2		15	15																																					0
 Cherry Pit	100	1		20	1	99	5	jew	Jewel			100	7500	whit							ignore-ac		1	1	dmg-norm		50	50																																									0
 Apple Seed	100	1		20	1	99	5	jew	Jewel			100	7500	whit							move1		5	5	stamdrain		10	10	stam		75	75																																					0
@@ -2169,7 +2169,7 @@ Potato Sprout	100	1		20	1	99	5	jew	Jewel			100	7500	whit							res-pois-max		2	2
 Pear Seed	100	1		20	1	99	5	jew	Jewel			100	7500	whit							res-fire-max		2	2	res-fire		10	10	hp		50	50																																					0
 Lettuce Leaf	100	1		20	1	99	5	jew	Jewel			100	7500	whit							res-cold-max		2	2	res-cold		10	10	half-freeze		1	1																																					0
 Orange Seed	100	1		20	1	99	5	jew	Jewel			100	7500	whit							res-ltng-max		2	2	res-ltng		10	10	light-thorns		75	75																																					0
-Grapefruit Seed	100	1		20	1	99	5	jew	Jewel			100	7500	whit							ease-string		-10	-10	move3		10	10	swing2		10	10	balance2		10	10																																	0
+Grapefruit Seed	100	1		20	1	99	5	jew	Jewel			100	7500	whit							ease		-100	-100	ease-string		-10	-10	move3		10	10	swing2		10	10	balance2		10	10																													0
 Coffee Bean	100	1		20	1	99	5	jew	Jewel			100	7500	whit							res-all-max		2	2	res-all		10	10	balance2		10	10																																					0
 Shd of Andariel	100	1		5	1	99	50	jew	Jewel			100	40000	whit							light		-5	-5	regen		-26	-26	vit		-26	-26	lifesteal		15	25	dmg-pois	200	200	600	dmg-cold	300	50	200	slow		50	50	openwounds		100	100	deadly		30	75													0
 Shd of Duriel	100	1		5	1	99	50	jew	Jewel			100	40000	whit							light		-5	-5	regen		-26	-26	vit		-26	-26	lifesteal		15	25	dmg-pois	200	200	600	dmg-cold	300	50	200	slow		50	50	openwounds		100	100	deadly		30	75													0
