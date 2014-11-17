@@ -11,10 +11,9 @@ Normal Gem			1	2	25	50	75	30	Empty	15	gsv	3	gsb	3	gsg	3	gsr	3	gsw	3	gsy	3	sku	2	
 Flawless Gem			1	2	25	50	75	30	Empty	15	gzv	3	glb	3	glg	3	glr	3	glw	3	gly	3	skl	2					0
 Perfect Gem			1	2	25	50	75	30	Empty	15	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2					0
 Elite Gem			1	2	25	50	75	0	gpv	3	gpb	3	gpg	3	gpr	3	gpw	3	gpy	3	skz	2							0
-Ammo			1	2	25	50	75	30	Empty	10	tsc	5	isc	8	opl	5	gpl	5	opm	5	gpm	5	key	16					0
-Misc 0			1					30	Empty	10	tsc	5	isc	8	opl	6	gpl	6	key	20	Ammo	5							0
+Misc 0			1					30	Empty	15	tsc	5	isc	8	ops	6	gps	6	key	20									0
 Misc 1			1					30	Empty	10	tsc	5	isc	8	opm	6	gpm	6	key	20	Misc 0	5							0
-Misc 2			1					30	Empty	10	tsc	5	isc	8	ops	6	gps	6	key	20	Misc 1	5							0
+Misc 2			1					30	Empty	10	tsc	5	isc	8	opl	6	gpl	6	key	20	Misc 1	5							0
 Hpotion 1			1					30	Empty	10	Chipped Gem	2	vps	2	yps	2	wms	2	hp1	6	mp1	6							0
 Hpotion 2			1					30	Empty	10	Chipped Gem	2	vps	2	yps	2	wms	2	hp2	6	mp2	6							0
 Hpotion 3			1					30	Empty	10	Flawed Gem	2	vps	2	yps	2	wms	2	hp3	6	mp3	6							0
@@ -52,10 +51,10 @@ Hpotion 5 (N)			1					30	Empty	10	Flawless Gem	5	vps	5	yps	5	wms	5	rvs	4								
 Hpotion 6 (N)			1					30	Empty	10	Perfect Gem	5	vps	5	yps	5	wms	5	rvs	4									0
 Potion 1 (N)			1					30	Empty	10	Flawed Gem	5	opl	4	gpl	4	key	2	rvs	2									0
 Potion 2 (N)			1					30	Empty	10	Flawed Gem	5	opl	4	gpl	4	key	2	rvs	2									0
-Potion 3 (N)			1					30	Empty	10	Flawed Gem	5	opm	6	gpm	6	key	3	rvs	3									0
-Potion 4 (N)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	3									0
-Potion 5 (N)			1					30	Empty	10	Flawless Gem	5	ops	8	gps	8	key	4	rvs	4									0
-Potion 6 (N)			1					30	Empty	10	Perfect Gem	5	ops	8	gps	8	key	4	rvs	4									0
+Potion 3 (N)			1					30	Empty	10	Flawed Gem	5	opl	6	gpl	6	key	3	rvs	3									0
+Potion 4 (N)			1					30	Empty	10	Normal Gem	5	opl	6	gpl	6	key	3	rvs	3									0
+Potion 5 (N)			1					30	Empty	10	Flawless Gem	5	opl	8	gpl	8	key	4	rvs	4									0
+Potion 6 (N)			1					30	Empty	10	Perfect Gem	5	opl	8	gpl	8	key	4	rvs	4									0
 Runes 1 (N)			1					30	Empty	20	Flawed Gem	5	Normal Gem	2															0
 Runes 2 (N)			1					30	Empty	20	Flawed Gem	10	Normal Gem	4	Runes 1 (N)	5													0
 Runes 3 (N)			1					30	Empty	20	Normal Gem	10	r06	4	Runes 2 (N)	10													0
@@ -81,10 +80,10 @@ Hpotion 5 (H)			1					30	Empty	10	Flawless Gem	5	vps	5	yps	5	wms	5	rvs	8	rvl	4		
 Hpotion 6 (H)			1					30	Empty	10	Perfect Gem	5	vps	5	yps	5	wms	5	rvs	8	rvl	4							0
 Potion 1 (H)			1					30	Empty	10	Normal Gem	5	opl	4	gpl	4	key	2	rvs	4	rvl	2							0
 Potion 2 (H)			1					30	Empty	10	Normal Gem	5	opl	4	gpl	4	key	2	rvs	4	rvl	2							0
-Potion 3 (H)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	6	rvl	3							0
-Potion 4 (H)			1					30	Empty	10	Normal Gem	5	opm	6	gpm	6	key	3	rvs	6	rvl	3							0
-Potion 5 (H)			1					30	Empty	10	Flawless Gem	5	ops	8	gps	8	key	4	rvs	8	rvl	4							0
-Potion 6 (H)			1					30	Empty	10	Perfect Gem	5	ops	8	gps	8	key	4	rvs	8	rvl	4							0
+Potion 3 (H)			1					30	Empty	10	Normal Gem	5	opl	6	gpl	6	key	3	rvs	6	rvl	3							0
+Potion 4 (H)			1					30	Empty	10	Normal Gem	5	opl	6	gpl	6	key	3	rvs	6	rvl	3							0
+Potion 5 (H)			1					30	Empty	10	Flawless Gem	5	opl	8	gpl	8	key	4	rvs	8	rvl	4							0
+Potion 6 (H)			1					30	Empty	10	Perfect Gem	5	opl	8	gpl	8	key	4	rvs	8	rvl	4							0
 Runes 1 (H)			1					30	Empty	20	Normal Gem	5	Flawless Gem	2															0
 Runes 2 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 1 (H)	5													0
 Runes 3 (H)			1					30	Empty	20	Normal Gem	10	Flawless Gem	4	Runes 2 (H)	10													0
