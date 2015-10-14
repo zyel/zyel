@@ -1,2 +1,0 @@
-1) go to data/global/excel directory and extract cubemain.zip since github does not allow files larger than 100 mb
-2) for non d2se users: copy D2Game.dll, D2Mod.dll, D2ModSetup.exe to your Diablo 2 directory and run D2ModSetup.exe
