@@ -387,3 +387,9 @@ monster_def	384		1	10													1024		10	0	10	0			2	0	monster_playercount	item
 monster_run	385		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity											148	4	1	ModStr4s	ModStr4s	increaseswithplaylevelX								0
 monster_swing	386		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fasterattackrate											145	4	1	ModStr4m	ModStr4m	increaseswithplaylevelX								0
 monster_health	387		1	10													1024		10	0	10	0			2	0	monster_playercount	item_maxhp_percent											58	2	2	ModStr2g	ModStr2g	increaseswithplaylevelX								0
+monster_res_phys	388		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist											22	2	2	ModStr2u	ModStr2u	increaseswithplaylevelX								0
+monster_res_magic	389		1	10													1024		10	0	10	0			2	0	monster_playercount	magicresist											41	4	2	ModStr1m	ModStr1m	increaseswithplaylevelX								0
+monster_res_fire	390		1	10													1024		10	0	10	0			2	0	monster_playercount	fireresist											36	4	2	ModStr1j	ModStr1j	increaseswithplaylevelX								0
+monster_res_cold	391		1	10													1024		10	0	10	0			2	0	monster_playercount	coldresist											40	4	2	ModStr1k	ModStr1k	increaseswithplaylevelX								0
+monster_res_ltng	392		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist											38	4	2	ModStr1l	ModStr1l	increaseswithplaylevelX								0
+monster_res_pois	393		1	10													1024		10	0	10	0			2	0	monster_playercount	poisonresist											34	4	2	ModStr1n	ModStr1n	increaseswithplaylevelX								0
