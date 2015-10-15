@@ -186,4 +186,3 @@ passive_resistltng	183																																																										
 transformknight	184	3			1							1																																					fire_cast_2																1	114					0
 passive_start	185																																																																						0
 passive_start2	186																																																																						0
-monster_aura	187					1				1																																									damagepercent																				0

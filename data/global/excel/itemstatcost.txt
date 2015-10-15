@@ -372,7 +372,18 @@ display_kills	369																1024		1	0	1	0			2	0	killcounter	dummy										
 item_vitality_perstrength	370		1	8													1024		8	0	1	0			2	0	strength	vitality																								0
 item_resist_mag_perlevel	371		1	8											101	128	1024		8	0	8	0			2	3	level	magicresist											33	7	2	ModStr1m	ModStr1m	increaseswithplaylevelX								0
 empty_string	372																1024		1	0	1	0																	200	3	0	ModEmpty	ModEmpty									0
-item_strength_percent	76		1	16											32093	204	1024		12	1024	12	96			11			strength											58	2	2	ModStr1a	ModStr1a									0
-item_dexterity_percent	76		1	16											32093	204	1024		12	1024	12	96			11			dexterity											58	2	2	ModStr1b	ModStr1b									0
-item_vitality_percent	76		1	16											32093	204	1024		12	1024	12	96			11			vitality											58	2	2	ModStr1c	ModStr1c									0
-item_energy_percent	76		1	16											32093	204	1024		12	1024	12	96			11			energy											58	2	2	ModStr1d	ModStr1d									0
+item_strength_percent	373		1	16											32093	204	1024		12	1024	12	96			11			strength											58	2	2	ModStr1a	ModStr1a									0
+item_dexterity_percent	374		1	16											32093	204	1024		12	1024	12	96			11			dexterity											58	2	2	ModStr1b	ModStr1b									0
+item_vitality_percent	375		1	16											32093	204	1024		12	1024	12	96			11			vitality											58	2	2	ModStr1c	ModStr1c									0
+item_energy_percent	376		1	16											32093	204	1024		12	1024	12	96			11			energy											58	2	2	ModStr1d	ModStr1d									0
+monster_phys	377		1	10													1024		10	0	10	0			2	0	monster_playercount	damagepercent											88	4	1	ModStr5b	ModStr5b	increaseswithplaylevelX								0
+monster_fire	378		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_fire_mastery											88	4	1	ModitemdamFiresk	ModitemdamFiresk	increaseswithplaylevelX								0
+monster_cold	379		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_cold_mastery											88	4	1	ModitemdamColdsk	ModitemdamColdsk	increaseswithplaylevelX								0
+monster_ltng	380		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_ltng_mastery											88	4	1	ModitemdamLtngsk	ModitemdamLtngsk	increaseswithplaylevelX								0
+monster_pois	381		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_pois_mastery											88	4	1	ModitemdamPoissk	ModitemdamPoissk	increaseswithplaylevelX								0
+monster_magic	382		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_mag_mastery											88	4	1	ModitemdamPoissk	ModitemdamPoissk	increaseswithplaylevelX								0
+monster_att	383		1	10													1024		10	0	10	0			2	0	monster_playercount	item_tohit_percent											115	1	1	ModStr1h	ModStr1h	increaseswithplaylevelX								0
+monster_def	384		1	10													1024		10	0	10	0			2	0	monster_playercount	item_armor_percent											71	1	1	ModStr1i	ModStr1i	increaseswithplaylevelX								0
+monster_run	385		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity											148	4	1	ModStr4s	ModStr4s	increaseswithplaylevelX								0
+monster_swing	386		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fasterattackrate											145	4	1	ModStr4m	ModStr4m	increaseswithplaylevelX								0
+monster_health	387		1	10													1024		10	0	10	0			2	0	monster_playercount	item_maxhp_percent											58	2	2	ModStr2g	ModStr2g	increaseswithplaylevelX								0
