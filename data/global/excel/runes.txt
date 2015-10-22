@@ -77,7 +77,7 @@ Runeword79	Madness	1		helm									r16	r14					vit		50	50	howl		100	100	balance2
 Runeword81	Malice	1		mele									r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5	rep-dur	10			0
 Runeword82	Melody	1		miss									r13	r18	r04				dmg%		50	50	skilltab		3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		staf									r17	r16	r12	r05			mana%		20	20	red-mag		12	12	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
-Runeword84	Mist	1		glov									r04	r06					dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	10							0
+Runeword84	Mist	1		glov									r04	r06					dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	10											0
 Runeword85	Morning Dew	1		glov	mace								r23	r27	r25				hit-skill	66	5	10	dmg%		300	300	ignore-ac		1	1	knock		1	1	att-skill	53	5	20	rep-dur	10			allskills		1	1	0
 Runeword86	Mystery	1		miss									r29	r14	r06	r04	r12		hit-skill	62	5	10	howl		50	100	dmg-min		50	50	dmg-max		100	100	hit-skill	66	5	10	pierce		1	1	knock		1	1	0
 Runeword87	Myth	1		shld									r11	r23	r02	r04			red-mag		20	50	thorns		30	60	block		12	12	ac-miss		200	200	rep-dur	5			move1		20	20	ac		100	100	0
@@ -413,7 +413,7 @@ Runeword412	Lore?	1		tcha									r09	r12					enr		5	5	allskills		1	1	light		1	1
 Runeword413	Malice?	1		qcha									r06	r01	r05				openwounds		50	50	dmg-ac		-50	-50	noheal		1	1	dmg%		15	15	light		-1	-1	regen		-5	-5					0
 Runeword414	Melody?	1		qcha									r13	r18	r04				dmg%		25	25	skilltab		1	1	skill	9	1	1	skill	13	1	1	skill	17	1	1	dmg-undead		150	150					0
 Runeword415	Memory?	1		qcha									r17	r16	r12	r05			mana%		10	10	red-mag		6	6	ac%		25	25	cast2		16	16	sor		1	1	skill	58	1	1	skill	42	1	1	0
-Runeword416	Mist?	1		qcha									r04	r06					dmg-max		10	15	hit-skill	66	2	5	hit-skill	38	3	4	stupidity		1	1	dmg-min		5	10									0
+Runeword416	Mist?	1		qcha									r04	r06					dmg-max		10	15	hit-skill	66	2	5	stupidity		1	1	dmg-min		5	10													0
 Runeword417	Nadir?	1		tcha									r04	r03					ac%		25	25	ac		5	5	light		-1	-1	charged	264	4	6	gold%		-15	-15	str		2	2					0
 Runeword418	Oblivion?	1		qcha									r04	r02	r13				dmg-max		25	25	dmg-ac		-50	-50	swing3		40	50	att-undead		150	150	dmg-undead		150	150	allskills		1	1					0
 Runeword419	Passion?	1		tcha									r18	r19	r14	r05			bar		1	1	str		10	10	regen		6	6	regen-mana		15	15	move1		10	10	ac		100	100					0
@@ -1178,28 +1178,28 @@ Runeword1177	Minyanna	1		circ									r05	r14	gpw				howl		30	50	regen		3	3	rege
 Runeword1178	Minyanna	1		circ									r05	r14	sku				howl		30	50	regen		3	3	regen-mana		10	10	rep-dur	5			mana%		10	10	light		5	5					0
 Runeword1179	Minyanna	1		circ									r05	r14	skl				howl		30	50	regen		3	3	regen-mana		10	10	rep-dur	5			mana%		10	10	light		5	5					0
 Runeword1180	Minyanna	1		circ									r05	r14	skz				howl		30	50	regen		3	3	regen-mana		10	10	rep-dur	5			mana%		10	10	light		5	5					0
-Runeword1181	Misty	1		glov									r04	r06	jew				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1182	Misty	1		glov									r04	r06	gsv				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1183	Misty	1		glov									r04	r06	gzv				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1184	Misty	1		glov									r04	r06	gpv				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1185	Misty	1		glov									r04	r06	gsy				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1186	Misty	1		glov									r04	r06	gly				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1187	Misty	1		glov									r04	r06	gpy				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1188	Misty	1		glov									r04	r06	gsb				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1189	Misty	1		glov									r04	r06	glb				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1190	Misty	1		glov									r04	r06	gpb				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1191	Misty	1		glov									r04	r06	gsg				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1192	Misty	1		glov									r04	r06	glg				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1193	Misty	1		glov									r04	r06	gpg				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1194	Misty	1		glov									r04	r06	gsr				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1195	Misty	1		glov									r04	r06	glr				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1196	Misty	1		glov									r04	r06	gpr				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1197	Misty	1		glov									r04	r06	gsw				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1198	Misty	1		glov									r04	r06	glw				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1199	Misty	1		glov									r04	r06	gpw				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1200	Misty	1		glov									r04	r06	sku				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1201	Misty	1		glov									r04	r06	skl				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
-Runeword1202	Misty	1		glov									r04	r06	skz				dmg-max		20	30	hit-skill	66	5	10	hit-skill	38	7	8	stupidity		1	1	dmg-min		10	20	rep-dur	5							0
+Runeword1181	Misty	1		glov									r04	r06	jew				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1182	Misty	1		glov									r04	r06	gsv				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1183	Misty	1		glov									r04	r06	gzv				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1184	Misty	1		glov									r04	r06	gpv				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1185	Misty	1		glov									r04	r06	gsy				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1186	Misty	1		glov									r04	r06	gly				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1187	Misty	1		glov									r04	r06	gpy				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1188	Misty	1		glov									r04	r06	gsb				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1189	Misty	1		glov									r04	r06	glb				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1190	Misty	1		glov									r04	r06	gpb				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1191	Misty	1		glov									r04	r06	gsg				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1192	Misty	1		glov									r04	r06	glg				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1193	Misty	1		glov									r04	r06	gpg				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1194	Misty	1		glov									r04	r06	gsr				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1195	Misty	1		glov									r04	r06	glr				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1196	Misty	1		glov									r04	r06	gpr				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1197	Misty	1		glov									r04	r06	gsw				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1198	Misty	1		glov									r04	r06	glw				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1199	Misty	1		glov									r04	r06	gpw				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1200	Misty	1		glov									r04	r06	sku				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1201	Misty	1		glov									r04	r06	skl				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
+Runeword1202	Misty	1		glov									r04	r06	skz				dmg-max		20	30	hit-skill	66	5	10	stupidity		1	1	dmg-min		10	20	rep-dur	5											0
 Runeword1203	Nadirae	1		helm									r04	r03	jew				ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5	rep-dur	5			0
 Runeword1204	Nadirae	1		helm									r04	r03	gsv				ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5	rep-dur	5			0
 Runeword1205	Nadirae	1		helm									r04	r03	gzv				ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5	rep-dur	5			0
