@@ -33,9 +33,9 @@ nextexp	30			32													1024																																			0
 armorclass	31		1	21											17	10	1024		20	1024	20	1024																	71	1	1	ModStr1i	ModStr1i									0
 armorclass_vs_missile	32		1	21											11	5	1024		20	1024	20	1024																	69	1	1	ModStr6a	ModStr6a									0
 armorclass_vs_hth	33		1	21											13	7	1024		20	1024	20	1024																	70	1	1	ModStr6b	ModStr6b									0
-normal_damage_reduction	34		1	21											188	200	1024		20	1024	20	1024																	22	3	2	ModStr2u	ModStr2u									0
+normal_damage_reduction	34		1	21											188	200	1024		20	1024	20	1024																	22	3	2	ModStr2tt	ModStr2tt									0
 magic_damage_reduction	35		1	21											397	340	1024		20	1024	20	1024																	21	3	2	ModStr2t	ModStr2t									0
-damageresist	36		1	9											152	68	1024		9	0	8	0																	22	2	2	ModStr2u	ModStr2u									0
+damageresist	36		1	9											152	68	1024		9	0	8	0																	22	4	2	ModStr2u	ModStr2u									0
 magicresist	37		1	9											164	68	1024		9	0	8	0																	41	4	2	ModStr1m	ModStr1m		2	19		strModAllResistances	strModAllResistances			0
 maxmagicresist	38		1	9											1091	409	1024		5	0	5	0																	46	4	1	ModStr5x	ModStr5x									0
 fireresist	39		1	9											43	20	1024		12	96	12	96																	36	4	2	ModStr1j	ModStr1j		2	19		strModAllResistances	strModAllResistances			0
@@ -51,14 +51,14 @@ firemindam	48		1	31											11	10	1024		30	4096	20	48576												1					102	
 firemaxdam	49		1	31											19	10	1024		30	4096	20	48576												1					101	1	1	ModStr1o	ModStr1o									0
 lightmindam	50		1	31											12	10	1024		30	4096	20	48576												1					99	1	1	ModStr1r	ModStr1r									0
 lightmaxdam	51		1	31											17	10	1024		30	4096	20	48576												1					98	1	1	ModStr1q	ModStr1q									0
-magicmindam	52		1	31											196	20	1024		30	4096	20	48576												1					104	1	1	strModMagicDamage	strModMagicDamage									0
-magicmaxdam	53		1	31											183	20	1024		30	4096	20	48576												1					103	1	1	strModMagicDamage	strModMagicDamage									0
+magicmindam	52		1	31											196	20	1024		30	4096	20	48576												1					104	1	1	strMinMagicDamage	strMinMagicDamage									0
+magicmaxdam	53		1	31											183	20	1024		30	4096	20	48576												1					103	1	1	strMaxMagicDamage	strMaxMagicDamage									0
 coldmindam	54		1	31											451	512	1024		30	4096	20	48576												1					96	1	1	ModStr1t	ModStr1t									0
 coldmaxdam	55		1	31											128	340	1024		30	4096	20	48576												1					95	1	1	ModStr1s	ModStr1s									0
 coldlength	56		1	31											77	4	1024		30	4096	10	0												1																		0
 poisonmindam	57		1	31											12	10	1024		30	4096	20	48576												1					92	1	1	ModStr4i	ModStr4i									0
 poisonmaxdam	58		1	31											11	10	1024		30	4096	20	48576												1					91	1	1	ModStr4h	ModStr4h									0
-poisonlength	59		1	31											0	4	1024		30	4096	20	48576												1																		0
+poisonlength	59		1	31											0	4	1024		30	4096	20	48576												1					93	19		PoisonLength	PoisonLength									0
 lifedrainmindam	60		1	31											1044	341	1024		30	4096	20	48576												1					88	2	1	ModStr2z	ModStr2z									0
 lifedrainmaxdam	61		1	31													1024		30	4096	20	48576												1																		0
 manadrainmindam	62		1	31											1179	341	1024		30	4096	20	48576												1					89	2	1	ModStr2y	ModStr2y									0
@@ -141,13 +141,13 @@ item_manaafterkill	138		1	7							1				17	102	1024		7	0	7	0													kill	17	
 item_healafterdemonkill	139		1	7							1				18	102	1024		7	0	7	0													kill	18			15	1	1	ModStr6c	ModStr6c									0
 item_extrablood	140		1	7											15	10	1024		7	0	7	0												1																		0
 item_deadlystrike	141		1	7											31	25	1024		7	0	7	0												1					85	2	1	ModStr5q	ModStr5q									0
-item_absorbfire_percent	142		1	7											5486	102	1024		7	0	7	0																	23	2	2	ModStr5g	ModStr5g									0
+item_absorbfire_percent	142		1	7											5486	102	1024		7	0	7	0																	23	2	1	ModStr5g	ModStr5g									0
 item_absorbfire	143		1	7											1739	204	1024		7	0	7	0																	27	1	1	ModStr5h	ModStr5h									0
-item_absorblight_percent	144		1	7											5486	102	1024		7	0	7	0																	24	2	2	ModStr5i	ModStr5i									0
+item_absorblight_percent	144		1	7											5486	102	1024		7	0	7	0																	24	2	1	ModStr5i	ModStr5i									0
 item_absorblight	145		1	7											1739	204	1024		7	0	7	0																	29	1	1	ModStr5j	ModStr5j									0
-item_absorbmagic_percent	146		1	7											5486	102	1024		7	0	7	0																	26	2	2	ModStr5k	ModStr5k									0
+item_absorbmagic_percent	146		1	7											5486	102	1024		7	0	7	0																	26	2	1	ModStr5k	ModStr5k									0
 item_absorbmagic	147		1	7											1739	204	1024		7	0	7	0																	33	1	1	ModStr5l	ModStr5l									0
-item_absorbcold_percent	148		1	7											5486	102	1024		7	0	7	0																	25	2	2	ModStr5m	ModStr5m									0
+item_absorbcold_percent	148		1	7											5486	102	1024		7	0	7	0																	25	2	1	ModStr5m	ModStr5m									0
 item_absorbcold	149		1	7											1739	204	1024		7	0	7	0																	31	1	1	ModStr5n	ModStr5n									0
 item_slow	150		1	7							1				101	40	1024		7	0	7	0												1	domeleedamage	19	domissiledamage	19	77	2	2	ModStr5r	ModStr5r									0
 item_aura	151		1								1						1024		7	0	7	0	9																159	16	0	ModitemAura	ModitemAura									0
@@ -356,8 +356,8 @@ source_unit_type	353			5													1024																																			0
 source_unit_id	354			32													1024																																			0
 shortparam1	355			16													1024																																			0
 questitemdifficulty	356																1024		2	0	2	0																														0
-passive_mag_mastery	357		1	12											1211	431	1024		9	50	10	24																														0
-passive_mag_pierce	358		1	9												2812	1024		8	0	8	56																														0
+passive_mag_mastery	357		1	12											1211	431	1024		9	50	10	24																	88	4	1	ModitemdamMagicsk	ModitemdamMagicsk									0
+passive_mag_pierce	358		1	9												2812	1024		8	0	8	56																	88	20	1	Moditemenresmagicsk	Moditemenresmagicsk									0
 item_req_string	359		1	8													1024		8	100	8	100																	0	4	2	ModStr3h	ModStr3h									0
 cubepoints_string	360		1	8													1024		8	100	1	0			2	0	cubepoints	dummy											0	1	2	CubePoints	CubePoints									0
 item_mindamage_percent_perlevel	361		1	8											86	100	1024		8	0	8	0			5	3	level	mindamage	secondary_mindamage	item_throw_mindamage				1					128	8	1	ModStr2k	ModStr2k	increaseswithplaylevelX								0
@@ -376,20 +376,25 @@ item_strength_percent	373		1	16											32093	204	1024		12	1024	12	96			11			s
 item_dexterity_percent	374		1	16											32093	204	1024		12	1024	12	96			11			dexterity											58	2	2	ModStr1b	ModStr1b									0
 item_vitality_percent	375		1	16											32093	204	1024		12	1024	12	96			11			vitality											58	2	2	ModStr1c	ModStr1c									0
 item_energy_percent	376		1	16											32093	204	1024		12	1024	12	96			11			energy											58	2	2	ModStr1d	ModStr1d									0
-monster_phys	377		1	10													1024		10	0	10	0			2	0	monster_playercount	damagepercent											88	4	1	ModStr5b	ModStr5b	increaseswithplaylevelX								0
-monster_fire	378		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_fire_mastery											88	4	1	ModitemdamFiresk	ModitemdamFiresk	increaseswithplaylevelX								0
-monster_cold	379		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_cold_mastery											88	4	1	ModitemdamColdsk	ModitemdamColdsk	increaseswithplaylevelX								0
-monster_ltng	380		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_ltng_mastery											88	4	1	ModitemdamLtngsk	ModitemdamLtngsk	increaseswithplaylevelX								0
-monster_pois	381		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_pois_mastery											88	4	1	ModitemdamPoissk	ModitemdamPoissk	increaseswithplaylevelX								0
-monster_magic	382		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_mag_mastery											88	4	1	ModitemdamPoissk	ModitemdamPoissk	increaseswithplaylevelX								0
-monster_att	383		1	10													1024		10	0	10	0			2	0	monster_playercount	item_tohit_percent											115	1	1	ModStr1h	ModStr1h	increaseswithplaylevelX								0
-monster_def	384		1	10													1024		10	0	10	0			2	0	monster_playercount	item_armor_percent											71	1	1	ModStr1i	ModStr1i	increaseswithplaylevelX								0
-monster_run	385		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity											148	4	1	ModStr4s	ModStr4s	increaseswithplaylevelX								0
-monster_swing	386		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fasterattackrate											145	4	1	ModStr4m	ModStr4m	increaseswithplaylevelX								0
-monster_health	387		1	10													1024		10	0	10	0			2	0	monster_playercount	item_maxhp_percent											58	2	2	ModStr2g	ModStr2g	increaseswithplaylevelX								0
-monster_res_phys	388		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist											22	2	2	ModStr2u	ModStr2u	increaseswithplaylevelX								0
-monster_res_magic	389		1	10													1024		10	0	10	0			2	0	monster_playercount	magicresist											41	4	2	ModStr1m	ModStr1m	increaseswithplaylevelX								0
-monster_res_fire	390		1	10													1024		10	0	10	0			2	0	monster_playercount	fireresist											36	4	2	ModStr1j	ModStr1j	increaseswithplaylevelX								0
-monster_res_cold	391		1	10													1024		10	0	10	0			2	0	monster_playercount	coldresist											40	4	2	ModStr1k	ModStr1k	increaseswithplaylevelX								0
-monster_res_ltng	392		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist											38	4	2	ModStr1l	ModStr1l	increaseswithplaylevelX								0
-monster_res_pois	393		1	10													1024		10	0	10	0			2	0	monster_playercount	poisonresist											34	4	2	ModStr1n	ModStr1n	increaseswithplaylevelX								0
+monster_phys	377		1	10													1024		10	0	10	0			2	0	monster_playercount	damagepercent																								0
+monster_fire	378		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_fire_mastery																								0
+monster_cold	379		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_cold_mastery																								0
+monster_ltng	380		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_ltng_mastery																								0
+monster_pois	381		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_pois_mastery																								0
+monster_magic	382		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_mag_mastery																								0
+monster_att	383		1	10													1024		10	0	10	0			2	0	monster_playercount	item_tohit_percent																								0
+monster_def	384		1	10													1024		10	0	10	0			2	0	monster_playercount	item_armor_percent																								0
+monster_run	385		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity																								0
+monster_swing	386		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fasterattackrate																								0
+monster_health	387		1	10													1024		10	0	10	0			2	0	monster_playercount	item_maxhp_percent																								0
+monster_res_phys	388		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist																								0
+monster_res_magic	389		1	10													1024		10	0	10	0			2	0	monster_playercount	magicresist																								0
+monster_res_fire	390		1	10													1024		10	0	10	0			2	0	monster_playercount	fireresist																								0
+monster_res_cold	391		1	10													1024		10	0	10	0			2	0	monster_playercount	coldresist																								0
+monster_res_ltng	392		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist																								0
+monster_res_pois	393		1	10													1024		10	0	10	0			2	0	monster_playercount	poisonresist																								0
+fire_per_energy	394		1	10													1024		10	0	10	0			2	2	energy	passive_fire_mastery																								0
+cold_per_energy	395		1	10													1024		10	0	10	0			2	2	energy	passive_cold_mastery																								0
+ltng_per_energy	396		1	10													1024		10	0	10	0			2	2	energy	passive_ltng_mastery																								0
+pois_per_energy	397		1	10													1024		10	0	10	0			2	2	energy	passive_pois_mastery																								0
+mag_per_energy	398		1	10													1024		10	0	10	0			2	2	energy	passive_mag_mastery																								0
