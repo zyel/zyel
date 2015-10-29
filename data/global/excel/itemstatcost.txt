@@ -91,7 +91,7 @@ item_doubleherbduration	88		1	2													1024		1	0	1	0																							
 item_lightradius	89		1	10							1				15	51	1024		8	16	5	16																	6	1	1	ModStr3f	ModStr3f									0
 item_lightcolor	90		1	24							1				155	0	1024		24	0	24	0																														0
 item_req_percent	91		1	16													1024		16	16384	12	2048																														0
-item_levelreq	92																1024		16	32	14	6384																														0
+item_levelreq	92																1024		16	32	14	5383																														0
 item_fasterattackrate	93	1	1	31											1042	156	1024		16	32	12	96												1					145	4	1	ModStr4m	ModStr4m									0
 item_levelreqpct	94																1024		16	32	7	64			13			item_levelreq																								0
 lastblockframe	95																1024		16	32																																0
