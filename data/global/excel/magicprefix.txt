@@ -130,8 +130,8 @@ King's	1	1	1	56	0	48			0	1	111	att	0	121	150	dmg%	0	81	100		0	0	0	1	dgld	weap	mb
 Master's	100	1	0	56	0	48			0	1	111	att	0	151	250	dmg%	0	101	150		0	0	0	1	dgld	weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	    	    	0	0	0
 Grandmaster's	100	1	0	69	0	50			0	1	111	att	0	251	300	dmg%	0	151	200		0	0	0	1	dgld	weap	mboq	mxbq	    	    	    	    	staf	wand	orb 	    	    	0	0	0
 Glimmering	1	1	1	1	0	1			0	1	112	light	0	1	2		0	0	0		0	0	0			armo	weap	ring	amul			    	    	    	    	    	    	0	0	0
-Glowing	1	1	1	1	0	1			0	1	112	light	0	3	4		0	0	0		0	0	0			armo	weap	ring	amul			    	    	    	    	    	    	0	0	0
-Bright	100	1	1	1	0	1			0	1	112	light	0	5	6		0	0	0		0	0	0			armo	weap	ring	amul			    	    	    	    	    	    	0	0	0
+Glowing	1	1	1	21	0	15			0	1	112	light	0	2	3		0	0	0		0	0	0			armo	weap	ring	amul			    	    	    	    	    	    	0	0	0
+Bright	100	1	1	41	0	30			0	1	112	light	0	3	4		0	0	0		0	0	0			armo	weap	ring	amul			    	    	    	    	    	    	0	0	0
 Screaming	100	1	1	10	0	7			0	1	113	howl	0	32	32		0	0	0		0	0	0	1	oran	weap	mboq	mxbq	    	    	    	    	miss	swor	axe 	pole	spea	0	0	0
 Howling	1	1	1	16	0	12			0	1	113	howl	0	64	64		0	0	0		0	0	0	1	oran	weap	mboq	mxbq	    	    	    	    	miss	swor	axe 	pole	spea	0	0	0
 Wailing	100	1	1	20	0	13			0	1	113	howl	0	128	128		0	0	0		0	0	0	1	oran	weap	mboq	mxbq	    	    	    	    	miss	swor	axe 	pole	spea	0	0	0
