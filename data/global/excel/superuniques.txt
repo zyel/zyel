@@ -18,10 +18,10 @@ Coldworm the Burrower	Coldworm the Burrower	maggotqueen5	15		18	8	7	0	0	0	0	0		1
 Fire Eye	Fire Eye	sandraider4	16		6	9	26	6	6	0	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	
 Dark Elder	Dark Elder	zombie5	17		6	8	7	10	10	0	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	
 The Summoner	The Summoner	summoner	18		5	6	26	0	0	0	1	0		26	26	26	Summoner	Summoner (N)	Summoner (H)	
-Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler4	19		25	5	17	6	6	0	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	
+Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler5	19		25	5	17	6	6	0	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	
 The Smith	The Smith	smith	20	smith	5	8	26	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	
 Web Mage the Burning	Web Mage the Burning	arach5	21		5	7	9	10	10	0	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	
-Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	6	30	12	12	0	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	
+Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman5	22		8	6	30	12	12	0	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	
 Stormtree	Stormtree	treant2	23		6	17	28	8	8	0	1	0	1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	
 Sarina the Battlemaid	Sarina the Battlemaid	corruptrogue5	24		6	27	25	18	18	0	1	0	1	36	36	36	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	
 Icehawk Riftwing	Icehawk Riftwing	batdemon4	25		18	26	30	14	14	0	1	0		21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	
