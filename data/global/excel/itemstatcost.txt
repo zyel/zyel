@@ -369,32 +369,21 @@ item_ltng_damagemin_perlevel	366		1	8											49	128	1024		8	0	8	0			2	4	level
 item_pois_damagemin_perlevel	367		1	8											49	128	1024		8	0	8	0			2	4	level	poisonmindam						1					90	6	1	ModStr4i	ModStr4i	increaseswithplaylevelX								0
 item_magic_damagemin_perlevel	368		1	8											49	128	1024		8	0	8	0			2	4	level	magicmindam						1					90	6	1	ModStr4n	ModStr4n	increaseswithplaylevelX								0
 display_kills	369																1024		1	0	1	0			2	0	killcounter	dummy											1	3	1	sdkills	sdkills									0
-item_vitality_perstrength	370		1	8													1024		8	0	1	0			2	0	strength	vitality																								0
+item_vitality_perdexterity	370		1	8													1024		8	0	1	0			2	0	dexterity	vitality																								0
 item_resist_mag_perlevel	371		1	8											101	128	1024		8	0	8	0			2	3	level	magicresist											33	7	2	ModStr1m	ModStr1m	increaseswithplaylevelX								0
 empty_string	372																1024		1	0	1	0																	200	3	0	ModEmpty	ModEmpty									0
 item_strength_percent	373		1	16											32093	204	1024		12	1024	12	96			11			strength											58	2	2	ModStr1a	ModStr1a									0
 item_dexterity_percent	374		1	16											32093	204	1024		12	1024	12	96			11			dexterity											58	2	2	ModStr1b	ModStr1b									0
 item_vitality_percent	375		1	16											32093	204	1024		12	1024	12	96			11			vitality											58	2	2	ModStr1c	ModStr1c									0
 item_energy_percent	376		1	16											32093	204	1024		12	1024	12	96			11			energy											58	2	2	ModStr1d	ModStr1d									0
-monster_phys	377		1	10													1024		10	0	10	0			2	0	monster_playercount	damagepercent																								0
-monster_fire	378		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_fire_mastery																								0
-monster_cold	379		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_cold_mastery																								0
-monster_ltng	380		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_ltng_mastery																								0
-monster_pois	381		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_pois_mastery																								0
-monster_magic	382		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_mag_mastery																								0
-monster_att	383		1	10													1024		10	0	10	0			2	0	monster_playercount	item_tohit_percent																								0
-monster_def	384		1	10													1024		10	0	10	0			2	0	monster_playercount	item_armor_percent																								0
-monster_run	385		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity																								0
-monster_swing	386		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fasterattackrate																								0
-monster_health	387		1	10													1024		10	0	10	0			2	0	monster_playercount	item_maxhp_percent																								0
-monster_res_phys	388		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist																								0
-monster_res_magic	389		1	10													1024		10	0	10	0			2	0	monster_playercount	magicresist																								0
-monster_res_fire	390		1	10													1024		10	0	10	0			2	0	monster_playercount	fireresist																								0
-monster_res_cold	391		1	10													1024		10	0	10	0			2	0	monster_playercount	coldresist																								0
-monster_res_ltng	392		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist																								0
-monster_res_pois	393		1	10													1024		10	0	10	0			2	0	monster_playercount	poisonresist																								0
-fire_per_energy	394		1	10													1024		10	0	10	0			2	2	energy	passive_fire_mastery																								0
-cold_per_energy	395		1	10													1024		10	0	10	0			2	2	energy	passive_cold_mastery																								0
-ltng_per_energy	396		1	10													1024		10	0	10	0			2	2	energy	passive_ltng_mastery																								0
-pois_per_energy	397		1	10													1024		10	0	10	0			2	2	energy	passive_pois_mastery																								0
-mag_per_energy	398		1	10													1024		10	0	10	0			2	2	energy	passive_mag_mastery																								0
+monster_damage1	377		1	10													1024		10	0	10	0			2	0	monster_playercount	damagepercent	passive_fire_mastery	passive_cold_mastery																						0
+monster_damage2	378		1	10													1024		10	0	10	0			2	0	monster_playercount	passive_ltng_mastery	passive_pois_mastery	passive_mag_mastery																						0
+monster_att_def	379		1	10													1024		10	0	10	0			2	0	monster_playercount	item_tohit_percent	item_armor_percent																							0
+monster_speed	380		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity	item_fasterattackrate																							0
+monster_resist1	381		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist	fireresist	coldresist																						0
+monster_resist2	382		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist	poisonresist	magicresist																						0
+damage_per_energy1	383		1	10													1024		10	0	10	0			2	2	energy	passive_fire_mastery	passive_cold_mastery	passive_ltng_mastery																						0
+damage_per_energy2	384		1	10													1024		10	0	10	0			2	2	energy	passive_pois_mastery	passive_mag_mastery																							0
+damage_for_hire1	385		1	10													1024		10	0	10	0			2	2	strength	passive_fire_mastery	passive_cold_mastery	passive_ltng_mastery																						0
+damage_for_hire2	386		1	10													1024		10	0	10	0			2	2	strength	passive_pois_mastery	passive_mag_mastery																							0
+hpregen_per_vitality	387		1	10													1024		10	0	10	0			2	4	vitality	hpregen																								0

@@ -280,9 +280,8 @@ str%	1			1	item_strength_percent																													none	0
 dex%	1			1	item_dexterity_percent																													none	0
 vit%	1			1	item_vitality_percent																													none	0
 enr%	1			1	item_energy_percent																													none	0
-mon-dmg	1			1	monster_phys			1	monster_fire			1	monster_cold			1	monster_ltng			1	monster_pois			1	monster_magic										0
-mon-att	1			1	monster_att			1	monster_def																										0
-mon-speed	1			8	monster_run			8	monster_swing																										0
-mon-health	1			1	monster_health																														0
-mon-resist	1			1	monster_res_phys			1	monster_res_fire			1	monster_res_cold			1	monster_res_ltng			1	monster_res_pois			1	monster_res_magic										0
+mon-dmg	1			1	monster_damage1			1	monster_damage2																										0
+mon-resist	1			1	monster_resist1			1	monster_resist2																										0
+mon-att	1			1	monster_att_def																														0
+mon-speed	1			8	monster_speed																														0
 mon-count	1			1	monster_playercount																														0
