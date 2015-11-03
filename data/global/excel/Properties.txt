@@ -285,3 +285,4 @@ mon-resist	1			1	monster_resist1			1	monster_resist2																										0
 mon-att	1			1	monster_att_def																														0
 mon-speed	1			8	monster_speed																														0
 mon-count	1			1	monster_playercount																														0
+basicskills	1		8	21	item_elemskill																													none	0

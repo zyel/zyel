@@ -73,7 +73,7 @@ quantity	70		1	16													1024																1	1																		0
 value	71		1	31													1024		20	2048	10	224											1																			0
 durability	72		1	15													1024		12		8										1	maxdurability	1																			0
 maxdurability	73		1	15													1024		12		8												1																			0
-hpregen	74														451	410	1024		20	2048	16	1536																	56	1	2	ModStr2l	ModStr2w									0
+hpregen	74		1	20											451	410	1024		20	2048	16	1536																	56	1	2	ModStr2l	ModStr2w									0
 item_maxdurability_percent	75		1	7													1024		7	20	7	20			13			maxdurability											3	2	2	ModStr2i	ModStr2i									0
 item_maxhp_percent	76		1	16											32093	204	1024		12	1024	12	96			11			maxhp											58	2	2	ModStr2g	ModStr2g									0
 item_maxmana_percent	77		1	16											56452	204	1024		12	1024	12	96			11			maxmana											54	2	2	ModStr2h	ModStr2h									0
@@ -125,7 +125,7 @@ item_undeaddamage_percent	122		1	31													1024		16	2048														1				
 item_demon_tohit	123		1	31													1024		16	2048														1					110	1	1	ModStr4j	ModStr4j									0
 item_undead_tohit	124		1	31													1024		16	2048														1					106	1	1	ModStr4k	ModStr4k									0
 item_throwable	125		1	2											82	1024	1024		1		1																		5	3	0	ModStr5a	ModStr5a									0
-item_elemskill	126		1	15	3						1				76	1024	1024		12		10	24	3																157	1	1	ModStr3i	ModStr3i									0
+item_elemskill	126		1	15	3						1				76	1024	1024		12		10	24	3																													0
 item_allskills	127		1	15							1				15123	4096	1024		12		10	24																	158	1	1	ModStr3k	ModStr3k									0
 item_attackertakeslightdamage	128		1	31							1				4	102	1024		16		20	48576													attackedinmelee	10			14	3	2	ModStr3j	ModStr3j									0
 ironmaiden_level	129		1	10													1024																																			0
@@ -382,8 +382,3 @@ monster_att_def	379		1	10													1024		10	0	10	0			2	0	monster_playercount	
 monster_speed	380		1	10													1024		10	0	10	0			2	0	monster_playercount	item_fastermovevelocity	item_fasterattackrate																							0
 monster_resist1	381		1	10													1024		10	0	10	0			2	0	monster_playercount	damageresist	fireresist	coldresist																						0
 monster_resist2	382		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist	poisonresist	magicresist																						0
-damage_per_energy1	383		1	10													1024		10	0	10	0			2	2	energy	passive_fire_mastery	passive_cold_mastery	passive_ltng_mastery																						0
-damage_per_energy2	384		1	10													1024		10	0	10	0			2	2	energy	passive_pois_mastery	passive_mag_mastery																							0
-damage_for_hire1	385		1	10													1024		10	0	10	0			2	2	strength	passive_fire_mastery	passive_cold_mastery	passive_ltng_mastery																						0
-damage_for_hire2	386		1	10													1024		10	0	10	0			2	2	strength	passive_pois_mastery	passive_mag_mastery																							0
-hpregen_per_vitality	387		1	10													1024		10	0	10	0			2	4	vitality	hpregen																								0

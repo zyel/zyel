@@ -8,6 +8,6 @@ councilmember2																															extra-fire			40	40																	
 councilmember3																															extra-fire			40	40																										extra-fire			100	100																										0
 baalhighpriest																															extra-fire			60	60																										extra-fire			120	120																										0
 bloodraven																																																													knock			1	1																										0
-monfireaura	aura		363	15	15																										aura		363	45	45																										aura		363	90	90																										0
-monfreezeaura	aura		364	40	40																										aura		364	80	80																										aura		364	150	150																										0
-monshockaura	aura		365	25	25																										aura		365	60	60																										aura		365	110	110																										0
+monfireaura	aura		359	15	15																										aura		359	45	45																										aura		359	90	90																										0
+monfreezeaura	aura		360	40	40																										aura		360	80	80																										aura		360	150	150																										0
+monshockaura	aura		361	25	25																										aura		361	60	60																										aura		361	110	110																										0

@@ -184,5 +184,6 @@ passive_resistfire	181																																																										
 passive_resistcold	182																																																																						0
 passive_resistltng	183																																																																						0
 transformknight	184	3			1							1																																					fire_cast_2																1	114					0
-passive_start	185																																																																						0
+passive_start1	185																																																																						0
 passive_start2	186																																																																						0
+passive_start3	187																																																																						0

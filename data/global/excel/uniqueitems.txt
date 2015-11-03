@@ -2373,7 +2373,7 @@ CHOM314	100	0		10	1	99	70	Cjw	CHOM			100	25000	lred	lred						regen		-32	-32				
 CHOM315	100	0		10	1	99	70	Cjx	CHOM			100	25000	lred	lred						regen		-32	-32																																													0
 CHOM316	100	0		10	1	99	70	Cjy	CHOM			100	25000	lred	lred						regen		-32	-32																																													0
 CHOM317	100	0		10	1	99	70	Cjz	CHOM			100	25000	lred	lred						regen		-32	-32																																													0
-MephDropper	100	1		10	1	1	1	mon1	monster ring			100	25000								death-skill	366	100	1																																													0
-DiabloDropper	100	1		10	1	1	1	mon2	monster ring			100	25000								death-skill	367	100	1																																													0
-BaalDropper	100	1		10	1	1	1	mon3	monster ring			100	25000								death-skill	368	100	1																																													0
+MephDropper	100	1		10	1	1	1	mon1	monster ring			100	25000								death-skill	362	100	1																																													0
+DiabloDropper	100	1		10	1	1	1	mon2	monster ring			100	25000								death-skill	363	100	1																																													0
+BaalDropper	100	1		10	1	1	1	mon3	monster ring			100	25000								death-skill	364	100	1																																													0
 MonsterBoost	100	1		10	1	1	1	mon4	monster amulet			100	25000								mon-count		-1	-1	mon-dmg		100	100	mon-att		100	100	mon-speed		10	10	mon-resist		1	7																													0
