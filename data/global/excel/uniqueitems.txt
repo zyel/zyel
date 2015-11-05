@@ -2273,7 +2273,7 @@ CHOMFinder	100	1		10	1	99	15	Ch4	CHOM			100	25000	lred	lred						regen		-8	-8	go
 CHOMFlamer	100	1		10	1	99	15	Ch5	CHOM			100	25000	lred	lred						regen		-8	-8	openwounds		50	50	res-fire		50	50	dmg-fire		30	120	att-skill	36	5	15																													0
 CHOMHealer	100	1		10	1	99	15	Ch6	CHOM			100	25000	lred	lred						regen		10	10	res-all		25	25	res-pois-len		50	50	regen-mana		30	30																																	0
 CHOMIcer	100	1		10	1	99	15	Ch7	CHOM			100	25000	lred	lred						regen		-8	-8	freeze		1	2	res-cold		50	50	dmg-cold	50	30	60	att-skill	39	5	10																													0
-CHOMMaster	100	1		10	1	99	15	Ch8	CHOM			100	25000	lred	lred						regen		-15	-15	allskills		4	4	all-stats		10	10																																					0
+CHOMMaster	100	1		10	1	99	15	Ch8	CHOM			100	25000	lred	lred						regen		-12	-12	allskills		4	4	all-stats		10	10																																					0
 CHOMPsycho	100	1		10	1	99	15	Ch9	CHOM			100	25000	lred	lred						regen		-8	-8	swing2		20	20	dmg-fire		5	20	dmg-cold	50	3	12	dmg-ltng		2	20	dmg-pois	50	30	30																									0
 CHOMShield	100	1		10	1	99	15	Cha	CHOM			100	25000	lred	lred						regen		-8	-8	ac		500	500	ac%		50	50	hp		200	200	red-dmg%		25	25	charged	68	100	10																									0
 CHOMSkull	100	1		10	1	99	15	Chb	CHOM			100	25000	lred	lred						regen		-8	-8	charged	70	99	5	charged	80	40	5	charged	75	15	5	att-skill	67	5	15																													0
@@ -2309,7 +2309,7 @@ CHOM2Finder	100	1		10	1	99	40	Ci4	CHOM			100	25000	lred	lred						regen		-16	-16
 CHOM2Flamer	100	1		10	1	99	40	Ci5	CHOM			100	25000	lred	lred						regen		-16	-16	openwounds		75	75	res-fire		100	100	dmg-fire		75	300	abs-fire		200	200	att-skill	47	5	15																									0
 CHOM2Healer	100	1		10	1	99	40	Ci6	CHOM			100	25000	lred	lred						regen		20	20	res-all		75	75	res-pois-len		75	75	regen-mana		75	75	mana%		15	15																													0
 CHOM2Icer	100	1		10	1	99	40	Ci7	CHOM			100	25000	lred	lred						regen		-16	-16	freeze		2	4	res-cold		100	100	dmg-cold	100	75	150	abs-cold		200	200	att-skill	55	5	10																									0
-CHOM2Master	100	1		10	1	99	40	Ci8	CHOM			100	25000	lred	lred						regen		-30	-30	allskills		10	10	all-stats		30	30	gold%		20	20	mag%		20	20																													0
+CHOM2Master	100	1		10	1	99	40	Ci8	CHOM			100	25000	lred	lred						regen		-24	-24	allskills		10	10	all-stats		30	30	gold%		20	20	mag%		20	20																													0
 CHOM2Psycho	100	1		10	1	99	40	Ci9	CHOM			100	25000	lred	lred						regen		-16	-16	swing2		50	50	dmg-fire		12	48	dmg-cold	100	12	48	dmg-ltng		8	80	dmg-pois	50	120	120	stupidity		1	1																					0
 CHOM2Shield	100	1		10	1	99	40	Cia	CHOM			100	25000	lred	lred						regen		-16	-16			1200	1200	ac%		75	75	hp		500	500	red-dmg%		50	50	slow		25	25	charged	68	100	20																					0
 CHOM2Skull	100	1		10	1	99	40	Cib	CHOM			100	25000	lred	lred						regen		-16	-16	charged	70	99	12	charged	80	50	12	charged	85	30	12	att-skill	78	5	10																													0
@@ -2345,7 +2345,7 @@ CHOM3Finder	100	1		10	1	99	70	Cj4	CHOM			100	25000	lred	lred						regen		-32	-32
 CHOM3Flamer	100	1		10	1	99	70	Cj5	CHOM			100	25000	lred	lred						regen		-32	-32	openwounds		100	100	res-fire		250	250	dmg-fire		250	1000	abs-fire		500	500	charged	62	99	20	att-skill	51	5	20	hp%		10	10	mana%		20	20													0
 CHOM3Healer	100	1		10	1	99	70	Cj6	CHOM			100	25000	lred	lred						regen		40	40	res-all		125	125	res-pois-len		100	100	regen-mana		100	100	mana%		30	30	dmg-to-mana		50	50	red-mag		300	300	hp%		30	50	mana%		10	10	balance3		100	100									0
 CHOM3Icer	100	1		10	1	99	70	Cj7	CHOM			100	25000	lred	lred						regen		-32	-32	freeze		4	8	res-cold		250	250	dmg-cold	200	200	500	abs-cold		500	500	nofreeze		1	1	charged	59	99	20	att-skill	59	5	20	mana%		20	20													0
-CHOM3Master	100	1		10	1	99	70	Cj8	CHOM			100	25000	lred	lred						regen		-60	-60	allskills		18	18	all-stats		60	60	gold%		50	50	mag%		50	50	hp%		15	25	balance3		25	25																					0
+CHOM3Master	100	1		10	1	99	70	Cj8	CHOM			100	25000	lred	lred						regen		-48	-48	allskills		18	18	all-stats		60	60	gold%		50	50	mag%		50	50	hp%		15	25	balance3		25	25																					0
 CHOM3Psycho	100	1		10	1	99	70	Cj9	CHOM			100	25000	lred	lred						regen		-32	-32	swing3		80	80	dmg-fire		50	150	dmg-cold	150	36	250	dmg-ltng		25	240	dmg-pois	50	400	400	stupidity		1	1	hp%		20	40	mana%		15	15	balance3		50	50									0
 CHOM3Shield	100	1		10	1	99	70	Cja	CHOM			100	25000	lred	lred						regen		-32	-32			2500	2500	ac%		100	100	hp		1500	1500	red-dmg%		75	75	slow		50	50	res-all		50	50	charged	68	100	30	hp%		10	15	balance3		50	50									0
 CHOM3Skull	100	1		10	1	99	70	Cjb	CHOM			100	25000	lred	lred						regen		-32	-32	charged	70	99	20	charged	80	50	20	charged	94	30	20	charged	93	99	20	att-skill	74	5	10	hp%		20	40	mana%		10	10	allskills		5	5	balance3		25	25									0
