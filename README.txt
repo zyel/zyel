@@ -68,14 +68,6 @@ Sets:
     Naj's Ancient Set - allskills, exp
     McAuley's Folly - Heart of Wolverine oskill
 
-
-Lost features:
-Merc max lvl is 1600
-A1Q3 reward
-A3Q2 reward
-A4Q2 reward
-A5Q2 reward
-
 //--- patch 1 ----------------------------------------------
 reduce-ac mod
 upgrader
