@@ -529,21 +529,21 @@ Gremlin C			1						Gremlin 19	5	Gremlin 20	10	Gremlin 21	5	Gremlin 22	10	Gremlin
 Gremlin D			1						Gremlin 28	20	Gremlin 29	5	Gremlin 30	10	Gremlin 31	5	Gremlin 32	10	Gremlin 33	15									0
 Gremlin Main			1					120	Gremlin A	4	Gremlin B	4	Gremlin C	4	Gremlin D	4	"gld,mul=2024"	10											0
 TCard-Joker			1						KA0	5	KA1	5	KA2	5	KA3	5	KA4	5	KA5	5	KA6	5	KA7	5	KA8	5	KA9	5	0
-TCard-2			1						KB2	2	KC2	2	KD2	2	KE2	10	KF2	10	KG2	10	KH2	10							0
-TCard-3			1						KB3	2	KC3	2	KD3	2	KE3	10	KF3	10	KG3	10	KH3	10	TCard-2	10					0
-TCard-4			1						KB4	2	KC4	2	KD4	2	KE4	10	KF4	10	KG4	10	KH4	10	TCard-3	10	TCard-2	10			0
-TCard-5			1						KB5	2	KC5	2	KD5	2	KE5	10	KF5	10	KG5	10	KH5	10	TCard-4	10	TCard-3	10	TCard-2	10	0
-TCard-6			1						KB6	2	KC6	2	KD6	2	KE6	10	KF6	10	KG6	10	KH6	10	TCard-5	10	TCard-4	10	TCard-3	10	0
-TCard-7			1						KB7	2	KC7	2	KD7	2	KE7	10	KF7	10	KG7	10	KH7	10	TCard-6	10	TCard-5	10	TCard-4	10	0
-TCard-8			1						KB8	2	KC8	2	KD8	2	KE8	10	KF8	10	KG8	10	KH8	10	TCard-7	10	TCard-6	10	TCard-5	10	0
-TCard-9			1						KB9	2	KC9	2	KD9	2	KE9	10	KF9	10	KG9	10	KH9	10	TCard-8	10	TCard-7	10	TCard-6	10	0
-TCard-10			1						KB0	2	KC0	2	KD0	2	KE0	10	KF0	10	KG0	10	KH0	10	TCard-9	10	TCard-8	10	TCard-7	10	0
-TCard-J			1						KBA	2	KCA	2	KDA	2	KEA	10	KFA	10	KGA	10	KHA	10	TCard-10	10	TCard-9	10	TCard-8	10	0
-TCard-Q			1						KBB	2	KCB	2	KDB	2	KEB	10	KFB	10	KGB	10	KHB	10	TCard-J	10	TCard-10	10	TCard-9	10	0
-TCard-K			1						KBC	2	KCC	2	KDC	2	KEC	10	KFC	10	KGC	10	KHC	10	TCard-Q	10	TCard-J	10	TCard-10	10	0
-TCard-A			1						KBD	2	KCD	2	KDD	2	KED	10	KFD	10	KGD	10	KHD	10	TCard-K	10	TCard-Q	10	TCard-J	10	0
-TCard-E			1						KBE	2	KCE	2	KDE	2	KEE	10	KFE	10	KGE	10	KHE	10	TCard-A	10	TCard-K	10	TCard-Q	10	0
-TCard-Z			1						KBF	2	KCF	2	KDF	2	KEF	10	KFF	10	KGF	10	KHF	10	TCard-E	10	TCard-A	10	TCard-K	10	0
+TCard-2			1						KB2	3	KC2	3	KD2	3	KE2	10	KF2	10	KG2	10	KH2	10							0
+TCard-3			1						KB3	3	KC3	3	KD3	3	KE3	10	KF3	10	KG3	10	KH3	10	TCard-2	10					0
+TCard-4			1						KB4	3	KC4	3	KD4	3	KE4	10	KF4	10	KG4	10	KH4	10	TCard-3	10	TCard-2	10			0
+TCard-5			1						KB5	3	KC5	3	KD5	3	KE5	10	KF5	10	KG5	10	KH5	10	TCard-4	10	TCard-3	10	TCard-2	10	0
+TCard-6			1						KB6	3	KC6	3	KD6	3	KE6	10	KF6	10	KG6	10	KH6	10	TCard-5	10	TCard-4	10	TCard-3	10	0
+TCard-7			1						KB7	3	KC7	3	KD7	3	KE7	10	KF7	10	KG7	10	KH7	10	TCard-6	10	TCard-5	10	TCard-4	10	0
+TCard-8			1						KB8	3	KC8	3	KD8	3	KE8	10	KF8	10	KG8	10	KH8	10	TCard-7	10	TCard-6	10	TCard-5	10	0
+TCard-9			1						KB9	3	KC9	3	KD9	3	KE9	10	KF9	10	KG9	10	KH9	10	TCard-8	10	TCard-7	10	TCard-6	10	0
+TCard-10			1						KB0	3	KC0	3	KD0	3	KE0	10	KF0	10	KG0	10	KH0	10	TCard-9	10	TCard-8	10	TCard-7	10	0
+TCard-J			1						KBA	3	KCA	3	KDA	3	KEA	10	KFA	10	KGA	10	KHA	10	TCard-10	10	TCard-9	10	TCard-8	10	0
+TCard-Q			1						KBB	3	KCB	3	KDB	3	KEB	10	KFB	10	KGB	10	KHB	10	TCard-J	10	TCard-10	10	TCard-9	10	0
+TCard-K			1						KBC	3	KCC	3	KDC	3	KEC	10	KFC	10	KGC	10	KHC	10	TCard-Q	10	TCard-J	10	TCard-10	10	0
+TCard-A			1						KBD	3	KCD	3	KDD	3	KED	10	KFD	10	KGD	10	KHD	10	TCard-K	10	TCard-Q	10	TCard-J	10	0
+TCard-E			1						KBE	3	KCE	3	KDE	3	KEE	10	KFE	10	KGE	10	KHE	10	TCard-A	10	TCard-K	10	TCard-Q	10	0
+TCard-Z			1						KBF	3	KCF	3	KDF	3	KEF	10	KFF	10	KGF	10	KHF	10	TCard-E	10	TCard-A	10	TCard-K	10	0
 TGrade-A			1					75	"gld,mul=1024"	125	TCard-Joker	100	TCard-2	150															0
 TGrade-B			1					75	"gld,mul=1216"	125	TCard-Joker	100	TCard-2	100	TCard-3	50													0
 TGrade-C			1					75	"gld,mul=1408"	125	TCard-Joker	100	TCard-2	75	TCard-3	50	TCard-4	25											0
