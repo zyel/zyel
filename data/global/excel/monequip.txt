@@ -41,6 +41,8 @@ shadowmaster		0	7ar	rarm	3	7xf	rarm	3	7qr	rarm	3	0
 shadowmaster		0	7cs	larm	3	7tw	larm	3	7qr	larm	3	0
 shadowmaster		0		tors	3							0
 shadowmaster		0		head	3							0
+andariel	1	0	mon4	neck	7							0
+izual	1	0	mon4	neck	7							0
 mephisto	1	0	mon4	neck	7							0
 diablo	1	0	mon4	neck	7							0
 baalcrab	1	0	mon4	neck	7							0
