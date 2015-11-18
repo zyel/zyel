@@ -135,7 +135,7 @@ name	code
 	ba4
 	scp
 	gsc
-	wsc
+	wsp
 	wnd
 	ywn
 	bwn
