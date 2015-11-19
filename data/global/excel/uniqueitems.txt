@@ -43,7 +43,7 @@ The Diggler	0	1		10	1	14	6	dir	dagger			256	19500	dgry	dgry						dex		15	15	dmg%
 The Jade Tan Do	0	1		10	1	26	11	kri	dagger			256	26500	oran			invkrsu				att		150	225	nofreeze		1	1	dmg-pois	100	600	600	res-pois		100	100	res-pois-max		25	25																													0
 Irices Shard	0	1		10	1	34	14	bld	dagger			256	31500	dblu	dblu						cast3		60	60	mana		60	60	att		80	80	res-all		15	15																																	0
 The Dragon Chang	0	1		10	1	10	4	spr	spear			256	17000	dpur	dpur						att		50	50	dmg-norm		15	20	light		3	3	dmg-fire		50	75																																	0
-Razortine	0	1		10	1	16	6	tri	spear			256	20000	oran			invtriu				slow		30	30	reduce-ac		75	75	str		20	20	dex		12	12	swing2		40	40	dmg%		45	75																									0
+Razortine	0	1		10	1	16	6	tri	spear			256	20000	oran			invtriu				slow		30	30	reduce-ac		50	50	str		20	20	dex		12	12	swing2		40	40	dmg%		45	75																									0
 Bloodthief	0	1		10	1	22	9	brn	spear			256	24500	whit	whit						openwounds		40	40	str		15	15	lifesteal		10	15	hp		40	40	dmg%		75	105																													0
 Lance of Yaggai	0	1		10	1	30	12	spt	spear			256	29000	lred	lred						thorns		120	12	ltng-min		3	3	ltng-max		120	120	res-all		20	20	swing2		50	50																													0
 The Tannr Gorerod	0	1		10	1	36	15	pik	spear			256	32500	lgry	lgry						fire-min		30	30	fire-max		70	70	res-fire-max		20	20	hp		50	50	att		90	90	light		4	4	res-fire		20	20	dmg%		120	150																	0
@@ -54,7 +54,7 @@ The Battlebranch	0	1		10	1	34	14	pax	polearm			256	31500	lblu	lblu						swing3		
 Woestave	0	1		10	1	38	16	hal	polearm			256	34000	dblu	dblu						slow		60	60	openwounds		60	60	stupidity		3	3	dmg-ac		-75	-75	freeze		2	5	light		-4	-4	noheal		1	1	dmg%		30	50					ac		-40	-40									0
 The Grim Reaper	0	1		10	1	38	16	wsc	polearm			256	34500	lpur	lpur						deadly		100	100	noheal		1	1	manasteal		8	8	dmg%		30	30	dmg-min		25	25	ac		-40	-40																									0
 Bane Ash	0	1		10	1	6	3	sst	staff			256	14500	lgrn	lgrn						fire-min		8	8	fire-max		16	16	res-fire		60	60	mana		40	40	swing2		25	25	dmg%		75	90	skill	36	6	6	skill	37	3	3																	0
-Serpent Lord	0	1		10	1	12	5	lst	staff			256	17500	cgrn	cgrn						dmg-pois	75	60	60	res-pois		60	60	light		-2	-2	mana		15	15	dmg%		45	60	manasteal		10	10	reduce-ac		100	100																					0
+Serpent Lord	0	1		10	1	12	5	lst	staff			256	17500	cgrn	cgrn						dmg-pois	75	60	60	res-pois		60	60	light		-2	-2	mana		15	15	dmg%		45	60	manasteal		10	10	reduce-ac		75	75																					0
 Lazarus Spire	0	1		10	1	24	10	cst	staff			256	25000	lgry			invcstu				res-ltng		75	75	red-dmg		8	8	enr		20	20	skill	53	2	2	skill	49	3	3	skill	42	4	4	regen-mana		50	50	dmg-ltng		3	60					sor		2	2									0
 The Salamander	0	1		10	1	28	11	bst	staff			256	27500	dred	dred						dmg-fire		25	50	res-fire		40	40	skill	51	2	2	skill	47	3	3	skill	37	4	4	fireskill		3	3																									0
 The Iron Jang Bong	0	1		10	1	38	16	wst	staff			256	34000	dyel	dyel						ac		40	40	cast3		30	30	dmg%		150	150	att%		60	60	skill	48	3	3	skill	46	3	3	skill	44	4	4	sor		3	3																	0
@@ -181,7 +181,7 @@ Blackleach Blade	100	1		10	1	50	21	9vo	polearm			256	41500		blac						ease		-400
 Athena's Wrath	100	1		10	1	50	21	9s8	polearm			256	41500	whit			inv9s8u				dru		2	4	dex		20	20	swing2		40	40	hp/lvl	6			dmg/lvl	6			dmg%		200	240																									0
 Pierre Tombale Couant	100	1		10	1	50	21	9pa	polearm			256	42000		lgld						deadly		70	70	bar		4	4	balance2		40	40	manasteal		8	8	dmg-norm		24	50	dmg%		200	320	att		200	300																					0
 Husoldal Evo	100	1		10	1	52	21	9h9	polearm			256	42500	whit							regen		24	24	att		300	400	noheal		1	1	dmg-norm		40	80	dmg%		200	320	swing2		30	30																									0
-Grim's Burning Dead	100	1		10	1	52	21	9wc	polearm			256	42500	cred	cred						ease		-600	-600	ease-string		-60	-60	dmg-fire		180	360	res-fire		50	50	dmg%		160	240	thorns		120	120	nec		4	4	reduce-ac		100	100	ac%		30	30	att		300	400									0
+Grim's Burning Dead	100	1		10	1	52	21	9wc	polearm			256	42500	cred	cred						ease		-600	-600	ease-string		-60	-60	dmg-fire		180	360	res-fire		50	50	dmg%		160	240	thorns		120	120	nec		4	4	reduce-ac		75	75	ac%		30	30	att		300	400									0
 Razorswitch	100	1		10	1	36	15	8ss	staff			256	32500	lpur							cast3		40	40	thorns		200	200	mana		200	200	hp		150	150	red-mag		20	20	res-all		60	60	allskills		2	2																					0
 Ribcracker	100	1		10	1	38	16	8ls	staff			256	34500		lblu						dmg-norm		30	50	dmg%		200	300	crush		50	50	dex		15	15	ac		100	100	ac%		100	100	balance2		50	50	swing2		50	50	dur		100	100													0
 Chromatic Ire	100	1		10	1	42	18	8cs	staff			256	37000	whit			invcstu				sor		4	4	res-all		30	50	cast1		30	30	light-thorns		300	300	hp%		25	30	skill	61	2	2	skill	63	2	2	skill	65	2	2																	0
@@ -288,7 +288,7 @@ Bloodmoon	100	1		10	1	99	13	9h9	polearm			256	35000	dred	dred		invsbru				swing3
 Djinnslayer	100	1		10	1	99	18	9cs	claws			256	44500	lblu	lblu		invscmu				swing3		70	70	openwounds		60	100	rip		1	1	knock		1	1	manasteal		8	24	lifesteal		8	24	nofreeze		1	1	res-all		40	40	slow		40	75													0
 Deathbit	100	1		10	1	99	17	9tk	thrown			256	42500	lgry	lgry						deadly		50	50	dmg%		150	250	att		300	450	lifesteal		10	14	manasteal		6	9	rep-quant		25	25																									0
 Warshrike	100	1		10	1	99	16	8l8	bow			256	41500	lgld	lgld		invtk3				knock		1	1	hit-skill	53	10	15	dmg-norm		100	200	swing3		60	60	rip		1	1	magicarrow		1	1																									0
-Gutsiphon	100	1		10	1	99	13	pik	spear			256	35000	oran	oran		invrxbu				deadly		40	40	openwounds		40	70	reduce-ac		80	80	dmg-ac		-100	-100																																	0
+Gutsiphon	100	1		10	1	99	13	pik	spear			256	35000	oran	oran		invrxbu				deadly		40	40	openwounds		40	70	reduce-ac		50	50	dmg-ac		-100	-100																																	0
 Razoredge	100	1		10	1	99	13	9bs	sword			256	35000	cgrn	cgrn		invhaxu				swing3		60	60	openwounds		100	100	rip		1	1	dmg/lvl	4			dmg-norm		100	180																													0
 Gore Ripper	100	1		10	1	99	13	hgl	gloves			256	35000	cred	cred						knock		1	1	att%/lvl	4			ac%/lvl	4			dmg%/lvl	4			dur		10	20																													0
 Demonlimb	100	1		10	1	99	13	9m9	mace			256	35000	cgrn	cgrn		invspcu				crush		40	70	stupidity		50	80	swing2		40	40	cold-min		60	60	cold-max		160	160	cold-len		200	300																									0

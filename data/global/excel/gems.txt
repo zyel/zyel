@@ -38,7 +38,7 @@ El Rune	El	18	r01	1	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	e
 Eld Rune	Eld	18	r02	1	empty		1	1	slow		25	25					empty		1	1	stamdrain		15	15					empty		1	1	block		7	7				
 Tir Rune	Tir	18	r03	1	empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2				
 Nef Rune	Nef	18	r04	1	empty		1	1	heal-kill		10	10					empty		1	1	heal-kill		10	10					empty		1	1	heal-kill		10	10				
-Eth Rune	Eth	18	r05	1	empty		1	1	reduce-ac		25	25					empty		1	1	ac		25	25					empty		1	1	ac		25	25				
+Eth Rune	Eth	18	r05	1	empty		1	1	dmg-ac		-25	-25					empty		1	1	ac		25	25					empty		1	1	ac		25	25				
 Ith Rune	Ith	18	r06	1	empty		1	1	dmg-max		20	20					empty		1	1	res-mag		30	30					empty		1	1	res-mag		30	30				
 Tal Rune	Tal	18	r07	1	empty		1	1	dmg-pois	25	307	307					empty		1	1	res-pois		30	30					empty		1	1	res-pois		30	30				
 Ral Rune	Ral	18	r08	1	empty		1	1	dmg-fire		5	30					empty		1	1	res-fire		30	30					empty		1	1	res-fire		30	30				
