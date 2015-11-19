@@ -3,15 +3,15 @@ of Health	1	1	1	7	49	5			0	1	1001	red-dmg	0	1	1		0	0	0		0	0	0			tors	shld	ring	a
 of Protection	1	1	1	18	98	13			0	1	1002	red-dmg	0	2	2		0	0	0		0	0	0			ring	amul	circ	    	    	    	    	    	    	    	0	0	0
 of Absorption	1	1	1	26	0	19			0	1	1003	red-dmg	0	3	3		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
 of Life	1	1	1	35	0	26			0	1	1004	red-dmg	0	4	4		0	0	0		0	0	0	1	dblu	amul	circ	    	    	    	    	    	    	    	    	0	0	0
-of Life Everlasting	100	1	0	45	0	37			0	1	1005	red-dmg	0	10	25		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
+of Life Everlasting	100	1	1	45	0	37			0	1	1005	red-dmg	0	10	25		0	0	0		0	0	0			amul	circ	    	    	    	    	    	    	    	    	0	0	0
 of Protection	1	1	1	24	0	18			0	1	1006	red-dmg	0	2	2		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
 of Absorption	1	1	1	32	0	24			0	1	1007	red-dmg	0	3	3		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
 of Life	1	1	1	41	0	33			0	1	1008	red-dmg	0	4	7		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
-of Anima	100	1	0	51	0	43			0	1	1009	red-dmg	0	8	15		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
+of Anima	100	1	1	51	0	43			0	1	1009	red-dmg	0	8	15		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
 of Warding	1	1	1	7	49	5			0	1	1010	red-mag	0	1	1		0	0	0		0	0	0			tors	shld	ring	amul	orb 	circ	    	    	    	    	0	0	0
 of the Sentinel	1	1	1	18	98	12			0	1	1011	red-mag	0	2	2		0	0	0		0	0	0			ring	amul	orb 	circ	    	    	    	    	    	    	0	0	0
 of Guarding	1	1	1	26	0	19			0	1	1012	red-mag	0	3	3		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
-of Negation	100	1	0	42	0	35			0	1	1013	red-mag	0	4	6		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
+of Negation	100	1	1	42	0	35			0	1	1013	red-mag	0	4	6		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
 of the Sentinel	1	1	1	24	0	18			0	1	1014	red-mag	0	2	2		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
 of Guarding	1	1	1	32	0	24			0	1	1015	red-mag	0	3	3		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
 of Negation	100	1	1	41	0	33			0	1	1016	red-mag	0	4	6		0	0	0		0	0	0			tors	shld	circ	    	    	    	    	    	    	    	0	0	0
@@ -42,7 +42,7 @@ of Thawing	100	0	1	22	0	16			0	1	1040	abs-cold	0	3	3		0	0	0		0	0	0			amul	orb 	c
 of the Dunes	100	0	1	33	0	25			0	1	1041	abs-cold	0	4	5		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
 of the Sirocco	100	0	1	46	0	38			0	1	1042	abs-cold	0	6	8		0	0	0		0	0	0			amul	orb 	circ	    	    	    	    	    	    	    	0	0	0
 of Desire	100	0	1	23	0	17			0	1	1043	abs-cold	0	1	2		0	0	0		0	0	0			jewl	ncha	ocha	wcha	    	    	    	    	    	    	0	0	0
-of Piercing	1	1	1	25	0	18			0	1	1044	ignore-ac	0	1	1		0	0	0		0	0	0			rod 	knif	h2h 	mboq	mxbq	    	    	    	    	    	0	0	0
+of Piercing	100	0	1	25	0	18			0	1	1044	dmg-ac	0	-40	-70		0	0	0		0	0	0			rod 	knif	h2h 	mboq	mxbq	    	    	    	    	    	0	0	0
 of Bashing	100	0	1	16	0	12			0	1	1045	dmg-ac	0	-25	-40		0	0	0		0	0	0			blun	mboq	mxbq	    	    	    	    	wand	staf	orb 	0	0	0
 of Puncturing	100	0	1	6	0	4			0	1	1046	dmg-ac	0	-10	-20		0	0	0		0	0	0			spea	knif	h2h 	mboq	mxbq	    	    	    	    	    	0	0	0
 of Thorns	1	1	1	1	14	1			0	3	1047	thorns	0	3	10		0	0	0		0	0	0			tors	belt	shld	boot	    	    	    	    	    	    	0	0	0
