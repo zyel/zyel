@@ -2311,7 +2311,7 @@ CHOM2Healer	100	1		10	1	99	40	Ci6	CHOM			256	35000	lred	lred						regen		20	20	r
 CHOM2Icer	100	1		10	1	99	40	Ci7	CHOM			256	35000	lred	lred						regen		-16	-16	freeze		2	4	res-cold		100	100	dmg-cold	100	75	150	abs-cold		200	200	att-skill	55	5	10																									0
 CHOM2Master	100	1		10	1	99	40	Ci8	CHOM			256	35000	lred	lred						regen		-24	-24	allskills		10	10	all-stats		30	30	gold%		20	20	mag%		20	20																													0
 CHOM2Psycho	100	1		10	1	99	40	Ci9	CHOM			256	35000	lred	lred						regen		-16	-16	swing2		50	50	dmg-fire		12	48	dmg-cold	100	12	48	dmg-ltng		8	80	dmg-pois	50	120	120	stupidity		1	1																					0
-CHOM2Shield	100	1		10	1	99	40	Cia	CHOM			256	35000	lred	lred						regen		-16	-16			1200	1200	ac%		75	75	hp		500	500	red-dmg%		50	50	slow		25	25	charged	68	100	20																					0
+CHOM2Shield	100	1		10	1	99	40	Cia	CHOM			256	35000	lred	lred						regen		-16	-16	ac		1200	1200	ac%		75	75	hp		500	500	red-dmg%		50	50	slow		25	25	charged	68	100	20																					0
 CHOM2Skull	100	1		10	1	99	40	Cib	CHOM			256	35000	lred	lred						regen		-16	-16	charged	70	99	12	charged	80	50	12	charged	85	30	12	att-skill	78	5	10																													0
 CHOM2Slayer	100	1		10	1	99	40	Cic	CHOM			256	35000	lred	lred						regen		-20	-20	rip		1	1	crush		75	75	dmg-mag		150	300	noheal		1	1	pierce		50	50	lifesteal		5	5	manasteal		5	5	att-skill	76	8	10													0
 CHOM2Slogger	100	1		10	1	99	40	Cid	CHOM			256	35000	lred	lred						regen		-16	-16	slow		40	40	freeze		2	2	howl		50	50	stupidity		15	15	lifesteal		5	5	manasteal		5	5	att-skill	78	5	15																	0
