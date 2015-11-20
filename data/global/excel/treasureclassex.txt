@@ -1403,7 +1403,7 @@ Andariel (H)			-3						elx	1	Elite Gem	1	Andariel (H) - Base	1															0
 Duriel			-3						elx	1	Elite Gem	1	Duriel - Base	1															0
 Duriel (N)			-3						elx	1	Elite Gem	1	Duriel (N) - Base	1															0
 Duriel (H)			-3						elx	1	Elite Gem	1	Duriel (H) - Base	1															0
-BossSpecial			1					25	r33	5	luv	10	elx	25	Elite Gem	20	Dbox ONE	10	Dbox TWO	5									0
+BossSpecial			1					25	r33	10	luv	10	elx	25	Elite Gem	15	Dbox ONE	10	Dbox TWO	5									0
 Mephisto			-7						BossSpecial	3	Mephisto - Item	3	"gld,mul=2560"	1															0
 Mephisto (N)			-7						BossSpecial	3	Mephisto (N) - Item	3	"gld,mul=2560"	1															0
 Mephisto (H)			-7						BossSpecial	3	Mephisto (H) - Item	3	"gld,mul=2560"	1															0
