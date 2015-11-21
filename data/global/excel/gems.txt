@@ -47,7 +47,7 @@ Thul Rune	Thul	18	r10	1	empty		1	1	dmg-cold	50	10	20					empty		1	1	res-cold		30
 Amn Rune	Amn	18	r11	1	empty		1	1	lifesteal		5	5					empty		1	1	regen		7	7					empty		1	1	regen		7	7				
 Sol Rune	Sol	18	r12	1	empty		1	1	dmg-min		15	15					empty		1	1	red-dmg		10	10					empty		1	1	red-dmg		10	10				
 Shael Rune	Shael	18	r13	1	empty		1	1	swing2		20	20	cast2		20	20	empty		1	1	balance2		20	20					empty		1	1	block2		20	20				
-Dol Rune	Dol	18	r14	1	empty		1	1	openwounds		25	25					empty		1	1	thorns		15	15	light-thorns		15	15	empty		1	1	thorns		14	14	light-thorns		15	15
+Dol Rune	Dol	18	r14	1	empty		1	1	openwounds		25	25					empty		1	1	thorns		15	15	light-thorns		15	15	empty		1	1	thorns		15	15	light-thorns		15	15
 Hel Rune	Hel	18	r15	1	empty		1	1	att%		20	20					empty		1	1	ac%		20	20					empty		1	1	ac%		20	20				
 Io Rune	Io	18	r16	1	empty		1	1	vit		20	20					empty		1	1	vit		20	20					empty		1	1	vit		20	20				
 Lum Rune	Lum	18	r17	1	empty		1	1	enr		20	20					empty		1	1	enr		20	20					empty		1	1	enr		20	20				
@@ -55,16 +55,16 @@ Ko Rune	Ko	18	r18	1	empty		1	1	dex		20	20					empty		1	1	dex		20	20					empty		1
 Fal Rune	Fal	18	r19	1	empty		1	1	str		20	20					empty		1	1	str		20	20					empty		1	1	str		20	20				
 Lem Rune	Lem	18	r20	1	empty		1	1	mag%		15	15					empty		1	1	mag%		15	15					empty		1	1	mag%		15	15				
 Pul Rune	Pul	18	r21	1	empty		1	1	deadly		20	20					empty		1	1	regen-mana		15	15					empty		1	1	regen-mana		15	15				
-Um Rune	Um	18	r22	1	empty		1	1	crush		20	20					empty		1	1	res-all		10	10					empty		1	1	res-all		20	20				
+Um Rune	Um	18	r22	1	empty		1	1	crush		20	20					empty		1	1	res-all		15	15					empty		1	1	res-all		15	15				
 Mal Rune	Mal	18	r23	1	empty		1	1	dmg-mag		20	30					empty		1	1	red-mag		15	15					empty		1	1	red-mag		15	15				
 Ist Rune	Ist	18	r24	1	empty		1	1	extra-mag		2	2					empty		1	1	res-mag-max		3	3					empty		1	1	res-mag-max		3	3				
 Gul Rune	Gul	18	r25	1	empty		1	1	extra-pois		2	2					empty		1	1	res-pois-max		3	3					empty		1	1	res-pois-max		3	3				
 Vex Rune	Vex	18	r26	1	empty		1	1	extra-fire		2	2					empty		1	1	res-fire-max		3	3					empty		1	1	res-fire-max		3	3				
 Ohm Rune	Ohm	18	r27	1	empty		1	1	extra-ltng		2	2					empty		1	1	res-cold-max		3	3					empty		1	1	res-cold-max		3	3				
 Lo Rune	Lo	18	r28	1	empty		1	1	extra-cold		2	2					empty		1	1	res-ltng-max		3	3					empty		1	1	res-ltng-max		3	3				
-Sur Rune	Sur	18	r29	1	empty		1	1	manasteal		5	5					empty		1	1	mana%		5	5					empty		1	1	mana		200	200				
+Sur Rune	Sur	18	r29	1	empty		1	1	manasteal		5	5					empty		1	1	mana%		3	3					empty		1	1	mana		100	100				
 Ber Rune	Ber	18	r30	1	empty		1	1	dmg%		20	20					empty		1	1	red-dmg%		5	5					empty		1	1	red-dmg%		5	5				
-Jo Rune	Jah	18	r31	1	empty		1	1	noheal		1	1	rip		1	1	empty		1	1	hp%		5	5					empty		1	1	hp		200	200				
+Jo Rune	Jah	18	r31	1	empty		1	1	noheal		1	1	rip		1	1	empty		1	1	hp%		3	3					empty		1	1	hp		100	100				
 Cham Rune	Cham	18	r32	1	empty		1	1	freeze		2	2					empty		1	1	nofreeze		1	1					empty		1	1	nofreeze		1	1				
 Zod Rune	Zy	18	r33	1	empty		1	1	indestruct		1	1	light		1	1	empty		1	1	indestruct		1	1	light		1	1	empty		1	1	indestruct		1	1	light		1	1
 Jewel	Jewl	0	jew	0																																				
