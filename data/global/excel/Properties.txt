@@ -273,7 +273,7 @@ IncStat	1		1	25																															0
 SetStat	1		2	25																															0
 AddSkill	1		3	25																															0
 cubepoints	1			17	cubepoints_string																														0
-showkills	1			17	display_kills																														0
+stashgold	1			17	stashgold_string																														0
 extra-mag	1			1	passive_mag_mastery																														0
 empty	1			1	empty_string																														0
 str%	1			1	item_strength_percent																													none	0
@@ -286,3 +286,4 @@ mon-att	1			1	monster_att_def																														0
 mon-speed	1			8	monster_speed																														0
 mon-count	1			1	monster_playercount																														0
 basicskills	1		8	21	item_elemskill																													none	0
+showkills	1			17	display_kills																														0
