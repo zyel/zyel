@@ -1,2 +1,3 @@
 # Declare files that will always have CRLF line endings on checkout.
 *.txt text eol=crlf
+*.ini text eol=crlf
