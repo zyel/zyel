@@ -187,3 +187,4 @@ transformknight	184	3			1							1																																					fire_cast_
 passive_start1	185																																																																						0
 passive_start2	186																																																																						0
 passive_start3	187																																																																						0
+passive_start4	188																																																																						0

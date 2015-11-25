@@ -384,3 +384,7 @@ monster_resist1	381		1	10													1024		10	0	10	0			2	0	monster_playercount	
 monster_resist2	382		1	10													1024		10	0	10	0			2	0	monster_playercount	lightresist	poisonresist	magicresist																						0
 item_thorns_percent	383		1	15													1024		15	0	15	0			11	0		item_attackertakesdamage	item_attackertakeslightdamage										12	9	2	ModStr1v	ModStr1v	increaseswithplaylevelX								0
 stashgold_string	384		1	8													1024		8	100	1	0			2	0	goldbank	dummy											0	1	2	StashGold	StashGold									0
+poisonminstring	385		1	20													1024		8	100	20	0																	0	6	1	ModStr4i	ModStr4i	persec								0
+poisonmaxstring	386		1	20													1024		8	100	20	0																	0	6	1	ModStr4h	ModStr4h	persec								0
+poisonminmult	387		1	8													1024		8	100	8	0			2	8	poisonmindam	poisonminstring																								0
+poisonmaxmult	388		1	8													1024		8	100	8	0			2	8	poisonmaxdam	poisonmaxstring																								0
