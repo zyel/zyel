@@ -102,6 +102,7 @@ Runes 14			1					50	r27	10	r28	4	Runes 13	65															0
 Runes 15			1					50	r29	10	r30	4	Runes 14	70															0
 Runes 16			1					50	r31	10	r32	4	Runes 15	75															0
 Runes 17			1					50	r33	10	Runes 16	80																	0
+Runes Good			1					50	r33	10	r32	10	r31	10	r30	10	r29	10											0
 Hpotion 1 (N)			1					40	Flawed Gem	5	vps	3	yps	3	wms	3	rvs	2											0
 Hpotion 2 (N)			1					40	Flawed Gem	5	vps	3	yps	3	wms	3	rvs	2											0
 Hpotion 3 (N)			1					40	Flawed Gem	5	vps	4	yps	4	wms	4	rvs	3											0
@@ -1428,9 +1429,9 @@ Minion (H)			1					70	Gold1 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Dbox M
 Chimera			4	5	10	15	20		Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
 Chimera (N)			5	5	10	15	20		Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY6	1	Act 5 (N) Uitem A	1	0
 Chimera (H)			6	5	10	15	20		Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
-Voorlon			4	10	15	20	30		Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
-Voorlon (N)			5	10	15	20	30		Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY6	1	Act 5 (N) Uitem A	1	0
-Voorlon (H)			6	10	15	20	30		Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
+Voorlon			4	10	15	20	30		Gold5	40	Act 5 Equip B	25	Act 5 Junk	10	Act 5 Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 Uitem A	3	0
+Voorlon (N)			5	10	15	20	30		Gold5 (N)	40	Act 5 (N) Equip B	25	Act 5 (N) Junk	10	Act 5 (N) Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 (N) Uitem A	3	0
+Voorlon (H)			6	10	15	20	30		Gold5 (H)	40	Act 5 (H) Equip B	25	Act 5 (H) Junk	10	Act 5 (H) Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 (H) Uitem A	3	0
 Hellsprite			2						Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
 Hellsprite (N)			4						Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
 Hellsprite (H)			6						Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY3	1					0
