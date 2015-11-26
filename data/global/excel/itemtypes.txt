@@ -197,3 +197,5 @@ thumb A	thdA	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
 thumb E	thdE	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
 thumb Z	thdZ	trcd		0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	1		0		0							misc	0
 thumb poster	kcha	char		0	0					0	0	0	0	0	1	0	1	0	0	0	0	0	0	3		0		0							misc	0
+Royal Gem	gem5	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0
+Imperial Gem	gem6	gem		0	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc	0

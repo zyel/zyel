@@ -4,36 +4,50 @@ Flawed Amethyst	Amy	18	gfv	3	empty		1	1	att%		30	30					empty		1	1	str		10	10			
 Amethyst	Amy	18	gsv	3	empty		1	1	att%		45	45					empty		1	1	str		15	15					empty		1	1	ac%		60	60				
 Flawless Amethyst	Amy	18	gzv	3	empty		1	1	att%		60	60					empty		1	1	str		20	20					empty		1	1	ac%		80	80				
 Perfect Amethyst	Amy	17	gpv	3	empty		1	1	att%		75	75					empty		1	1	str		25	25					empty		1	1	ac%		100	100				
+Royal Amethyst	Amy	17	grv	3	empty		1	1	att%		90	90					empty		1	1	str		30	30					empty		1	1	ac%		120	120				
+Imperial Amethyst	Amy	17	giv	3	empty		1	1	att%		105	105					empty		1	1	str		35	35					empty		1	1	ac%		140	140				
 Chipped Saphire	Sap	5	gcb	3	empty		1	1	dmg-cold	25	4	6					empty		1	1	mana		20	20					empty		1	1	res-cold		10	10				
 Flawed Saphire	Sap	5	gfb	3	empty		1	1	dmg-cold	50	8	12					empty		1	1	mana		40	40					empty		1	1	res-cold		20	20				
 Saphire	Sap	5	gsb	3	empty		1	1	dmg-cold	75	12	18					empty		1	1	mana		60	60					empty		1	1	res-cold		30	30				
 Flwless Saphire	Sap	5	glb	3	empty		1	1	dmg-cold	100	16	24					empty		1	1	mana		80	80					empty		1	1	res-cold		40	40				
 Perfect Saphire	Sap	6	gpb	3	empty		1	1	dmg-cold	125	20	30					empty		1	1	mana		100	100					empty		1	1	res-cold		50	50				
+Royal Saphire	Sap	6	grb	3	empty		1	1	dmg-cold	150	24	36					empty		1	1	mana		120	120					empty		1	1	res-cold		60	60				
+Imperial Saphire	Sap	6	gib	3	empty		1	1	dmg-cold	175	28	42					empty		1	1	mana		140	140					empty		1	1	res-cold		70	70				
 Chipped Emerald	Ema	11	gcg	3	empty		1	1	dmg-pois	50	52	52					empty		1	1	dex		5	5					empty		1	1	res-pois		10	10				
 Flawed Emerald	Ema	11	gfg	3	empty		1	1	dmg-pois	50	103	103					empty		1	1	dex		10	10					empty		1	1	res-pois		20	20				
 Emerald	Ema	11	gsg	3	empty		1	1	dmg-pois	50	154	154					empty		1	1	dex		15	15					empty		1	1	res-pois		30	30				
 Flawless Emerald	Ema	11	glg	3	empty		1	1	dmg-pois	50	205	205					empty		1	1	dex		20	20					empty		1	1	res-pois		40	40				
 Perfect Emerald	Ema	12	gpg	3	empty		1	1	dmg-pois	50	256	256					empty		1	1	dex		25	25					empty		1	1	res-pois		50	50				
+Royal Emerald	Ema	12	grg	3	empty		1	1	dmg-pois	50	308	308					empty		1	1	dex		30	30					empty		1	1	res-pois		60	60				
+Imperial Emerald	Ema	12	gig	3	empty		1	1	dmg-pois	50	359	359					empty		1	1	dex		35	35					empty		1	1	res-pois		70	70				
 Chipped Ruby	Rub	8	gcr	3	empty		1	1	dmg-fire		4	8					empty		1	1	hp		25	25					empty		1	1	res-fire		10	10				
 Flawed Ruby	Rub	8	gfr	3	empty		1	1	dmg-fire		8	16					empty		1	1	hp		50	50					empty		1	1	res-fire		20	20				
 Ruby	Rub	8	gsr	3	empty		1	1	dmg-fire		12	24					empty		1	1	hp		75	75					empty		1	1	res-fire		30	30				
 Flawless Ruby	Rub	8	glr	3	empty		1	1	dmg-fire		16	32					empty		1	1	hp		100	100					empty		1	1	res-fire		40	40				
 Perfect Ruby	Rub	9	gpr	3	empty		1	1	dmg-fire		20	40					empty		1	1	hp		125	125					empty		1	1	res-fire		50	50				
+Royal Ruby	Rub	9	grr	3	empty		1	1	dmg-fire		24	48					empty		1	1	hp		150	150					empty		1	1	res-fire		60	60				
+Imperial Ruby	Rub	9	gir	3	empty		1	1	dmg-fire		28	56					empty		1	1	hp		175	175					empty		1	1	res-fire		70	70				
 Chipped Diamond	Dia	1	gcw	3	empty		1	1	dmg-mag		4	5					empty		1	1	red-mag		2	2					empty		1	1	res-mag		10	10				
 Flawed Diamond	Dia	1	gfw	3	empty		1	1	dmg-mag		8	10					empty		1	1	red-mag		5	5					empty		1	1	res-mag		20	20				
 Diamond	Dia	1	gsw	3	empty		1	1	dmg-mag		12	15					empty		1	1	red-mag		9	9					empty		1	1	res-mag		30	30				
 Flawless Diamond	Dia	1	glw	3	empty		1	1	dmg-mag		16	20					empty		1	1	red-mag		14	14					empty		1	1	res-mag		40	40				
 Perfect Diamond	Dia	0	gpw	3	empty		1	1	dmg-mag		20	25					empty		1	1	red-mag		20	20					empty		1	1	res-mag		50	50				
+Royal Diamond	Dia	0	grw	3	empty		1	1	dmg-mag		24	30					empty		1	1	red-mag		27	27					empty		1	1	res-mag		60	60				
+Imperial Diamond	Dia	0	giw	3	empty		1	1	dmg-mag		28	35					empty		1	1	red-mag		35	35					empty		1	1	res-mag		70	70				
 Chipped Topaz	Top	14	gcy	3	empty		1	1	dmg-ltng		1	12					empty		1	1	red-dmg		2	2					empty		1	1	res-ltng		10	10				
 Flawed Topaz	Top	14	gfy	3	empty		1	1	dmg-ltng		2	24					empty		1	1	red-dmg		5	5					empty		1	1	res-ltng		20	20				
 Topaz	Top	14	gsy	3	empty		1	1	dmg-ltng		3	36					empty		1	1	red-dmg		9	9					empty		1	1	res-ltng		30	30				
 Flawless Topaz	Top	14	gly	3	empty		1	1	dmg-ltng		4	48					empty		1	1	red-dmg		14	14					empty		1	1	res-ltng		40	40				
 Perfect Topaz	Top	13	gpy	3	empty		1	1	dmg-ltng		5	60					empty		1	1	red-dmg		20	20					empty		1	1	res-ltng		50	50				
+Royal Topaz	Top	13	gry	3	empty		1	1	dmg-ltng		6	72					empty		1	1	red-dmg		27	27					empty		1	1	res-ltng		60	60				
+Imperial Topaz	Top	13	giy	3	empty		1	1	dmg-ltng		7	84					empty		1	1	red-dmg		35	35					empty		1	1	res-ltng		70	70				
 Chipped Skull	Sku	2	skc	3	empty		1	1	lifesteal		1	1	manasteal		1	1	empty		1	1	regen		3	3	regen-mana		5	5	empty		1	1	thorns		10	10				
 Flawed Skull	Sku	2	skf	3	empty		1	1	lifesteal		2	2	manasteal		2	2	empty		1	1	regen		6	6	regen-mana		10	10	empty		1	1	thorns		20	20				
 Skull	Sku	2	sku	3	empty		1	1	lifesteal		3	3	manasteal		3	3	empty		1	1	regen		9	9	regen-mana		15	15	empty		1	1	thorns		40	40				
 Flawless Skull	Sku	2	skl	3	empty		1	1	lifesteal		4	4	manasteal		4	4	empty		1	1	regen		12	12	regen-mana		20	20	empty		1	1	thorns		80	80				
-Perfect Skull	Sku	3	skz	3	empty		1	1	lifesteal		5	5	manasteal		5	5	empty		1	1	regen		15	15	regen-mana		25	25	empty		1	1	thorns		160	160				
+Perfect Skull	Sku	3	skz	3	empty		1	1	lifesteal		5	5	manasteal		5	5	empty		1	1	regen		15	15	regen-mana		25	25	empty		1	1	thorns		140	140				
+Royal Skull	Sku	3	sko	3	empty		1	1	lifesteal		6	6	manasteal		6	6	empty		1	1	regen		18	18	regen-mana		30	30	empty		1	1	thorns		220	220				
+Imperial Skull	Sku	3	ski	3	empty		1	1	lifesteal		7	7	manasteal		7	7	empty		1	1	regen		21	21	regen-mana		35	35	empty		1	1	thorns		320	320				
 El Rune	El	18	r01	1	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10	empty		1	1	ease		-100	-100	ease-string		-10	-10
 Eld Rune	Eld	18	r02	1	empty		1	1	slow		25	25					empty		1	1	stamdrain		15	15					empty		1	1	block		7	7				
 Tir Rune	Tir	18	r03	1	empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2					empty		1	1	mana-kill		2	2				
