@@ -1,11 +1,11 @@
 name	letter	transform	code	nummods	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
-Chipped Amethyst	Amy	18	gcv	3	empty		1	1	att%		15	15					empty		1	1	str		5	5					empty		1	1	ac%		20	20				
-Flawed Amethyst	Amy	18	gfv	3	empty		1	1	att%		30	30					empty		1	1	str		10	10					empty		1	1	ac%		40	40				
-Amethyst	Amy	18	gsv	3	empty		1	1	att%		45	45					empty		1	1	str		15	15					empty		1	1	ac%		60	60				
-Flawless Amethyst	Amy	18	gzv	3	empty		1	1	att%		60	60					empty		1	1	str		20	20					empty		1	1	ac%		80	80				
-Perfect Amethyst	Amy	17	gpv	3	empty		1	1	att%		75	75					empty		1	1	str		25	25					empty		1	1	ac%		100	100				
-Royal Amethyst	Amy	17	grv	3	empty		1	1	att%		90	90					empty		1	1	str		30	30					empty		1	1	ac%		120	120				
-Imperial Amethyst	Amy	17	giv	3	empty		1	1	att%		105	105					empty		1	1	str		35	35					empty		1	1	ac%		140	140				
+Chipped Amethyst	Amy	18	gcv	3	empty		1	1	att		30	30					empty		1	1	str		5	5					empty		1	1	ac		30	30				
+Flawed Amethyst	Amy	18	gfv	3	empty		1	1	att		60	60					empty		1	1	str		10	10					empty		1	1	ac		60	60				
+Amethyst	Amy	18	gsv	3	empty		1	1	att		90	90					empty		1	1	str		15	15					empty		1	1	ac		90	90				
+Flawless Amethyst	Amy	18	gzv	3	empty		1	1	att		120	120					empty		1	1	str		20	20					empty		1	1	ac		120	120				
+Perfect Amethyst	Amy	17	gpv	3	empty		1	1	att		150	150					empty		1	1	str		25	25					empty		1	1	ac		150	150				
+Royal Amethyst	Amy	17	grv	3	empty		1	1	att		180	180					empty		1	1	str		30	30					empty		1	1	ac		180	180				
+Imperial Amethyst	Amy	17	giv	3	empty		1	1	att		210	210					empty		1	1	str		35	35					empty		1	1	ac		210	210				
 Chipped Saphire	Sap	5	gcb	3	empty		1	1	dmg-cold	25	4	6					empty		1	1	mana		20	20					empty		1	1	res-cold		10	10				
 Flawed Saphire	Sap	5	gfb	3	empty		1	1	dmg-cold	50	8	12					empty		1	1	mana		40	40					empty		1	1	res-cold		20	20				
 Saphire	Sap	5	gsb	3	empty		1	1	dmg-cold	75	12	18					empty		1	1	mana		60	60					empty		1	1	res-cold		30	30				
