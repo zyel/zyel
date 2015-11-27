@@ -388,3 +388,7 @@ poisonminstring	385		1	20													1024		8	100	20	0																	0	6	1	Mod
 poisonmaxstring	386		1	20													1024		8	100	20	0																	0	6	1	ModStr4h	ModStr4h	persec								0
 poisonminmult	387		1	8													1024		8	100	8	0			2	8	poisonmindam	poisonminstring																								0
 poisonmaxmult	388		1	8													1024		8	100	8	0			2	8	poisonmaxdam	poisonmaxstring																								0
+maxdamageresist	389		1	9											1091	409	1024		5	0	5	0																	46	4	1	ModStr5x	ModStr5x									0
+passive_phys_pierce	390		1	9												2812	1024		8	0	8	56																	88	20	1	Moditemenresmagicsk	Moditemenresmagicsk									0
+manadrainresist	391		1	9											164	68	1024		9	0	8	56																	41	4	2	ModStr1m	ModStr1m									0
+maxmanadrainresist	392		1	9											1091	409	1024		5	0	5	0																	46	4	1	ModStr5x	ModStr5x									0
