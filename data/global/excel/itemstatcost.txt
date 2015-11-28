@@ -186,7 +186,7 @@ cubepoints	183			31			1	0	31								1024																						0	1	2	CubePoints	C
 killcounter	184			32			1	0	32								1024														1								1	3	1	sdkills	sdkills									0
 unused185	185																1024																																			0
 unused186	186																1024																																			0
-dummy	187																1024																																			0
+dummy	187			15													1024		15	0	15	0																	0	1	1	CBGain	CBGain									0
 item_addskill_tab	188		1	3	6						1				11042	768	1024		3	0	3	0	16																151	14		StrSklTabItem1	StrSklTabItem1									0
 unused189	189																1024																																			0
 unused190	190																1024																																			0

@@ -287,3 +287,4 @@ mon-speed	1			8	monster_speed																														0
 mon-count	1			1	monster_playercount																														0
 basicskills	1		8	21	item_elemskill																													none	0
 showkills	1			17	display_kills																														0
+cubepointsgain	1			17	dummy																														0
