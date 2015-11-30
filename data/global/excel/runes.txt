@@ -1,5 +1,5 @@
 Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6	T1Code7	T1Param7	T1Min7	T1Max7	eol
-Runeword1	Ancient's Pledge	1		shld									r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
+Runeword1	Ancient's Pledge	1		shld									r08	r09	r07				res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
 Runeword43	Amity	1		scep	mace	club							r10	r03	r02				att-undead		200	200	dmg-undead		200	200	mana-kill		4	4	freeze		1	1	dmg-cold	150	6	30	regen		4	6	slow		20	30	0
 Runeword2	Armageddon	1		mele									r13	r30	r07	r09	r08		swing3		120	200	crush		50	80	dmg-pois	50	400	400	dmg-fire		180	250	dmg-ltng		40	200	dmg-cold	100	60	120	charged	249	50	20	0
 Runeword3	Authority	1		staf									r21	r03	r12				att-demon		300	300	dmg-demon		400	400	ac%		50	50	mana-kill		10	10	dmg-min		20	40	charged	226	10	20					0
@@ -385,7 +385,7 @@ Runeword384	Bone Spell	1		tors	shld								r23	r16	r08	r14			slow		20	40	ac%		30
 Runeword385	Cold Spell	1		tors	shld								r16	r08	r14	r23			slow		20	40	ac%		30	50	light-thorns		10	60	hit-skill	44	5	20	hit-skill	40	3	20	rep-dur	5							0
 Runeword386	Heat Spell	1		tors	shld								r08	r14	r23	r16			slow		20	40	ac%		30	50	light-thorns		10	60	hit-skill	51	5	20	hit-skill	56	5	20	rep-dur	5							0
 Runeword387	Light Spell	1		tors	shld								r14	r23	r16	r08			slow		20	40	ac%		30	50	light-thorns		10	60	hit-skill	38	5	20	hit-skill	53	5	20	rep-dur	5							0
-Runeword388	Ancient's Pledge?	1		hcha									r08	r09	r07				res-cold		15	15	res-all		6	6	ac%		25	25	dmg-to-mana		5	5													0
+Runeword388	Ancient's Pledge?	1		hcha									r08	r09	r07				res-cold		30	30	res-mag		30	30	ac%		25	25	dmg-to-mana		5	5													0
 Runeword389	Amity?	1		qcha									r10	r03	r02				att-undead		100	100	dmg-undead		100	100	mana-kill		2	2	freeze		1	1	dmg-cold	75	3	15	regen		2	3	slow		10	15	0
 Runeword390	Black?	1		qcha									r10	r16	r04				hit-skill	44	3	5	dmg-max		10	10	swing2		7	7	red-mag		1	1	att		25	25	charged	74	6	2					0
 Runeword391	Bone?	1		tcha									r14	r04	r17				howl		37	37	regen		4	4	knock		1	1	ac-miss		100	100	charged	68	24	7	enr		7	7	dex		7	7	0
@@ -1882,28 +1882,28 @@ Runeword1881	Accordance	1		tors	shld								r22	r21	r09	gpw			res-all		30	30	ac%
 Runeword1882	Accordance	1		tors	shld								r22	r21	r09	ski			res-all		30	30	ac%		75	75	light		5	5	allskills		2	2	charged	58	50	15	rep-dur	5							0
 Runeword1883	Accordance	1		tors	shld								r22	r21	r09	sko			res-all		30	30	ac%		75	75	light		5	5	allskills		2	2	charged	58	50	15	rep-dur	5							0
 Runeword1884	Accordance	1		tors	shld								r22	r21	r09	skz			res-all		30	30	ac%		75	75	light		5	5	allskills		2	2	charged	58	50	15	rep-dur	5							0
-Runeword1885	Ancient's Legacy	1		shld									r08	r09	r07	jew			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1886	Ancient's Legacy	1		shld									r08	r09	r07	giv			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1887	Ancient's Legacy	1		shld									r08	r09	r07	grv			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1888	Ancient's Legacy	1		shld									r08	r09	r07	gpv			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1889	Ancient's Legacy	1		shld									r08	r09	r07	giy			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1890	Ancient's Legacy	1		shld									r08	r09	r07	gry			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1891	Ancient's Legacy	1		shld									r08	r09	r07	gpy			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1892	Ancient's Legacy	1		shld									r08	r09	r07	gib			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1893	Ancient's Legacy	1		shld									r08	r09	r07	grb			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1894	Ancient's Legacy	1		shld									r08	r09	r07	gpb			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1895	Ancient's Legacy	1		shld									r08	r09	r07	gig			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1896	Ancient's Legacy	1		shld									r08	r09	r07	grg			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1897	Ancient's Legacy	1		shld									r08	r09	r07	gpg			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1898	Ancient's Legacy	1		shld									r08	r09	r07	gir			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1899	Ancient's Legacy	1		shld									r08	r09	r07	grr			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1900	Ancient's Legacy	1		shld									r08	r09	r07	gpr			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1901	Ancient's Legacy	1		shld									r08	r09	r07	giw			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1902	Ancient's Legacy	1		shld									r08	r09	r07	grw			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1903	Ancient's Legacy	1		shld									r08	r09	r07	gpw			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1904	Ancient's Legacy	1		shld									r08	r09	r07	ski			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1905	Ancient's Legacy	1		shld									r08	r09	r07	sko			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword1906	Ancient's Legacy	1		shld									r08	r09	r07	skz			res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
+Runeword1885	Ancient's Legacy	1		shld									r08	r09	r07	jew			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1886	Ancient's Legacy	1		shld									r08	r09	r07	giv			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1887	Ancient's Legacy	1		shld									r08	r09	r07	grv			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1888	Ancient's Legacy	1		shld									r08	r09	r07	gpv			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1889	Ancient's Legacy	1		shld									r08	r09	r07	giy			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1890	Ancient's Legacy	1		shld									r08	r09	r07	gry			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1891	Ancient's Legacy	1		shld									r08	r09	r07	gpy			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1892	Ancient's Legacy	1		shld									r08	r09	r07	gib			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1893	Ancient's Legacy	1		shld									r08	r09	r07	grb			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1894	Ancient's Legacy	1		shld									r08	r09	r07	gpb			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1895	Ancient's Legacy	1		shld									r08	r09	r07	gig			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1896	Ancient's Legacy	1		shld									r08	r09	r07	grg			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1897	Ancient's Legacy	1		shld									r08	r09	r07	gpg			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1898	Ancient's Legacy	1		shld									r08	r09	r07	gir			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1899	Ancient's Legacy	1		shld									r08	r09	r07	grr			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1900	Ancient's Legacy	1		shld									r08	r09	r07	gpr			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1901	Ancient's Legacy	1		shld									r08	r09	r07	giw			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1902	Ancient's Legacy	1		shld									r08	r09	r07	grw			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1903	Ancient's Legacy	1		shld									r08	r09	r07	gpw			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1904	Ancient's Legacy	1		shld									r08	r09	r07	ski			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1905	Ancient's Legacy	1		shld									r08	r09	r07	sko			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
+Runeword1906	Ancient's Legacy	1		shld									r08	r09	r07	skz			res-cold		30	30	res-mag		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10									0
 Runeword1907	Authorize	1		staf									r21	r03	r12	jew			att-demon		300	300	dmg-demon		400	400	ac%		50	50	mana-kill		10	10	dmg-min		20	40	charged	226	10	20					0
 Runeword1908	Authorize	1		staf									r21	r03	r12	giv			att-demon		300	300	dmg-demon		400	400	ac%		50	50	mana-kill		10	10	dmg-min		20	40	charged	226	10	20					0
 Runeword1909	Authorize	1		staf									r21	r03	r12	grv			att-demon		300	300	dmg-demon		400	400	ac%		50	50	mana-kill		10	10	dmg-min		20	40	charged	226	10	20					0
