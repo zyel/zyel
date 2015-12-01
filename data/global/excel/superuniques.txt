@@ -37,7 +37,7 @@ Taintbreeder	Taintbreeder	magog	34		6	7	8	8	8	0	1	0		10	10	10	Act 2 Super A	Act 
 Riftwraith the Cannibal	Riftwraith the Cannibal	regurgitator3	35		18	26	30	16	16	0	1	0		25	25	25	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	
 Infector of Souls	Infector of Souls	megademon4	36		6	27	30	18	18	0	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	
 Lord De Seis	Lord De Seis	doomknight4	37		5	30	24	10	10	0	1	0		11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	
-Grand Vizier of Chaos	Grand Vizier of Chaos	fingermage4	38		5	6	30	18	18	0	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	
+Grand Vizier of Chaos	Grand Vizier of Chaos	fingermage4	38		5	6	30	12	12	0	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	
 The Cow King	The Cow King	hellbovine	39		6	17	30	12	12	0	1	0		27	27	27	Cow King	Cow King (N)	Cow King (H)	
 Corpsefire	Corpsefire	zombie2	40		27	26	5	10	10	0	1	0		25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	
 The Feature Creep	The Feature Creep	hephasto	41	smithdemon	27	30	23	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	
