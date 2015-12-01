@@ -307,9 +307,9 @@ quillbear2	1	0	mon4	neck	7							0
 quillbear3	1	0	mon4	neck	7							0
 quillbear4	1	0	mon4	neck	7							0
 quillbear5	1	0	mon4	neck	7							0
-snake	1	0	mon4	neck	7							0
-parrot	1	0	mon4	neck	7							0
-fish	1	0	mon4	neck	7							0
+giant1	1	0	mon4	neck	7							0
+giant2	1	0	mon4	neck	7							0
+giant3	1	0	mon4	neck	7							0
 evilhole1	1	0	mon4	neck	7							0
 evilhole2	1	0	mon4	neck	7							0
 evilhole3	1	0	mon4	neck	7							0

@@ -87,7 +87,7 @@ Act	Place
 2	act2vendor1
 2	act2vendor2
 2	place_tightspotboss
-2	fish
+2	evilhole1
 2	place_talkingguard
 2	place_dumbguard
 2	place_maggot
