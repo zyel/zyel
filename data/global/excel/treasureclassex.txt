@@ -1370,78 +1370,78 @@ Swarm 2 (H)			1			100	200	50	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Mag
 Flying Scimitar			1					60	Act 2 Good	3	scm	57																	0
 Flying Scimitar (N)			1					60	Act 2 (N) Good	3	scm	25	9sm	32															0
 Flying Scimitar (H)			1					60	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32													0
-Blood Raven			5	100	150	400	650		Gold5	40	Act 1 Equip B	20	Act 1 Junk	10	Act 1 Good	5	Cscroll Main	15	elx	1	rvs	5	Gremlin Main	10					0
+Blood Raven			5	100	150	400	650		Gold4	40	Act 1 Equip B	20	Act 1 Junk	10	Act 1 Good	5	Cscroll Main	15	elx	1	rvs	5	Gremlin Main	10					0
 Blood Raven (N)			5	100	150	400	650		Gold5 (N)	40	Act 1 (N) Equip B	20	Act 1 (N) Junk	10	Act 1 (N) Good	5	Cscroll Main	15	elx	1	rvs	5	Haunted 1	10					0
-Blood Raven (H)			5	100	150	400	650		Gold5 (H)	40	Act 1 (H) Equip B	20	Act 1 (H) Junk	10	Act 1 (H) Good	5	Cscroll Main	15	elx	1	rvs	5	Haunted 2	10					0
-Griswold			3						Gold5	50	Act 1 Uitem C	5	Act 1 Melee B	10	Cscroll Main	15	elx	1	rvl	2	Gremlin Main	5	Act 1 Uitem A	1					0
+Blood Raven (H)			5	100	150	400	650		Gold6 (H)	40	Act 1 (H) Equip B	20	Act 1 (H) Junk	10	Act 1 (H) Good	5	Cscroll Main	15	elx	1	rvs	5	Haunted 2	10					0
+Griswold			3						Gold4	50	Act 1 Uitem C	5	Act 1 Melee B	10	Cscroll Main	15	elx	1	rvl	2	Gremlin Main	5	Act 1 Uitem A	1					0
 Griswold (N)			3						Gold5 (N)	50	Act 1 (H) Uitem C	5	Act 1 (N) Melee B	10	Cscroll Main	15	elx	1	rvl	2	Haunted 5	10	Haunted 6	10	Act 1 (N) Uitem A	1			0
-Griswold (H)			3						Gold5 (H)	50	Act 1 (H) Uitem C	5	Act 1 (H) Melee B	10	Cscroll Main	15	elx	1	rvl	2	Haunted 6	10	Haunted 7	10	Act 1 (H) Uitem A	1			0
+Griswold (H)			3						Gold6 (H)	50	Act 1 (H) Uitem C	5	Act 1 (H) Melee B	10	Cscroll Main	15	elx	1	rvl	2	Haunted 6	10	Haunted 7	10	Act 1 (H) Uitem A	1			0
 Countess			3	150	300	600	900		Act 1 Uitem C	10	Act 1 Melee B	25	elx	1	Cscroll Main	15	Gremlin Main	10											0
 Countess (N)			3	150	300	600	900		Act 1 (H) Uitem C	10	Act 1 (N) Melee B	25	elx	2	Cscroll Main	15	Haunted 7	10											0
 Countess (H)			3	150	300	600	900		Act 1 (H) Uitem C	10	Act 1 (H) Melee B	25	elx	3	Cscroll Main	15	Haunted 8	10											0
 Smith			4	150	300	650	1024		Act 1 Uitem C	5	Act 1 Melee B	10	Cscroll Main	15	elx	1	Gremlin Main	10											0
 Smith (N)			4	150	300	650	1024		Act 1 (H) Uitem C	5	Act 1 (N) Melee B	10	Cscroll Main	15	elx	1	Haunted 3	10	Haunted 4	10									0
 Smith (H)			4	150	300	650	1024		Act 1 (H) Uitem C	5	Act 1 (H) Melee B	10	Cscroll Main	15	elx	1	Haunted 4	10	Haunted 5	10									0
-Radament			5	150	250	650	1024		Gold5	75	Act 3 Equip B	40	Act 3 Junk	30	Act 3 Good	15	Cscroll Main	15	elx	1	rvl	3	Gremlin Main	10	Act 2 Uitem A	1			0
+Radament			5	150	250	650	1024		Gold4	75	Act 3 Equip B	40	Act 3 Junk	30	Act 3 Good	15	Cscroll Main	15	elx	1	rvl	3	Gremlin Main	10	Act 2 Uitem A	1			0
 Radament (N)			5	150	250	650	1024		Gold5 (N)	75	Act 3 (N) Equip B	40	Act 3 (N) Junk	30	Act 3 (N) Good	15	Cscroll Main	15	elx	1	rvl	3	Haunted 1	10	Haunted 3	5	Act 2 (N) Uitem A	1	0
-Radament (H)			5	150	250	650	1024		Gold5 (H)	75	Act 3 (H) Equip C	40	Act 3 (H) Junk	30	Act 3 (H) Good	15	Cscroll Main	15	elx	1	rvl	3	Haunted 2	10	Haunted 4	5	Act 2 (H) Uitem A	1	0
-Summoner			6	200	400	750	1024		Gold5	50	Act 2 Equip C	15	Act 3 Junk	30	Act 2 Good	20	Act 3 Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Gremlin Main	5	Act 3 Uitem A	1	0
+Radament (H)			5	150	250	650	1024		Gold6 (H)	75	Act 3 (H) Equip C	40	Act 3 (H) Junk	30	Act 3 (H) Good	15	Cscroll Main	15	elx	1	rvl	3	Haunted 2	10	Haunted 4	5	Act 2 (H) Uitem A	1	0
+Summoner			6	200	400	750	1024		Gold4	50	Act 2 Equip C	15	Act 3 Junk	30	Act 2 Good	20	Act 3 Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Gremlin Main	5	Act 3 Uitem A	1	0
 Summoner (N)			6	200	400	750	1024		Gold5 (N)	50	Act 2 (N) Equip C	15	Act 3 (N) Junk	30	Act 2 (N) Good	20	Act 3 (N) Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Haunted 3	10	Act 3 (N) Uitem A	1	0
-Summoner (H)			6	200	400	750	1024		Gold5 (H)	50	Act 2 (H) Equip C	15	Act 3 (H) Junk	30	Act 2 (H) Good	20	Act 3 (H) Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Haunted 4	10	Act 3 (H) Uitem A	1	0
-Council			3	150	300	650	1024		Gold5	50	Act 4 Equip A	15	Act 4 Junk	30	Act 4 Good	20	Act 4 Magic A	10	Cscroll Main	15	elx	1	Gremlin Main	5	Act 3 Uitem A	1			0
+Summoner (H)			6	200	400	750	1024		Gold6 (H)	50	Act 2 (H) Equip C	15	Act 3 (H) Junk	30	Act 2 (H) Good	20	Act 3 (H) Magic A	10	Cscroll Main	15	Mscroll Main	1	elx	1	Haunted 4	10	Act 3 (H) Uitem A	1	0
+Council			3	150	300	650	1024		Gold4	50	Act 4 Equip A	15	Act 4 Junk	30	Act 4 Good	20	Act 4 Magic A	10	Cscroll Main	15	elx	1	Gremlin Main	5	Act 3 Uitem A	1			0
 Council (N)			3	150	300	650	1024		Gold5 (N)	50	Act 4 (N) Equip A	15	Act 4 (N) Junk	30	Act 4 (N) Good	20	Act 4 (N) Magic A	10	Cscroll Main	15	elx	1	Haunted Main	5	Act 3 (N) Uitem A	1			0
-Council (H)			3	150	300	650	1024		Gold5 (H)	50	Act 4 (H) Equip A	15	Act 4 (H) Junk	30	Act 4 (H) Good	20	Act 4 (H) Magic A	10	Cscroll Main	15	elx	1	Haunted Main	5	Act 3 (H) Uitem A	1			0
-Izual			5	150	300	650	1024		Gold5	50	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	5	elx	1	luv	1	Cscroll Main	15	Mscroll Main	2	Dbox Main	1	ZY5	1	0
+Council (H)			3	150	300	650	1024		Gold6 (H)	50	Act 4 (H) Equip A	15	Act 4 (H) Junk	30	Act 4 (H) Good	20	Act 4 (H) Magic A	10	Cscroll Main	15	elx	1	Haunted Main	5	Act 3 (H) Uitem A	1			0
+Izual			5	150	300	650	1024		Gold4	50	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	5	elx	1	luv	1	Cscroll Main	15	Mscroll Main	2	Dbox Main	1	ZY5	1	0
 Izual (N)			5	150	300	650	1024		Gold5 (N)	50	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	5	elx	1	luv	1	Haunted 5	10	Mscroll Main	2	Dbox Main	1	ZY5	1	0
-Izual (H)			5	150	300	650	1024		Gold5 (H)	50	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	5	elx	1	luv	1	Haunted 6	10	Mscroll Main	2	Dbox Main	1	ZY5	1	0
-Haphesto			6	150	300	650	1024		Gold5	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Gremlin Main	10					0
+Izual (H)			5	150	300	650	1024		Gold6 (H)	50	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	5	elx	1	luv	1	Haunted 6	10	Mscroll Main	2	Dbox Main	1	ZY5	1	0
+Haphesto			6	150	300	650	1024		Gold4	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Gremlin Main	10					0
 Haphesto (N)			6	150	300	650	1024		Gold5 (N)	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Haunted 9	10	Haunted 10	10			0
-Haphesto (H)			6	150	300	650	1024		Gold5 (H)	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Haunted 9	10	Haunted 10	10			0
-Nihlathak			6	200	400	750	1024		Gold5	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17	5	Gremlin Main	10	0
+Haphesto (H)			6	150	300	650	1024		Gold6 (H)	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	2	elx	1	Haunted 9	10	Haunted 10	10			0
+Nihlathak			6	200	400	750	1024		Gold4	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17	5	Gremlin Main	10	0
 Nihlathak (N)			6	200	400	750	1024		Gold5 (N)	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17 (N)	5	Haunted Main	10	0
-Nihlathak (H)			6	200	400	750	1024		Gold5 (H)	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17 (H)	5	Haunted Main	10	0
-Cow			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1					0
+Nihlathak (H)			6	200	400	750	1024		Gold6 (H)	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Cscroll Main	15	Mscroll Main	5	elx	2	luv	2	Runes 17 (H)	5	Haunted Main	10	0
+Cow			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1					0
 Cow (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1	Haunted 5	5			0
-Cow (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 8	5			0
-Drake			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
+Cow (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 8	5			0
+Drake			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
 Drake (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	cm7	1					0
-Drake (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1					0
-Majat			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	2	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
+Drake (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	1	luv	1					0
+Majat			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	2	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
 Majat (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	2	Cscroll Main	8	Mscroll Main	1	cm7	1					0
-Majat (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	2	Cscroll Main	8	Mscroll Main	1	luv	1					0
-Witch			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	cm7	1	Gremlin Main	5			0
+Majat (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	2	Cscroll Main	8	Mscroll Main	1	luv	1					0
+Witch			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	cm7	1	Gremlin Main	5			0
 Witch (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	cm7	1					0
-Witch (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	1	Cscroll Main	8	Mscroll Main	2	luv	1					0
-Banshee			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 Uitem A	1			0
+Witch (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	1	Cscroll Main	8	Mscroll Main	2	luv	1					0
+Banshee			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 Uitem A	1			0
 Banshee (N)			2					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 (N) Uitem A	1			0
-Banshee (H)			3					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 (H) Uitem A	1			0
-Whipper			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY1	1			0
+Banshee (H)			3					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	8	Mscroll Main	2	Dbox Main	1	Act 5 (H) Uitem A	1			0
+Whipper			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY1	1			0
 Whipper (N)			2					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY1	1			0
-Whipper (H)			3					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY2	1			0
-Knight			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Runes 16	3	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
+Whipper (H)			3					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Dbox Main	1	Cscroll Main	8	Mscroll Main	2	elx	2	ZY2	1			0
+Knight			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	Runes 16	3	Cscroll Main	8	Mscroll Main	1	cm7	1	Gremlin Main	5			0
 Knight (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	Runes 17 (N)	3	Cscroll Main	8	Mscroll Main	1	cm7	1	Haunted 6	5			0
-Knight (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	3	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 9	5			0
+Knight (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	Runes 17 (H)	3	Cscroll Main	8	Mscroll Main	1	luv	1	Haunted 9	5			0
 StygDoll			1					50	Gold1	40	Act 5 Equip A	30	Act 5 Junk	20	rvl	3	Gremlin Main	1											0
 StygDoll (N)			1					60	Gold1 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	rvl	3													0
 StygDoll (H)			2					70	Gold1 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	elx	1	rvl	3											0
-StygShaman			1					50	Gold5	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	cm7	1	Gremlin Main	5			0
+StygShaman			1					50	Gold4	40	Act 5 Equip A	30	Act 5 Junk	20	Act 5 Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	cm7	1	Gremlin Main	5			0
 StygShaman (N)			1					60	Gold5 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Act 5 (N) Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	cm7	1					0
-StygShaman (H)			2					70	Gold5 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	luv	1					0
+StygShaman (H)			2					70	Gold6 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Act 5 (H) Good	10	elx	1	Cscroll Main	5	Mscroll Main	2	luv	1					0
 Minion			1					50	Gold1	40	Act 5 Equip A	30	Act 5 Junk	20	Dbox Main	1	rvl	3	Gremlin Main	5	Act 5 Uitem A	1							0
 Minion (N)			1					60	Gold1 (N)	40	Act 5 (N) Equip A	30	Act 5 (N) Junk	20	Dbox Main	1	rvl	3	Haunted 7	10	Haunted 8	10	Act 5 (N) Uitem A	1					0
 Minion (H)			1					70	Gold1 (H)	40	Act 5 (H) Equip B	30	Act 5 (H) Junk	20	Dbox Main	1	rvl	3	Haunted 8	10	Haunted 9	10	Act 5 (H) Uitem A	1					0
-Chimera			4	5	10	15	20		Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
+Chimera			4	5	10	15	20		Gold4	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY5	1	Act 5 Uitem A	1	0
 Chimera (N)			5	5	10	15	20		Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY6	1	Act 5 (N) Uitem A	1	0
-Chimera (H)			6	5	10	15	20		Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
-Voorlon			4	10	15	20	30		Gold5	40	Act 5 Equip B	25	Act 5 Junk	10	Act 5 Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 Uitem A	3	0
+Chimera (H)			6	5	10	15	20		Gold6 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	3	luv	1	Mscroll Main	2	Dbox Main	2	ZY7	1	Act 5 (H) Uitem A	1	0
+Voorlon			4	10	15	20	30		Gold4	40	Act 5 Equip B	25	Act 5 Junk	10	Act 5 Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 Uitem A	3	0
 Voorlon (N)			5	10	15	20	30		Gold5 (N)	40	Act 5 (N) Equip B	25	Act 5 (N) Junk	10	Act 5 (N) Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 (N) Uitem A	3	0
-Voorlon (H)			6	10	15	20	30		Gold5 (H)	40	Act 5 (H) Equip B	25	Act 5 (H) Junk	10	Act 5 (H) Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 (H) Uitem A	3	0
-Hellsprite			2						Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
+Voorlon (H)			6	10	15	20	30		Gold6 (H)	40	Act 5 (H) Equip B	25	Act 5 (H) Junk	10	Act 5 (H) Good	10	elx	3	luv	2	Mscroll Main	2	Dbox Main	2	Runes Good	3	Act 5 (H) Uitem A	3	0
+Hellsprite			2						Gold4	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
 Hellsprite (N)			4						Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY2	1					0
-Hellsprite (H)			6						Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY3	1					0
-Ryokin			1						Gold5	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Lscroll Main	2	Dbox Main	2	cm7	1					0
+Hellsprite (H)			6						Gold6 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Mscroll Main	2	Dbox Main	2	ZY3	1					0
+Ryokin			1						Gold4	40	Act 4 Equip B	30	Act 4 Junk	20	Act 4 Good	10	elx	1	Lscroll Main	2	Dbox Main	2	cm7	1					0
 Ryokin (N)			2						Gold5 (N)	40	Act 4 (N) Equip B	30	Act 4 (N) Junk	20	Act 4 (N) Good	10	elx	1	Lscroll Main	2	Dbox Main	2	cm7	1					0
-Ryokin (H)			3						Gold5 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Lscroll Main	2	Dbox Main	2	luv	1					0
+Ryokin (H)			3						Gold6 (H)	40	Act 4 (H) Equip B	30	Act 4 (H) Junk	20	Act 4 (H) Good	10	elx	1	Lscroll Main	2	Dbox Main	2	luv	1					0
 Trapped Soul			1					50	Gold1	20	Act 4 Equip A	8	Act 4 Junk	33															0
 Trapped Soul (N)			1					60	Gold1 (N)	20	Act 4 (N) Equip A	8	Act 4 (N) Junk	33	Haunted 5	10													0
 Trapped Soul (H)			1					70	Gold1 (H)	20	Act 4 (H) Equip A	8	Act 4 (H) Junk	33	Haunted 6	10													0
