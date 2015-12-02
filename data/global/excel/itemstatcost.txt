@@ -155,7 +155,7 @@ item_indesctructible	152		1	1													1024		7	0	7	0																	160	3	0	
 item_cannotbefrozen	153		1	2											15011	2048	1024		1	0	1	0																	20	3	0	ModStr5z	ModStr5z									0
 item_staminadrainpct	154		1	31											102	20	1024		12	128	8	128												1					49	2	1	ModStr6e	ModStr6e									0
 item_reanimate	155			7	10						1						1024		7	0	7	0	10											1	kill	31			17	23	1	Moditemreanimas	Moditemreanimas									0
-item_pierce	156		1	7											1924	2048	1024		7	0	7	0												1					132	3	0	ModStr6g	ModStr6g									0
+item_pierce	156		1	7											500	512	1024		7	0	7	0												1					132	3	0	ModStr6g	ModStr6g									0
 item_magicarrow	157		1	7											511	1024	1024		7	0	7	0																	131	3	0	ModStr6h	ModStr6h									0
 item_explosivearrow	158		1	7											492	1536	1024		7	0	7	0																	133	3	0	ModStr6i	ModStr6i									0
 item_throw_mindamage	159		1	31											76	128	1024		16	0	16	0												1																		0
