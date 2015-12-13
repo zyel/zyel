@@ -328,10 +328,10 @@ progressive_tohit	325		1	16													1024																																			0
 poison_count	326		1	5													1024																	1																		0
 damage_framerate	327		1	8													1024																																			0
 pierce_idx	328		1	6													1024																																			0
-passive_fire_mastery	329		1	12											1117	415	1024		9	50	10	24																	88	4	1	ModitemdamFiresk	ModitemdamFiresk									0
-passive_ltng_mastery	330		1	12											1054	408	1024		9	50	10	24																	88	4	1	ModitemdamLtngsk	ModitemdamLtngsk									0
-passive_cold_mastery	331		1	12											1295	379	1024		9	50	10	24																	88	4	1	ModitemdamColdsk	ModitemdamColdsk									0
-passive_pois_mastery	332		1	12											978	394	1024		9	50	10	24																	88	4	1	ModitemdamPoissk	ModitemdamPoissk									0
+passive_fire_mastery	329		1	15											1117	415	1024		9	50	10	24																	88	4	1	ModitemdamFiresk	ModitemdamFiresk									0
+passive_ltng_mastery	330		1	15											1054	408	1024		9	50	10	24																	88	4	1	ModitemdamLtngsk	ModitemdamLtngsk									0
+passive_cold_mastery	331		1	15											1295	379	1024		9	50	10	24																	88	4	1	ModitemdamColdsk	ModitemdamColdsk									0
+passive_pois_mastery	332		1	15											978	394	1024		9	50	10	24																	88	4	1	ModitemdamPoissk	ModitemdamPoissk									0
 passive_fire_pierce	333		1	9												2578	1024		8	0	8	56																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
 passive_ltng_pierce	334		1	9												2493	1024		8	0	8	56																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
 passive_cold_pierce	335		1	9												1984	1024		8	0	8	56																	88	20	1	Moditemenrescoldsk	Moditemenrescoldsk									0
@@ -341,11 +341,11 @@ passive_dodge	338		1	9													1024		7	0	7	0																														0
 passive_avoid	339		1	9													1024		7	0	7	0																														0
 passive_evade	340		1	9													1024		7	0	7	0																														0
 passive_warmth	341		1	9													1024		8	0	8	0																														0
-passive_mastery_melee_th	342		1	11	8												1024		8	0	8	0																														0
-passive_mastery_melee_dmg	343		1	11	8												1024		8	0	8	0																														0
+passive_mastery_melee_th	342		1	15	8												1024		8	0	8	0																														0
+passive_mastery_melee_dmg	343		1	15	8												1024		8	0	8	0																														0
 passive_mastery_melee_crit	344		1	9	8												1024		8	0	8	0																														0
-passive_mastery_throw_th	345		1	11	8												1024		8	0	8	0																														0
-passive_mastery_throw_dmg	346		1	11	8												1024		8	0	8	0																														0
+passive_mastery_throw_th	345		1	15	8												1024		8	0	8	0																														0
+passive_mastery_throw_dmg	346		1	15	8												1024		8	0	8	0																														0
 passive_mastery_throw_crit	347		1	9	8												1024		8	0	8	0																														0
 passive_weaponblock	348		1	9	8												1024		8	0	8	0																														0
 passive_summon_resist	349		1	9													1024		8	0	8	0																														0
@@ -356,7 +356,7 @@ source_unit_type	353			5													1024																																			0
 source_unit_id	354			32													1024																																			0
 shortparam1	355			16													1024																																			0
 questitemdifficulty	356																1024		2	0	2	0																														0
-passive_mag_mastery	357		1	12											1211	431	1024		9	50	10	24																	88	4	1	ModitemdamMagicsk	ModitemdamMagicsk									0
+passive_mag_mastery	357		1	15											1211	431	1024		9	50	10	24																	88	4	1	ModitemdamMagicsk	ModitemdamMagicsk									0
 passive_mag_pierce	358		1	9												2812	1024		8	0	8	56																	88	20	1	Moditemenresmagicsk	Moditemenresmagicsk									0
 item_req_string	359		1	8													1024		8	100	8	100																	0	4	2	ModStr3h	ModStr3h									0
 cubepoints_string	360		1	8													1024		8	100	1	0			2	0	cubepoints	dummy											0	1	2	CubePoints	CubePoints									0
