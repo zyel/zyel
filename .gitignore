@@ -1,6 +1,8 @@
 .git
 BnetLog.txt
+debuglog*.txt
 PlugY.log
+save
 
 !*.dll
 !D2ModSetup.exe
