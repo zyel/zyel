@@ -476,7 +476,7 @@ Runeword475	Big Bird?	1		hcha									Ko + Dol + Tal	100	3	r18	r14	r07				dex		2
 Runeword476	Vanquish?	1		qcha									Lum + Tal + Amn	90	3	r17	r07	r11				lifesteal		6	6	res-pois		20	20	enr		15	20	knock		1	1	dmg-max		20	40	pal		1	1					0
 Runeword477	Vermilion?	1		qcha									Nef + Thul + Dol	60	3	r04	r10	r14				hit-skill	38	2	5	dmg-cold	75	25	40	howl		15	30	pierce		20	37	light		1	1	hit-skill	38	2	5	freeze		1	1	0
 Runeword478	Vermin?	1		tcha									Dol + Tir + Ith	60	3	r14	r03	r06				regen		5	5	mana-kill		2	2	dmg-max		25	25	dru		1	1	light		1	1	dmg-min		15	15					0
-Runeword479	Dog Eat Dog?	1		tcha									Tir + Eth	10	2	r03	r05					regen-mana		12	12	mana-kill		2	2	light		1	1	dru		1	1	gethit-skill	48	5	5									0
+Runeword479	Dog Eat Dog?	1		tcha	qcha								Tir + Eth	10	2	r03	r05					regen-mana		12	12	mana-kill		2	2	light		1	1	dru		1	1	gethit-skill	48	5	5									0
 Runeword480	Big Brother?	1		qcha									Ith + Ort + Dol + Amn	60	4	r06	r09	r14	r11			howl		50	50	dmg-ltng		8	100	lifesteal		4	4	dmg-max		20	20	hit-skill	66	5	5									0
 Runeword481	Band of Brothers?	1		tcha									Amn + Ral	40	2	r11	r08					thorns		5	5	res-fire		10	10	light		1	1	dmg-fire		10	25													0
 Runeword482	Big Sister?	1		qcha									Ort + Ith + Dol + Amn	60	4	r09	r06	r14	r11			mana-kill		1	3	dmg-ltng		4	50	lifesteal		2	4	dmg-max		10	20	knock		1	1	pierce		15	25	hit-skill	53	2	5	0
