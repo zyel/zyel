@@ -2,12 +2,12 @@ state	id	group	remhit	nosend	transform	aura	curable	curse	active	immed	restrict	
 none	0																																																																						0
 freeze	1												1																		1		1	1	1																							100	108	150	215	255	impact_bluemotize_1								0
 poison	2																																			1	1												poisonhit									95	104	128	255	128	impact_poison_1								0
-resistfire	3					1				1							1																											aura_resistfire					cast_resistfire		fireresist												paladin_aura_resistfire								0
-resistcold	4					1				1									1																									aura_resistcold					cast_resistcold		coldresist												paladin_aura_resistcold								0
-resistlight	5					1				1								1																										aura_resistlight					cast_resistlight		lightresist												paladin_aura_resistlightning								0
+resistfire	3	5				1				1							1																											aura_resistfire					cast_resistfire		fireresist												paladin_aura_resistfire								0
+resistcold	4	5				1				1									1																									aura_resistcold					cast_resistcold		coldresist												paladin_aura_resistcold								0
+resistlight	5	5				1				1								1																										aura_resistlight					cast_resistlight		lightresist												paladin_aura_resistlightning								0
 resistmagic	6																																																																						0
 playerbody	7																																																																						0
-resistall	8					1				1							1	1	1																									aura_resistall_front	aura_resistall_back				cast_resistall		lightresist												paladin_aura_salvation								0
+resistall	8	5				1				1							1	1	1																									aura_resistall_front	aura_resistall_back				cast_resistall		lightresist												paladin_aura_salvation								0
 amplifydamage	9						1	1																																				curseamplifydamage					curse_hit		damageresist												necromancer_amplifydamage								0
 frozenarmor	10	1														1																												frozenarmor							skill_armor_percent																				0
 cold	11												1																																						velocitypercent							100	108	150	215	255	impact_bluemotize_1								0
@@ -27,29 +27,29 @@ slowed	24																																																																						0
 fetishaura	25																																											fetish_aura							attackrate																				0
 shout	26					1										1																												shout					shoutstart		skill_armor_percent																				0
 taunt	27						1	1						1	1																													taunt																			barbarian_battlecry_state								0
-conviction	28					1																																						convictionfront	convictionback																		paladin_aura_purification								0
-convicted	29					1																		1	1	1	1																	convictionfront	convictionback						skill_conviction																				0
+conviction	28	4				1																																						convictionfront	convictionback																		paladin_aura_purification								0
+convicted	29	4				1																		1	1	1	1																	convictionfront	convictionback						skill_conviction																				0
 energyshield	30																																											energyshield																											0
 venomclaws	31																																																		poisonmindam					mele	cgrn														0
 battleorders	32					1																																						battleorders					battleorderscast		maxmana																				0
-might	33					1				1					1																													aura_might_front	aura_might_back						damagepercent												paladin_aura_might								0
-prayer	34					1																																						aura_prayer_front	aura_prayer_back																		paladin_aura_prayer								0
-holyfire	35					1																																						aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire								0
-thorns	36					1																																						aura_thorns_front	aura_thorns_back																		paladin_aura_thorns								0
-defiance	37					1				1						1																												aura_defiance_front	aura_defiance_back						skill_armor_percent												paladin_aura_defiance								0
+might	33	4				1				1					1																													aura_might_front	aura_might_back						damagepercent												paladin_aura_might								0
+prayer	34	5				1																																						aura_prayer_front	aura_prayer_back																		paladin_aura_prayer								0
+holyfire	35	4							1																																			aura_holyfire_front	aura_holyfire_back							7	4										paladin_aura_holyfire						90	145	0
+thorns	36	4				1																																						aura_thorns_front	aura_thorns_back																		paladin_aura_thorns								0
+defiance	37	5				1				1						1																												aura_defiance_front	aura_defiance_back						skill_armor_percent												paladin_aura_defiance								0
 thunderstorm	38																																												thunderstormback				thunderstormcast																						0
 lightningbolt	39																																																																						0
-blessedaim	40					1				1				1																														blessedaimfront	blessedaimback						item_tohit_percent												paladin_aura_blessedaim								0
-stamina	41					1				1																																		staminafront	staminaback						maxstamina												paladin_aura_stamina								0
-concentration	42					1				1					1																													concentrationfront	concentrationback						damagepercent												paladin_aura_concentration								0
-holywind	43					1																																						holyfreeze																			paladin_aura_holywind								0
-holywindcold	44					1							1																															null					ice_explode		velocitypercent							100	108	150	215	255	impact_bluemotize_1								0
-cleansing	45					1																																						cleansingfront	cleansingback																		paladin_aura_cleansing								0
-holyshock	46					1																																						holyshockfront	holyshockback						lightmaxdam												paladin_aura_holylight								0
-sanctuary	47					1			1																																			sanctuaryfront	sanctuaryback						skill_staminapercent												paladin_aura_sanctuary						86		0
-meditation	48					1				1																																		meditationfront	meditationback																		paladin_aura_meditation								0
-fanaticism	49					1				1				1	1																													fanaticismfront	fanaticismback						attackrate												paladin_aura_fanatacism								0
-redemption	50					1																																						redemptionfront	redemptionback																		paladin_aura_redemption								0
+blessedaim	40	4				1				1				1																														blessedaimfront	blessedaimback						item_tohit_percent												paladin_aura_blessedaim								0
+stamina	41	5				1				1																																		staminafront	staminaback						maxstamina												paladin_aura_stamina								0
+concentration	42	4				1				1					1																													concentrationfront	concentrationback						damagepercent												paladin_aura_concentration								0
+holywind	43	4							1																																			holyfreeze								7	4										paladin_aura_holywind						90	145	0
+holywindcold	44	4				1							1																															null					ice_explode		velocitypercent							100	108	150	215	255	impact_bluemotize_1								0
+cleansing	45	5				1																																						cleansingfront	cleansingback																		paladin_aura_cleansing								0
+holyshock	46	4							1																																			holyshockfront	holyshockback							7	4										paladin_aura_holylight						90	145	0
+sanctuary	47	4							1																																			sanctuaryfront	sanctuaryback							7	4										paladin_aura_sanctuary						90	145	0
+meditation	48	5				1				1																																		meditationfront	meditationback																		paladin_aura_meditation								0
+fanaticism	49	4				1				1				1	1																													fanaticismfront	fanaticismback						attackrate												paladin_aura_fanatacism								0
+redemption	50	5				1																																						redemptionfront	redemptionback																		paladin_aura_redemption								0
 battlecommand	51					1																																						battlecommand					battlecommandcast																						0
 preventheal	52									1																										1																																			0
 conversion	53																												1															conversionaura																			paladin_conversion								0
